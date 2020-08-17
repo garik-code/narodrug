@@ -1,0 +1,339 @@
+# Translation of Plugins - Redis Object Cache - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Redis Object Cache - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-15 06:43:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Redis Object Cache - Stable (latest release)\n"
+
+#: includes/ui/settings.php:74
+msgid "Resources"
+msgstr "Ресурсы"
+
+#: includes/ui/settings.php:112
+msgid "Your site meets the system requirements for the Pro version."
+msgstr "Ваш сайт соответствует требованиям для версии Pro."
+
+#: includes/class-plugin.php:233 includes/ui/tabs/metrics.php:17
+#: includes/ui/widget.php:16
+msgid "Time"
+msgstr "Время"
+
+#: includes/class-plugin.php:235 includes/ui/tabs/metrics.php:27
+#: includes/ui/widget.php:26
+msgid "Ratio"
+msgstr "Соотношение"
+
+#: includes/class-plugin.php:236 includes/ui/tabs/metrics.php:32
+#: includes/ui/widget.php:31
+msgid "Calls"
+msgstr "Вызовы"
+
+#: includes/class-plugin.php:234 includes/ui/tabs/metrics.php:22
+#: includes/ui/widget.php:21
+msgid "Bytes"
+msgstr "Байт"
+
+#: includes/ui/query-monitor.php:25
+msgid "Hits"
+msgstr "Попадания в кеш"
+
+#: includes/ui/query-monitor.php:20
+msgid "Hit Ratio"
+msgstr "Соотношение попаданий в кеш"
+
+#: includes/ui/query-monitor.php:30
+msgid "Misses"
+msgstr "Промахи"
+
+#: includes/ui/query-monitor.php:35
+msgid "Size"
+msgstr "Размер"
+
+#: includes/ui/query-monitor.php:45
+msgid "Errors"
+msgstr "Ошибки"
+
+#: includes/ui/query-monitor.php:82
+msgid "Non-persistent Groups"
+msgstr "Непостоянные группы"
+
+#: includes/ui/query-monitor.php:96
+msgid "Unflushable Groups"
+msgstr "Неочищаемые группы"
+
+#: includes/ui/query-monitor.php:110
+msgid "Metadata"
+msgstr "Метаданные"
+
+#: includes/ui/tabs/overview.php:43
+msgid "Outdated"
+msgstr "Устарело"
+
+#: includes/ui/tabs/overview.php:56
+msgid "Disabled:"
+msgstr "Отключено:"
+
+#: includes/ui/tabs/overview.php:90
+msgid "Connection"
+msgstr "Подключение"
+
+#: includes/ui/tabs/overview.php:109
+msgid "Cluster:"
+msgstr "Кластер:"
+
+#: includes/ui/tabs/overview.php:122
+msgid "Shards:"
+msgstr "Шардинг:"
+
+#: includes/ui/tabs/overview.php:178
+msgid "Connection Timeout:"
+msgstr "Таймаут подключения:"
+
+#. translators: %s = Redis connection/read timeout in seconds.
+#: includes/ui/tabs/overview.php:184 includes/ui/tabs/overview.php:201
+msgid "%ss"
+msgstr "%s с"
+
+#: includes/ui/tabs/overview.php:195
+msgid "Read Timeout:"
+msgstr "Таймаут чтения:"
+
+#: includes/ui/tabs/overview.php:212
+msgid "Retry Interval:"
+msgstr "Интервал повтора:"
+
+#. translators: %s = Redis retry interval in milliseconds.
+#: includes/ui/tabs/overview.php:218
+msgid "%sms"
+msgstr "%s мс"
+
+#: includes/ui/tabs/overview.php:229
+msgid "Redis Version:"
+msgstr "Версия Redis:"
+
+#: includes/cli/class-commands.php:60 includes/cli/class-commands.php:106
+msgid "A foreign object cache drop-in was found. To use Redis for object caching, run: `wp redis update-dropin`."
+msgstr "Было найдено вкрапление другого плагина объектного кеша. Для использования Redis запустите: `wp redis update-dropin`."
+
+#: includes/class-qm-output.php:24 includes/class-qm-collector.php:19
+msgid "Object Cache"
+msgstr "Объектный кеш"
+
+#: includes/class-qm-output.php:72
+msgid "The Redis Object Cache drop-in is not installed. Use WP CLI or go to \"Settings -> Redis\" to enable drop-in."
+msgstr "Вкрапление объектного кеша Redis не установлено. Используйте WP CLI или перейдите в \"Настройки > Redis\" для его включения."
+
+#: includes/class-qm-output.php:80
+msgid "WordPress is using a foreign object cache drop-in and Redis Object Cache is not being used. Use WP CLI or go to \"Settings -> Redis\" to enable drop-in."
+msgstr "Было найдено вкрапление другого плагина объектного кеша. Для использования Redis воспользуйтесь WP CLI или перейдите в \"Настройки > Redis\" для его включения."
+
+#: includes/class-plugin.php:141
+msgid "Metrics"
+msgstr "Метрики"
+
+#: includes/class-plugin.php:173
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/class-plugin.php:237
+msgid "Not enough data collected, yet."
+msgstr "Пока недостаточно данных."
+
+#: includes/class-plugin.php:238
+msgid "Enable object cache to collect data."
+msgstr "Включите объектный кеш для сбора данных."
+
+#. translators: %s = Action link to update the drop-in
+#: includes/class-plugin.php:444
+msgid "A foreign object cache drop-in was found. To use Redis for object caching, please <a href=\"%s\">enable the drop-in</a>."
+msgstr "Было найдено вкрапление другого плагина объектного кеша. Для использования Redis <a href=\"%s\">включите вкрапление</a>."
+
+#. translators: %1$d = number of objects. %2$s = human-readable size of cache.
+#. %3$s = name of the used client.
+#: includes/class-plugin.php:759
+msgid "Retrieved %1$d objects (%2$s) from Redis using %3$s."
+msgstr "Получено %1$d объектов (%2$s) от Redis через %3$s."
+
+#: includes/ui/tabs/overview.php:80
+msgid "This doesn’t appear to be a valid number."
+msgstr "Это не похоже на правильное число."
+
+#: includes/ui/settings.php:119
+msgid "Your site <i>does not</i> meet the requirements for the Pro version:"
+msgstr "Ваш сайт <i>не соответствует</i> требованиям для версии Pro:"
+
+#: includes/ui/settings.php:137
+msgid "The PhpRedis extension is not installed."
+msgstr "Расширение PhpRedis не установлено."
+
+#. translators: %s = PHP Version.
+#: includes/ui/settings.php:128
+msgid "The current version of PHP (%s) is too old. PHP 7.0 or newer is required."
+msgstr "Используемая версия PHP (%s) слишком старая. Требуется PHP 7.0 или более новая."
+
+#. translators: %s = Version of the PhpRedis extension.
+#: includes/ui/settings.php:144
+msgid "The current version of the PhpRedis extension (%s) is too old. PhpRedis 3.1.1 or newer is required."
+msgstr "Версия расширения PhpRedis (%s) устарела. Требуется PhpRedis 3.1.1 или новее."
+
+#. translators: %s = Link to the plugin setting screen
+#: includes/class-plugin.php:607
+msgid "A <u>business class</u> object cache backend. Truly reliable, highly-optimized and fully customizable, with a <u>dedicated engineer</u> when you most need it. <a href=\"%s\">Learn more »</a>"
+msgstr "<u>Премуим версия</u> плагина объектиного кэширования. Действительно надежная, высокооптимизированная и полностью настраиваемая, с <u>выделенным специалистом техподдержки</u>, когда вам это больше всего нужно. <a href=\"%s\">Подробнее</a>"
+
+#: includes/ui/tabs/overview.php:47
+msgid "Invalid"
+msgstr "Неверно"
+
+#: includes/ui/query-monitor.php:68
+msgid "Global Groups"
+msgstr "Глобальные группы"
+
+#: includes/ui/tabs/overview.php:46
+msgid "Valid"
+msgstr "Верно"
+
+#: includes/ui/query-monitor.php:15
+msgid "Status"
+msgstr "Состояние"
+
+#: includes/class-plugin.php:147
+msgid "Diagnostics"
+msgstr "Диагностика"
+
+#: includes/cli/class-commands.php:149 includes/class-plugin.php:551
+msgid "Object cache drop-in could not be updated."
+msgstr "Вкрапление объектного кеша не может быть обновлено."
+
+#: includes/cli/class-commands.php:147 includes/class-plugin.php:545
+msgid "Updated object cache drop-in and enabled Redis object cache."
+msgstr "Обновлено вкрапление объектного кеша и включен объектный кеш Redis"
+
+#: includes/cli/class-commands.php:100
+msgid "No object cache drop-in found."
+msgstr "Вкрапления объектного кеша не найдены"
+
+#: includes/cli/class-commands.php:58
+msgid "Redis object cache already enabled."
+msgstr "Объектный кеш Redis уже активен"
+
+#: includes/ui/tabs/overview.php:58 includes/class-qm-collector.php:48
+msgid "Yes"
+msgstr "Да"
+
+#: includes/class-plugin.php:135 includes/ui/tabs/overview.php:22
+msgid "Overview"
+msgstr "Обзор"
+
+#: includes/ui/tabs/overview.php:135
+msgid "Servers:"
+msgstr "Сервера:"
+
+#: includes/class-plugin.php:340 includes/class-qm-collector.php:48
+msgid "Disabled"
+msgstr "Отключено"
+
+#: includes/ui/tabs/overview.php:37
+msgid "Drop-in:"
+msgstr "Вкрапление:"
+
+#: includes/ui/tabs/overview.php:96
+msgid "Status:"
+msgstr "Состояние:"
+
+#: includes/class-plugin.php:357 includes/ui/tabs/overview.php:230
+msgid "Unknown"
+msgstr "Не известно"
+
+#. translators: %s = Action link to update the drop-in
+#: includes/class-plugin.php:440
+msgid "The Redis object cache drop-in is outdated. Please <a href=\"%s\">update the drop-in</a>."
+msgstr "Вкрапление объектного кеша Redis устарело. <a href=\"%s\">Обновите его</a>."
+
+#: includes/class-plugin.php:480
+msgid "Object cache could not be flushed."
+msgstr "Объектный кеш не может быть очищен"
+
+#: includes/class-plugin.php:474
+msgid "Object cache flushed."
+msgstr "Объектный кеш очищен"
+
+#: includes/cli/class-commands.php:115 includes/class-plugin.php:526
+msgid "Object cache could not be disabled."
+msgstr "Объектный кеш не может быть отключен"
+
+#: includes/cli/class-commands.php:113 includes/class-plugin.php:521
+msgid "Object cache disabled."
+msgstr "Объектный кеш отключен"
+
+#: includes/cli/class-commands.php:76 includes/class-plugin.php:508
+msgid "Object cache could not be enabled."
+msgstr "Объектный кеш не может быть активирован"
+
+#: includes/cli/class-commands.php:74 includes/class-plugin.php:502
+msgid "Object cache enabled."
+msgstr "Объектный кеш активен"
+
+#: includes/ui/tabs/overview.php:41
+msgid "Not installed"
+msgstr "Неустановленные"
+
+#: includes/class-plugin.php:353
+msgid "Connected"
+msgstr "Подключено"
+
+#: includes/class-plugin.php:105
+msgid "Redis"
+msgstr "Redis"
+
+#: includes/ui/tabs/overview.php:246
+msgid "Disable Object Cache"
+msgstr "Отключить объектный кеш"
+
+#: includes/ui/tabs/overview.php:250
+msgid "Enable Object Cache"
+msgstr "Включить объектный кеш"
+
+#: includes/ui/tabs/overview.php:240
+msgid "Flush Cache"
+msgstr "Очистить кеш"
+
+#: includes/ui/tabs/overview.php:74
+msgid "Max. TTL:"
+msgstr "Макс время жизни:"
+
+#: includes/ui/tabs/overview.php:65
+msgid "Key Prefix:"
+msgstr "Префикс ключей:"
+
+#: includes/ui/tabs/overview.php:102
+msgid "Host:"
+msgstr "Хост:"
+
+#: includes/ui/tabs/overview.php:148
+msgid "Port:"
+msgstr "Порт:"
+
+#: includes/ui/tabs/overview.php:162
+msgid "Password:"
+msgstr "Password:"
+
+#: includes/ui/tabs/overview.php:29
+msgid "Client:"
+msgstr "Клиент:"
+
+#. Plugin Name of the plugin
+#: includes/class-plugin.php:104 includes/class-plugin.php:161
+#: includes/ui/settings.php:18
+msgid "Redis Object Cache"
+msgstr "Redis объектный кэш"
+
+#: includes/ui/tabs/overview.php:171
+msgid "Database:"
+msgstr "База данных:"

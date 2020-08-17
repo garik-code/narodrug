@@ -1,0 +1,519 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 09:50:27
+* VERSION: 1.3.30
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 7.3.15                                |7.2.33
+OS__________________: Linux                                 |Linux
+CREATED_____________: 2020-04-22 13:57:40
+WP VERSION__________: 5.3.2
+DUP VERSION_________: 1.3.30
+DB__________________: 5.7.23
+DB TABLES___________: 25
+DB ROWS_____________: 1,808
+DB FILE SIZE________: 5.91MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.2.33 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache/2.4.25 (Debian)
+DOC ROOT____________: "/var/www/html"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://localhost/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ENGINE______: "shellexec_unzip"
+SET DIR PERMS_______: 1
+DIR PERMS VALUE_____: 1363
+SET FILE PERMS______: 1
+FILE PERMS VALUE____: 1204
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "/var/www/html/20200422_d0bdd0b0d180d0bed0b4d0bdd0b0d18_[HASH]_20200422165740_archive.zip"
+SIZE________________: 167.71MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+
+
+START ZIP FILE EXTRACTION SHELLEXEC >>> 
+<<< Shell-Exec Unzip Complete.
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+PERMISSION UPDATES:
+    -DIRS:  '755'
+    -FILES: '644'
+
+STEP-1 COMPLETE @ 09:51:40 - RUNTIME: 72.6833 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 09:53:13
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.7.29 -- Build Server: 5.7.23
+FILE SIZE:	dup-database__[HASH].sql (1.96MB)
+TIMEOUT:	5000
+MAXPACK:	4194304
+SQLMODE:	ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[/var/www/html/dup-installer/dup-installer-data__[HASH].sql]
+COLLATE FB:	Off
+[PHP ERR][WARN] MSG:count(): Parameter must be an array or an object that implements Countable [CODE:2|FILE:/var/www/html/dup-installer/ctrls/ctrl.s2.dbinstall.php|LINE:386]
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	243
+
+wp_asl_categories: (14)
+wp_asl_configs: (54)
+wp_asl_countries: (242)
+wp_asl_markers: (150)
+wp_asl_settings: (2)
+wp_asl_storelogos: (1)
+wp_asl_stores: (27)
+wp_asl_stores_categories: (27)
+wp_asl_stores_view: (0)
+wp_commentmeta: (0)
+wp_comments: (1)
+wp_duplicator_packages: (0)
+wp_evf_entries: (0)
+wp_evf_entrymeta: (0)
+wp_evf_sessions: (0)
+wp_links: (0)
+wp_options: (207)
+wp_postmeta: (704)
+wp_posts: (177)
+wp_term_relationships: (49)
+wp_term_taxonomy: (16)
+wp_termmeta: (0)
+wp_terms: (16)
+wp_usermeta: (42)
+wp_users: (2)
+Removed '38' cache/transient rows
+
+INSERT DATA RUNTIME: 2.8708 sec.
+STEP-2 COMPLETE @ 09:53:16 - RUNTIME: 2.9380 sec.
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 09:53:20
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "Народная дружина"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "/var/www/u0965377/data/www/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf"
+path_new______________: "/var/www/html"
+siteurl_______________: "http://localhost"
+url_old_______________: "http://xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru"
+url_new_______________: "http://localhost"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbhost________________: "database"
+dbuser________________: "docker"
+dbname________________: "docker"
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_username___________: ""
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wp_asl_categories"_______________________________[ROWS:    14][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/u0965377/data/www/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  2:"\/var\/www\/u0965377\/data\/www\/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fu0965377%2Fdata%2Fwww%2Fxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  4:"\var\www\u0965377\data\www\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  5:"\\var\\www\\u0965377\\data\\www\\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cu0965377%5Cdata%5Cwww%5Cxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  7:"//xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "//localhost"
+	SEARCH  8:"\/\/xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "\/\/localhost"
+	SEARCH  9:"%2F%2Fxn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_asl_configs"__________________________________[ROWS:    54][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/u0965377/data/www/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  2:"\/var\/www\/u0965377\/data\/www\/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fu0965377%2Fdata%2Fwww%2Fxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  4:"\var\www\u0965377\data\www\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  5:"\\var\\www\\u0965377\\data\\www\\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cu0965377%5Cdata%5Cwww%5Cxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  7:"//xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "//localhost"
+	SEARCH  8:"\/\/xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "\/\/localhost"
+	SEARCH  9:"%2F%2Fxn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_asl_countries"________________________________[ROWS:   242][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/u0965377/data/www/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  2:"\/var\/www\/u0965377\/data\/www\/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fu0965377%2Fdata%2Fwww%2Fxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  4:"\var\www\u0965377\data\www\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  5:"\\var\\www\\u0965377\\data\\www\\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cu0965377%5Cdata%5Cwww%5Cxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  7:"//xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "//localhost"
+	SEARCH  8:"\/\/xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "\/\/localhost"
+	SEARCH  9:"%2F%2Fxn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_asl_markers"__________________________________[ROWS:   150][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/u0965377/data/www/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  2:"\/var\/www\/u0965377\/data\/www\/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fu0965377%2Fdata%2Fwww%2Fxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  4:"\var\www\u0965377\data\www\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  5:"\\var\\www\\u0965377\\data\\www\\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cu0965377%5Cdata%5Cwww%5Cxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  7:"//xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "//localhost"
+	SEARCH  8:"\/\/xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "\/\/localhost"
+	SEARCH  9:"%2F%2Fxn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_asl_settings"_________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/u0965377/data/www/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  2:"\/var\/www\/u0965377\/data\/www\/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fu0965377%2Fdata%2Fwww%2Fxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  4:"\var\www\u0965377\data\www\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  5:"\\var\\www\\u0965377\\data\\www\\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cu0965377%5Cdata%5Cwww%5Cxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  7:"//xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "//localhost"
+	SEARCH  8:"\/\/xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "\/\/localhost"
+	SEARCH  9:"%2F%2Fxn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_asl_storelogos"_______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/u0965377/data/www/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  2:"\/var\/www\/u0965377\/data\/www\/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fu0965377%2Fdata%2Fwww%2Fxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  4:"\var\www\u0965377\data\www\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  5:"\\var\\www\\u0965377\\data\\www\\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cu0965377%5Cdata%5Cwww%5Cxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  7:"//xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "//localhost"
+	SEARCH  8:"\/\/xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "\/\/localhost"
+	SEARCH  9:"%2F%2Fxn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_asl_stores"___________________________________[ROWS:    27][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/u0965377/data/www/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  2:"\/var\/www\/u0965377\/data\/www\/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fu0965377%2Fdata%2Fwww%2Fxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  4:"\var\www\u0965377\data\www\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  5:"\\var\\www\\u0965377\\data\\www\\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cu0965377%5Cdata%5Cwww%5Cxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  7:"//xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "//localhost"
+	SEARCH  8:"\/\/xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "\/\/localhost"
+	SEARCH  9:"%2F%2Fxn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_asl_stores_categories"________________________[ROWS:    27][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/u0965377/data/www/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  2:"\/var\/www\/u0965377\/data\/www\/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fu0965377%2Fdata%2Fwww%2Fxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  4:"\var\www\u0965377\data\www\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  5:"\\var\\www\\u0965377\\data\\www\\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cu0965377%5Cdata%5Cwww%5Cxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  7:"//xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "//localhost"
+	SEARCH  8:"\/\/xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "\/\/localhost"
+	SEARCH  9:"%2F%2Fxn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_asl_stores_view"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/u0965377/data/www/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  2:"\/var\/www\/u0965377\/data\/www\/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fu0965377%2Fdata%2Fwww%2Fxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  4:"\var\www\u0965377\data\www\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  5:"\\var\\www\\u0965377\\data\\www\\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cu0965377%5Cdata%5Cwww%5Cxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  7:"//xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "//localhost"
+	SEARCH  8:"\/\/xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "\/\/localhost"
+	SEARCH  9:"%2F%2Fxn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_evf_entries"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_evf_entrymeta"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_evf_sessions"_________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   207][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/u0965377/data/www/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  2:"\/var\/www\/u0965377\/data\/www\/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fu0965377%2Fdata%2Fwww%2Fxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  4:"\var\www\u0965377\data\www\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  5:"\\var\\www\\u0965377\\data\\www\\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cu0965377%5Cdata%5Cwww%5Cxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  7:"//xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "//localhost"
+	SEARCH  8:"\/\/xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "\/\/localhost"
+	SEARCH  9:"%2F%2Fxn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:   704][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/u0965377/data/www/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  2:"\/var\/www\/u0965377\/data\/www\/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fu0965377%2Fdata%2Fwww%2Fxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  4:"\var\www\u0965377\data\www\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  5:"\\var\\www\\u0965377\\data\\www\\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cu0965377%5Cdata%5Cwww%5Cxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  7:"//xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "//localhost"
+	SEARCH  8:"\/\/xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "\/\/localhost"
+	SEARCH  9:"%2F%2Fxn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:   177][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/u0965377/data/www/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  2:"\/var\/www\/u0965377\/data\/www\/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fu0965377%2Fdata%2Fwww%2Fxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  4:"\var\www\u0965377\data\www\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  5:"\\var\\www\\u0965377\\data\\www\\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cu0965377%5Cdata%5Cwww%5Cxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  7:"//xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "//localhost"
+	SEARCH  8:"\/\/xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "\/\/localhost"
+	SEARCH  9:"%2F%2Fxn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:    49][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/u0965377/data/www/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  2:"\/var\/www\/u0965377\/data\/www\/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fu0965377%2Fdata%2Fwww%2Fxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  4:"\var\www\u0965377\data\www\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  5:"\\var\\www\\u0965377\\data\\www\\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cu0965377%5Cdata%5Cwww%5Cxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  7:"//xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "//localhost"
+	SEARCH  8:"\/\/xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "\/\/localhost"
+	SEARCH  9:"%2F%2Fxn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:    16][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/u0965377/data/www/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  2:"\/var\/www\/u0965377\/data\/www\/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fu0965377%2Fdata%2Fwww%2Fxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  4:"\var\www\u0965377\data\www\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  5:"\\var\\www\\u0965377\\data\\www\\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cu0965377%5Cdata%5Cwww%5Cxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  7:"//xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "//localhost"
+	SEARCH  8:"\/\/xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "\/\/localhost"
+	SEARCH  9:"%2F%2Fxn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:    16][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/u0965377/data/www/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  2:"\/var\/www\/u0965377\/data\/www\/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fu0965377%2Fdata%2Fwww%2Fxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  4:"\var\www\u0965377\data\www\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  5:"\\var\\www\\u0965377\\data\\www\\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cu0965377%5Cdata%5Cwww%5Cxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  7:"//xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "//localhost"
+	SEARCH  8:"\/\/xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "\/\/localhost"
+	SEARCH  9:"%2F%2Fxn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:    42][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/u0965377/data/www/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  2:"\/var\/www\/u0965377\/data\/www\/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fu0965377%2Fdata%2Fwww%2Fxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  4:"\var\www\u0965377\data\www\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  5:"\\var\\www\\u0965377\\data\\www\\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cu0965377%5Cdata%5Cwww%5Cxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  7:"//xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "//localhost"
+	SEARCH  8:"\/\/xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "\/\/localhost"
+	SEARCH  9:"%2F%2Fxn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/var/www/u0965377/data/www/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  2:"\/var\/www\/u0965377\/data\/www\/xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  3:"%2Fvar%2Fwww%2Fu0965377%2Fdata%2Fwww%2Fxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  4:"\var\www\u0965377\data\www\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "/var/www/html"
+	SEARCH  5:"\\var\\www\\u0965377\\data\\www\\xn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "\/var\/www\/html"
+	SEARCH  6:"%5Cvar%5Cwww%5Cu0965377%5Cdata%5Cwww%5Cxn----7sbabrcoq2bcfezg9b6m.xn--p1acf" => "%2Fvar%2Fwww%2Fhtml"
+	SEARCH  7:"//xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "//localhost"
+	SEARCH  8:"\/\/xn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "\/\/localhost"
+	SEARCH  9:"%2F%2Fxn-----6kcabvcqs7bcff1agfr3ag3u.wordpress.regruhosting.ru" => "%2F%2Flocalhost"
+	SEARCH 10:"https://localhost" ===============================> "http://localhost"
+	SEARCH 11:"https:\/\/localhost" =============================> "http:\/\/localhost"
+	SEARCH 12:"https%3A%2F%2Flocalhost" =========================> "http%3A%2F%2Flocalhost"
+--------------------------------------
+SCANNED:	Tables:25 	|	 Rows:1731 	|	 Cells:10783 
+UPDATED:	Tables:3 	|	 Rows:147 	|	 Cells:163 
+ERRORS:		0 
+RUNTIME:	1.747000 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME ""docker""
+	UPDATE DB_USER ""docker""
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""database""
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache '.htaccess__[HASH]' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Deactivated plugins list here: Array
+(
+    [0] => really-simple-ssl/rlrsssl-really-simple-ssl.php
+    [1] => simple-google-recaptcha/simple-google-recaptcha.php
+    [2] => js_composer/js_composer.php
+)
+
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 09:53:22 - RUNTIME: 2.0097 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+====================================

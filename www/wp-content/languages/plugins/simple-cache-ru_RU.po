@@ -1,0 +1,205 @@
+# Translation of Plugins - Simple Cache - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Simple Cache - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-22 11:36:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Simple Cache - Development (trunk)\n"
+
+#: inc/class-sc-settings.php:99 inc/class-sc-settings.php:125
+msgid "You need a higher level of permission."
+msgstr "Вам требуется более высокий уровень доступа."
+
+#. translators: Param 1 is link to settings page.
+#: simple-cache.php:69
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/class-sc-notices.php:137
+msgid "Attempt Fix"
+msgstr "Попробовать исправить"
+
+#: inc/class-sc-notices.php:129
+msgid "Simple Cache could not write advanced-cache.php to your wp-content directory or the file has been tampered with. Either click \"Attempt Fix\" or add the following code manually to <code>wp-content/advanced-cache.php</code>:"
+msgstr "Simple Cache не смог записать файл advanced-cache.php в папке wp-content или этот файл был изменен. Нажмите \"Попробовать исправить\" или добавьте следующий код в <code>wp-content/advanced-cache.php</code>:"
+
+#: inc/class-sc-notices.php:121
+msgid "Simple Cache could not write object-cache.php to your wp-content directory or the file has been tampered with. Either click \"Attempt Fix\" or add the following code manually to <code>wp-content/object-cache.php</code>:"
+msgstr "Simple Cache не смог создать файл object-cache.php в папке wp-content или этот файл был изменен. Нажмите \"Попробовать исправить\" или добавьте следующий код в <code>wp-content/object-cache.php</code>:"
+
+#: inc/class-sc-notices.php:113
+msgid "Simple Cache could not create the necessary config file. Either click \"Attempt Fix\" or add the following code to <code>%s</code>:"
+msgstr "Simple Cache не смог создать нужный файл конфигурации. Нажмите \"Попробовать исправить\" или добавьте следующий код в <code>%s</code>:"
+
+#: inc/class-sc-notices.php:107
+msgid "<code>define( \"WP_CACHE\", true );</code> is not in wp-config.php. Either click \"Attempt Fix\" or add the code manually."
+msgstr "Константа <code>define( \"WP_CACHE\", true );</code> не определена в wp-config.php. Нажмите \"Попробовать исправить\" или добавьте код вручную."
+
+#: inc/class-sc-notices.php:101
+msgid "Simple Cache is not able to write data to the cache directory."
+msgstr "Simple Cache не может записать данные в папку кэша."
+
+#: inc/class-sc-notices.php:97
+msgid "Simple Cache has encountered the following error(s):"
+msgstr "Simple Cache столкнулся со следующей ошибкой:"
+
+#: inc/class-sc-settings.php:346
+msgid "Neither <a href=\"https://pecl.php.net/package/memcached\">Memcached</a>, <a href=\"https://pecl.php.net/package/memcache\">Memcache</a>, nor <a href=\"https://pecl.php.net/package/redis\">Redis</a> PHP extensions are set up on your server."
+msgstr "Расширения PHP <a href=\"https://pecl.php.net/package/memcached\">Memcached</a>, <a href=\"https://pecl.php.net/package/memcache\">Memcache</a> или <a href=\"https://pecl.php.net/package/redis\">Redis</a> не были найдены у вас на сервере."
+
+#: inc/class-sc-settings.php:238 inc/class-sc-settings.php:305
+msgid "weeks"
+msgstr "недель"
+
+#: inc/class-sc-settings.php:237 inc/class-sc-settings.php:304
+msgid "days"
+msgstr "дней"
+
+#: inc/class-sc-settings.php:236 inc/class-sc-settings.php:303
+msgid "hours"
+msgstr "часов"
+
+#: inc/class-sc-settings.php:291
+msgid "Enable Regex"
+msgstr "Включить регулярные выражения"
+
+#: inc/class-sc-settings.php:284
+msgid "Allows you to add URL(s) to be exempt from page caching. One URL per line. URL(s) can be full URLs (http://google.com) or absolute paths (/my/url/). You can also use wildcards like so /url/* (matches any url starting with /url/)."
+msgstr "Позволяет добавлять URL для исключения их страничного кэширования. Один URL на строку. URL могут быть полными (http://google.com) или абсолютным путем (/my/url/). Также можно использовать маски, как например /url/* (подходит для любого URL начинающегося с /url/)."
+
+#: inc/class-sc-settings.php:324
+msgid "When enabled, things like database query results will be stored in memory. Memcached and Redis are suppported. Note that if the proper <a href='http://pecl.php.net/package/memcached'>Memcached</a>, <a href='http://pecl.php.net/package/memcache'>Memcache</a>, or <a href='https://pecl.php.net/package/redis'>Redis</a> PHP extensions aren't loaded, they won't show as options below."
+msgstr "При включении такие вещи, как например, запросы в БД будут кэшироваться в память. Сейчас поддерживаются Memcached или Redis. Если нужные расширения PHP <a href='http://pecl.php.net/package/memcached'>Memcached</a>, <a href='http://pecl.php.net/package/memcache'>Memcache</a> или <a href='https://pecl.php.net/package/redis'>Redis</a> не загружены то они не будут показаны в настройках"
+
+#: inc/class-sc-settings.php:280
+msgid "Exception URL(s)"
+msgstr "Исключение URL"
+
+#: inc/class-sc-settings.php:311
+msgid "Object Cache (Redis or Memcached)"
+msgstr "Кэш объектов (Redis или Memcached)"
+
+#: inc/class-sc-settings.php:366
+msgid "When enabled pages will be gzip compressed at the PHP level. Note many hosts set up gzip compression in Apache or nginx."
+msgstr "При включении страницы будут сжиматься gzip на уровне PHP. Внимание! Хост может уже использовать сжатие gzip на уровне Apache или nginx."
+
+#: inc/class-sc-settings.php:359
+msgid "Enable gzip Compression"
+msgstr "Включить сжатие gzip"
+
+#: inc/class-sc-settings.php:353
+msgid "Compression"
+msgstr "Сжатие"
+
+#: inc/class-sc-settings.php:252
+msgid "When enabled, pages will be compressed. This is a good thing! This should always be enabled unless it causes issues."
+msgstr "При включении настройки страницы будут сжиматься. Это хорошо и должно быть включено если только не доставляет проблем."
+
+#: inc/class-sc-settings.php:245
+msgid "Enable Compression"
+msgstr "Включить сжатие"
+
+#: inc/class-sc-settings.php:61 inc/class-sc-settings.php:375
+msgid "Purge Cache"
+msgstr "Очистить кэш"
+
+#: inc/class-sc-settings.php:374
+msgid "Save Changes"
+msgstr "Сохранить"
+
+#: inc/class-sc-settings.php:297
+msgid "Expire page cache after"
+msgstr "Время кэша страницы истекает через"
+
+#: inc/class-sc-settings.php:263
+msgid "Page Cache"
+msgstr "Кеш страниц"
+
+#: inc/class-sc-settings.php:235 inc/class-sc-settings.php:302
+msgid "minutes"
+msgstr "минут"
+
+#: inc/class-sc-settings.php:231
+msgid "Expire the cache after"
+msgstr "Кеш истекает через"
+
+#. Author of the plugin
+msgid "Taylor Lovett"
+msgstr "Taylor Lovett"
+
+#. Description of the plugin
+msgid "A simple caching plugin that just works."
+msgstr "Очень простой кеширующий плагин, который просто работает."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://taylorlovett.com"
+msgstr "http://taylorlovett.com"
+
+#: inc/class-sc-settings.php:328
+msgid "In Memory Cache"
+msgstr "Кеш в памяти"
+
+#: inc/class-sc-settings.php:317
+msgid "Enable In-Memory Object Caching"
+msgstr "Включить кэширование объектов в память"
+
+#: inc/class-sc-settings.php:275
+msgid "When enabled, entire front end pages will be cached."
+msgstr "При включении все страницы сайта будут кэшироваться"
+
+#: inc/class-sc-settings.php:268
+msgid "Enable Page Caching"
+msgstr "Включить кэширование страниц"
+
+#: inc/class-sc-settings.php:227
+msgid "Turn this on to get started. This setting turns on caching and is really all you need."
+msgstr "Включите эту настройку чтобы начать. Она разрешит кэширование и это всё что вам нужно!"
+
+#: inc/class-sc-settings.php:220
+msgid "Enable Caching"
+msgstr "Включить кэширование"
+
+#: inc/class-sc-settings.php:213 inc/class-sc-settings.php:224
+#: inc/class-sc-settings.php:249 inc/class-sc-settings.php:272
+#: inc/class-sc-settings.php:289 inc/class-sc-settings.php:321
+#: inc/class-sc-settings.php:363
+msgid "Yes"
+msgstr "Да"
+
+#: inc/class-sc-settings.php:212 inc/class-sc-settings.php:223
+#: inc/class-sc-settings.php:248 inc/class-sc-settings.php:271
+#: inc/class-sc-settings.php:288 inc/class-sc-settings.php:320
+#: inc/class-sc-settings.php:362
+msgid "No"
+msgstr "Нет"
+
+#: inc/class-sc-settings.php:210
+msgid "Enable Advanced Mode"
+msgstr "Включить расширенный режим"
+
+#: inc/class-sc-settings.php:202
+msgid "Simple Cache Settings"
+msgstr "Настройки Simple Cache"
+
+#. Plugin Name of the plugin
+#: inc/class-sc-settings.php:41 inc/class-sc-settings.php:87
+msgid "Simple Cache"
+msgstr "Simple Cache"
+
+#: inc/class-sc-notices.php:63
+msgid "Turn On Caching"
+msgstr "Включить кэширование"
+
+#: inc/class-sc-notices.php:62
+msgid "Simple Cache won't work until you turn it on."
+msgstr "Simple Cache не будет работать пока Вы его не включите"
+
+#: inc/class-sc-cron.php:55
+msgid "Simple Cache Purge Interval"
+msgstr "Интервал очистки Simple Cache"
