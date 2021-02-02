@@ -69,7 +69,8 @@ define( 'DB_CHARSET', 'utf8mb4' );
 define( 'DB_COLLATE', '' );
 define('WP_REDIS_HOST', 'redis');
 define('WP_CACHE', true);
-
+define( 'WP_HOME', 'http://95.215.111.4' );
+define( 'WP_SITEURL', 'http://95.215.111.4' );
 /**#@+
 
  * Authentication Unique Keys and Salts.
