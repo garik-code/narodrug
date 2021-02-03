@@ -1,0 +1,2855 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sabai-directory\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-01 00:57+0900\n"
+"PO-Revision-Date: 2017-08-03 13:10+0000\n"
+"Last-Translator: Il Gran Capo <illatooscurodelsesso@gmail.com>\n"
+"Language-Team: Italian\n"
+"Language: it-IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#, php-format
+msgid "%s reviewed %s"
+msgstr ""
+
+#, php-format
+msgid "Limit the number of %s allowed in the frontend"
+msgstr "Limita il numero di %s permessi nel frontend"
+
+msgid "Allow users to send messages via contact us form"
+msgstr "Permetti agli utenti di inviare messaggi attraverso il contact form"
+
+msgid "Send messages to author email address"
+msgstr "Invia i messaggi all'indirizzo email dell'autore"
+
+msgid "Send messages to contact info email address (if any)"
+msgstr "Invia i messaggi all'email di contatto (se presente)"
+
+msgid "Allow users to post reviews"
+msgstr "Permetti agli utenti di scrivere recensioni"
+
+msgid "Single listing page tabs"
+msgstr ""
+
+msgid ""
+"Enter the number of days before the expiration date on which this "
+"notification will be sent."
+msgstr ""
+"Inserisci il numero di giorni prima della scadenza della pubblicazione in "
+"cui inviare un'email di notifica all'autore"
+
+msgid "Claim ID"
+msgstr "Di richiesta di gestione"
+
+msgid "Claim Date"
+msgstr "Data richiesta di gestione"
+
+msgid "Claim Type"
+msgstr "Tipo di richiesta di gestione"
+
+msgid "User"
+msgstr "Utente"
+
+msgid "Comment"
+msgstr "Commento"
+
+msgid "Status"
+msgstr "Stato"
+
+msgid "Delete"
+msgstr "Elimina"
+
+#, php-format
+msgid "All (%d)"
+msgstr "Tutti (%d)"
+
+#, php-format
+msgid "Claim %s"
+msgstr "Richiesta di Gestione %s"
+
+msgid "New listing"
+msgstr "Nuova Pubblicazione"
+
+msgid "Existing listing"
+msgstr "Pubblicazione esistente"
+
+msgid "Disable map"
+msgstr "Disabilita mappa"
+
+msgid "Basic Settings"
+msgstr "Configurazioni basilari"
+
+msgid "Default map type"
+msgstr "Tipo di mappa di default"
+
+msgid "Map height"
+msgstr "Altezza mappa"
+
+msgid "Default style"
+msgstr "Stile di default"
+
+msgid "Google map style"
+msgstr "Stile della mappa google"
+
+msgid "Distance mode"
+msgstr "Modalità distanza"
+
+msgid "Kilometers"
+msgstr "Chilometri"
+
+msgid "Miles"
+msgstr "Miglia"
+
+msgid "Default latitude"
+msgstr "Latitudine di default"
+
+msgid "Default longitude"
+msgstr "Longitudine di default"
+
+msgid "Enable scrollwheel zooming on the map"
+msgstr "Abilita lo zoom della mappa con la rotellina del mouse"
+
+msgid "Map infobox width"
+msgstr "Dimensione infobox su mappa"
+
+msgid "List View Settings"
+msgstr "Configurazioni visualizzazione a lista"
+
+msgid "Display small map"
+msgstr "Mostra mappa piccola"
+
+msgid "Show a scroll bar when there are many listings to display"
+msgstr "Mostra una barra di scorrimento quando le pubblicazini sono troppe"
+
+msgid "Map width"
+msgstr "Largezza mappa"
+
+msgid ""
+"The horizontal display ratio (12 being 100% wide) of the map in List view"
+msgstr ""
+"La proporzione della visualizzazione orizzontale (12 = 100%) sulla mappa "
+"nella modalità lista"
+
+msgid "Map infobox"
+msgstr "Infobox sulla mappa"
+
+msgid ""
+"Display map infobox on the map when hover overing listing titles or clicking "
+"map markers"
+msgstr ""
+"Mostra l'infobox sulla mappa quando ci passi sopra con il mouse o clicchi "
+"sui segnaposti"
+
+msgid "Display map infobox on the map when clicking map markers"
+msgstr "Mostra la infobox sulla mappa solo quando clicchi sui segnaposti"
+
+msgid "Never display map infobox on the map"
+msgstr "Non mostrare mai la infobox sulla mappa"
+
+msgid "Map Marker Settings"
+msgstr "Configurazioni segnaposti su mappa"
+
+msgid "Custom marker icon URL"
+msgstr "Icona segnaposto personalizzata (URL)"
+
+msgid "Custom marker icon size"
+msgstr "Dimensione icona segnaposto personalizzata"
+
+msgid "Enable marker clusters"
+msgstr "Abilita raggruppamento segnaposto"
+
+msgid "Custom marker cluster image directory URL"
+msgstr "Icona segnaposto raggruppata personalizzata (URL)"
+
+#, php-format
+msgid "Default: %s"
+msgstr ""
+
+msgid "Other Settings"
+msgstr "Altrre configurazioni"
+
+msgid "Default zoom level for single listing"
+msgstr "Livello di Zoom di default per una singola pubblicazione"
+
+msgid "Show all listings in Map view"
+msgstr "Mostra tutte le pubblicazioni nella vista mappa"
+
+msgid "Draw radius search circle"
+msgstr "Disegna l'area di ricerca"
+
+msgid "Radius search circle stroke color"
+msgstr "Colore bordo dell'area di ricerca"
+
+msgid "Radius search circle fill color"
+msgstr "Colore di riempimento dell'area di ricerca"
+
+#, php-format
+msgid "%d km/mi"
+msgstr ""
+
+msgid "None"
+msgstr "Nessuna"
+
+msgid "Keyword Search Settings"
+msgstr "Configurazione parole chiave di ricerca"
+
+msgid "Disable keyword search"
+msgstr "Disabilita parole chiave di ricerca"
+
+msgid "Min. length of keywords in characters"
+msgstr "Lungheza minima delle parole chiave di ricerca"
+
+msgid "Match any or all"
+msgstr "Abbina qualsiasi o tutte"
+
+msgid "Match any"
+msgstr "Abbina qualsiasi"
+
+msgid "Match all"
+msgstr "Abbina tutte"
+
+msgid "Enable auto suggestion"
+msgstr "Abilita suggerimenti automatici"
+
+msgid "Auto suggest listings"
+msgstr "Suggerisci pubblicazioni"
+
+msgid "Redirect to suggested listing page when clicked"
+msgstr "Reindirizza alla pubblicazione suggerita quando cliccata"
+
+msgid "Number of auto suggested listings to display"
+msgstr "Numero delle pubblicazioni suggerite da mostrare"
+
+msgid "Suggested listings header text"
+msgstr "Testo sopra le pubblicazioni suggerite"
+
+msgid "Suggested listing icon"
+msgstr "Icona pubblicazioni suggerite"
+
+msgid "Auto suggest categories"
+msgstr "Suggerisci categorie"
+
+msgid "Redirect to suggested category page when clicked"
+msgstr "Reindirizza alla pagina delle categorie suggerite quando cliccate"
+
+msgid "Number of auto suggested categories to display"
+msgstr "Numero delle categorie suggerite da mostrare"
+
+msgid "Suggested categories header text"
+msgstr "Testo sopra le categorie suggerite"
+
+msgid "Suggested category icon"
+msgstr "Icona categorie suggerite"
+
+msgid "Category Search Settings"
+msgstr "Configurazioni categorie suggerite"
+
+msgid "Disable category search"
+msgstr "Disabilita ricerca per categoria"
+
+msgid "Category depth (0 for unlimited)"
+msgstr "Profondità categorie (0 senza limiti)"
+
+msgid "Hide if no posts"
+msgstr "Nascondi se nessun post presente"
+
+msgid "Hide post count"
+msgstr "Nascondi il numero di post"
+
+msgid "Search Filter Settings"
+msgstr "Configurazioni filtri di ricerca"
+
+msgid "Disable filters"
+msgstr "Disabilita i filtri"
+
+msgid "Always show filters"
+msgstr "Mostra sempre i filtri"
+
+msgid "Display filter form above search results"
+msgstr "Mostra un form per i filtri sopra i risultati di ricerca"
+
+msgid "Auto submit filter form when value(s) changed"
+msgstr "Auto accetta i filtri quando il valore cambia"
+
+msgid "Custom fields to include in search"
+msgstr "Campi personalizzati da includere nella ricerca"
+
+msgid "Location Search Settings"
+msgstr "Configurazioni ricerca per località"
+
+msgid "Disable location search"
+msgstr "Disabilita la ricerca per località"
+
+msgid "Default search radius"
+msgstr "Raggio di ricerca di default"
+
+msgid "Auto suggest location addresses"
+msgstr "Suggerisci indirizzi per le località"
+
+msgid "Suggested location addresses header text"
+msgstr "Testo sopra gli indirizzi delle località suggerite"
+
+msgid "Auto suggest cities"
+msgstr "Suggerisci città"
+
+msgid "Number of auto suggested cities to display"
+msgstr "Numero delle città suggerite da mostrare"
+
+msgid "City"
+msgstr "Città"
+
+msgid "Suggested cities header text"
+msgstr "Testo sopra le città suggerite"
+
+msgid "Suggested city icon"
+msgstr "Icona città suggerite"
+
+msgid "Suggested location address icon"
+msgstr "Icona località suggerite"
+
+msgid "Auto suggest states/provinces/regions"
+msgstr "Suggerisci nazioni/province/regioni"
+
+msgid "Number of auto suggested states/provinces/regions to display"
+msgstr "Numero di nazioni/province/regioni suggerite da mostrare"
+
+msgid "State / Province / Region"
+msgstr "Nazioni / Province / Regioni"
+
+msgid "Suggested states/provinces/regions header text"
+msgstr "Testo sopra le nazioni/province/regioni suggerite"
+
+msgid "Suggested state/province/region icon"
+msgstr "Icona nazioni/province/regioni"
+
+msgid "Auto suggest zip/postal codes"
+msgstr "Suggerisci CAP"
+
+msgid "Number of auto suggested zip/postal codes to display"
+msgstr "Numero di CAP suggeriti da mostrare"
+
+msgid "Postal / Zip code"
+msgstr "Codice CAP"
+
+msgid "Suggested zip/postal codes header text"
+msgstr "Testo sopra i CAP suggeriti"
+
+msgid "Suggested zip/postal code icon"
+msgstr "Icona CAP suggeriti"
+
+msgid "Auto suggest countries"
+msgstr "Suggerisci nazioni"
+
+msgid "Number of auto suggested countries to display"
+msgstr "Numero di nazioni da suggerire"
+
+msgid "Country"
+msgstr "Nazioni"
+
+msgid "Suggested countries header text"
+msgstr "Testo sopra le nazioni suggerite"
+
+msgid "Suggested country icon"
+msgstr "Icona nazioni suggerite"
+
+msgid "Newest First"
+msgstr "I più recenti"
+
+msgid "Oldest First"
+msgstr "I più vecchi"
+
+msgctxt "sort"
+msgid "Title"
+msgstr "Titolo"
+
+msgid "Random"
+msgstr "Casuale"
+
+msgid "Distance"
+msgstr "Distanza"
+
+msgid "Helpfullness"
+msgstr "Disponibilità"
+
+msgid "List view"
+msgstr "Vista Lista"
+
+msgid "Grid view"
+msgstr "Vista Griglia"
+
+msgid "Map view"
+msgstr "Vista Mappa"
+
+msgid "Listings per page"
+msgstr "Pubblicazioni per pagina"
+
+#, php-format
+msgid "(max. limit %d)"
+msgstr "(limite max %d)"
+
+msgid "Reviews per page"
+msgstr "Recensioni per pagina"
+
+msgid "Photos per page"
+msgstr "Foto per pagina"
+
+msgid "Listings sorting options"
+msgstr "Opzioni di ordinamento pubblicazioni"
+
+msgid "Listings default sorting order"
+msgstr "Ordina le pubblicazioni come default"
+
+msgid "Reviews sorting options"
+msgstr "Opzioni ordinamento recensioni"
+
+msgid "Reviews default sorting order"
+msgstr "Ordine ordinamento recensioni di default"
+
+msgid "Photos sorting options"
+msgstr "Opzioni ordinamento foto"
+
+msgid "Photos default sorting order"
+msgstr "Ordinamento foto di default"
+
+msgid "Listings view options"
+msgstr "Opzioni vista pubblicazioni"
+
+msgid "Listings default view"
+msgstr "Vista di pubblicazioni di default"
+
+msgid "Grid view column count"
+msgstr "Numero di colonne per la vista a griglia"
+
+msgid "Disable masonry layout in Grid view"
+msgstr "Disabilita il layout masonry nella vista a griglia"
+
+msgid "slug"
+msgstr ""
+
+msgid ""
+"Slugs must consist of lowercase alphanumeric characters and underscores."
+msgstr ""
+"Gli slugs possono essere solo parole minuscole, alfanumeriche e con "
+"l'underscore"
+
+msgid "Category list page column count"
+msgstr "Numero colonne per la pagina delle categorie"
+
+msgid "Hide empty categories on category list page"
+msgstr "Nascondi le categorie vuote nella pagina"
+
+msgid "Hide post counts on category list page"
+msgstr "Nascondi il numero di post nella pagina delle categorie"
+
+msgid "Hide child categories on category list page"
+msgstr "Nascondi le categorie figlie nella pagina"
+
+msgid "Number of child categories to display on category list page"
+msgstr "Numero delle categorie figlie da mostrare nella pagina"
+
+msgid "Disable photo comments"
+msgstr "Disabilita i commenti alle foto"
+
+msgid "Stick featured listings to the top of the directory index page"
+msgstr ""
+"Fissa le pubblicazioni sponsorizzate nella parte top della pagina principale "
+"della directory"
+
+msgid "Stick featured listings to the top of single category pages"
+msgstr ""
+"Fissa le pubblicazioni sponsorizzate nella parte top della pagina delle "
+"categorie"
+
+msgid "List claimed listings only in user profile"
+msgstr "Mostra le pubblicazioni gestite solo nella propria pagina di profilo"
+
+msgid "Show user registration form when guest user is submitting a listing"
+msgstr ""
+"Mostra il form di registrazione utente quando un guest user sta inviando una "
+"richiesta di pubblicazione"
+
+msgid "Allow guest user to skip user registration"
+msgstr "Permetti agli utenti di saltare la fase di registrazione"
+
+msgid "Spam Score Threshold"
+msgstr "Soglia punteggio spam"
+
+msgid ""
+"When a post is flagged, the post is assigned a \"spam score\". Posts with "
+"spam scores exceeding the threshold value are marked as spam and moved to "
+"trash automatically by the system. Also, posts with higher number of votes "
+"will have higher threshold. For example, if the value set here is 11, and a "
+"post has 10 votes, then the spam score threshold for the post will be 14 (11 "
+"+ 0.3 x 10)."
+msgstr ""
+"Quando un post è segnalato, a questo viene assegnato un \"punteggio di "
+"spam\". Quando questo punteggio supera il valore di soglia stabilito, viene "
+"flaggato come spam e spostato nel cestino dal sistema. Vale anche i post con "
+"il numero più alto di voti. Ad esempio, se il valore è messo a 11 e il post "
+"ha 10 voti, lo spam score sarà 14 (11 + 0,3 x 10)."
+
+msgid "Listings:"
+msgstr "Pubblicazioni:"
+
+msgid "number of rating stars"
+msgstr "Numero di stelle per la valutazione"
+
+msgid "number of \"helpful\" votes"
+msgstr "numero di voti per \"recensione utile\""
+
+msgid "number of votes"
+msgstr "numero di voti"
+
+msgid "Auto-delete Settings"
+msgstr "Configurazioni di auto-cancellazione"
+
+msgid "Auto-delete spam"
+msgstr "Auto elimina spam"
+
+msgid ""
+"When checked, posts that have been marked as spam will be deleted by the "
+"system after the period of time specified in the \"Delete Spam After\" "
+"option."
+msgstr ""
+"Quando selezionato, i post che sono stati flaggati come spam verranno "
+"cancellati automaticamente dal sistema dopo il periodo specificato "
+"nell'opzione \"Cancella spam dopo\"."
+
+msgid "Delete spam after:"
+msgstr "Cancella spam dopo:"
+
+msgid ""
+"Enter the number of days the system will wait before auto-deleting posts "
+"marked as spam."
+msgstr ""
+"Inserisci il numero di giorni per i quali il sistema aspetterà prima di "
+"procedere alla cancellazione dei post segnalati come spam."
+
+msgid "Reject"
+msgstr "Rifiuta"
+
+msgid "Approve"
+msgstr "Approva"
+
+msgid ""
+"This claim may not be approved because the listing has already been claimed "
+"by another user."
+msgstr ""
+"La richiesta di gestione non può essere approvata perchè è già in gestione a "
+"un altro utente."
+
+#, php-format
+msgid "%s submitted %s for listing %s"
+msgstr "%s Ha richiesto la gestione %s per la pubblicazione %s"
+
+msgid "Unknown"
+msgstr "Sconosciuto"
+
+msgid "Contact name"
+msgstr "Nome per i contatti"
+
+msgid "Admin note"
+msgstr "Nota Admin"
+
+msgid ""
+"This note may be used for administration purpose or embedded in notifcation "
+"mail using the {claim_admin_note} tag."
+msgstr ""
+"Questa nota può essere usata dagli amministratori e aggiunta all'email di "
+"notifica {claim_admin_note} tag."
+
+#, php-format
+msgid "The most recent %d listings"
+msgstr "Le %d pubblicazioni più recenti"
+
+#, php-format
+msgid "The most recent %d reviews"
+msgstr "Le %d recensioni più recenti"
+
+#, php-format
+msgid "The most recent %d listings and reviews"
+msgstr "Le %d pubblicazioni e recensioni più recenti"
+
+msgid "All listings"
+msgstr "Tutte le pubblicazioni"
+
+msgid "All photos"
+msgstr "Tutte le foto"
+
+msgid "All reviews"
+msgstr "Tutte le recensioni"
+
+msgid ""
+"Please provide additional information that will allow us to verify your "
+"claim."
+msgstr ""
+"Fornisci ulteriori informazioni che possano aiutarci a verificare la "
+"correttezza della tua richiesta per la gestione della pubblicazione."
+
+msgid "Submit Claim"
+msgstr "Invia richiesta"
+
+msgid "Your claim has been submitted successfully and approved."
+msgstr "La tua richiesta di gestione è stata inviata con successo e approvata."
+
+msgid ""
+"Your claim has been submitted successfully. We will review your claim "
+"details and notify you if it is approved."
+msgstr ""
+"La tua richiesta di gestione è stata inviata. Verificheremo la richiesta e "
+"ti verrà notificata la sua eventuale approvazione."
+
+msgid "Sort by Views"
+msgstr "Ordina per visualizzazioni"
+
+msgid "Sort by Leads"
+msgstr "Ordina per contatti"
+
+msgid "Title"
+msgstr "Titolo"
+
+msgctxt "date created"
+msgid "Date"
+msgstr "Data"
+
+msgid "Featured"
+msgstr "Sponsorizzata"
+
+msgid "Untitled"
+msgstr "Senza titolo"
+
+msgid "No"
+msgstr "No"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "View listing"
+msgstr "Vedi pubblicazione"
+
+msgid "Claim listing"
+msgstr "Richiedi gestione pubblicazione"
+
+msgid "Delete listing"
+msgstr "Elimina pubblicazione"
+
+msgid "The listing has been updated successfully."
+msgstr "La pubblicazione è stata aggiornata con successo."
+
+#, php-format
+msgid "The most recent %d listings in %s"
+msgstr "Le %d pubblicazioni più recenti in %s"
+
+#, php-format
+msgid "The most recent %d reviews in %s"
+msgstr "Le %d recensioni più recenti in %s"
+
+#, php-format
+msgid "The most recent %d listings and reviews in %s"
+msgstr "Le %d pubblicazioni e recensioni più recenti in %s"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "View"
+msgstr "Vedi"
+
+#, php-format
+msgid "Message by %s"
+msgstr "Messaggio da %s"
+
+msgid "Bulk Actions"
+msgstr "Azioni globali"
+
+msgid "Apply"
+msgstr "Applica"
+
+msgid "Submit"
+msgstr "Invia"
+
+msgid "Upload Photos"
+msgstr "Carica foto"
+
+msgid "Add Photos"
+msgstr "Aggiungi foto"
+
+msgid "Write a Review"
+msgstr "Scrivi una recensione"
+
+msgid "Switch to list view"
+msgstr "Passa alla vista elenco"
+
+msgid "Switch to grid view"
+msgstr "Passa a vista griglia"
+
+msgid "Switch to map view"
+msgstr "Passa a vista mappa"
+
+msgid "Helpfulness"
+msgstr "Utilità"
+
+msgid "Rating Stars"
+msgstr "Valutazione in stelle"
+
+msgid "Rating Criteria"
+msgstr "Criteri di valutazione"
+
+msgid ""
+"Note that changing the slug will reset the ratings of the criterion in all "
+"reviews. Also the overall ratings in both listings and reviews will stay the "
+"same even when a criterion is added or removed until the reviews are updated."
+msgstr ""
+"Nota che cambiando lo slug delle valutazioni, resetterai tutti i criteri. "
+"Inoltre la valutazione globale delle pubblicazioni e recensioni rimarranno "
+"le stesse anche se il criterio sarà aggiunto o rimosso fino a quando le "
+"recensioni non saranno aggiornate."
+
+msgid "Rating Step"
+msgstr ""
+
+msgid "Disable phone number field"
+msgstr "Disabilita campo numero di telefono"
+
+msgid "Disable e-mail field"
+msgstr "Disabilita campo E-mail"
+
+msgid "Disable mobile number field"
+msgstr "Disabilita campo Numero Cellulare"
+
+msgid "Disable fax number field"
+msgstr "Disabilita campo numero di fax"
+
+msgid "Disable website field"
+msgstr "Disabilita campo indirizzo website"
+
+msgid "Require phone number"
+msgstr "Obbligo inserimento numero di telefono"
+
+msgid "Require mobile number"
+msgstr "Obbligo inserimento numero cellulare"
+
+msgid "Require fax number"
+msgstr "Obbligo inserimento numro di fax"
+
+msgid "Require e-mail address"
+msgstr "Obbligo inserimento indirizzo email"
+
+msgid "Require website URL"
+msgstr "Obbligo inserimento indirizzo sito web"
+
+msgid ""
+"Auto-populate e-mail address field with the current user's e-mail address"
+msgstr "Auto completa il campo e-mail con quello dell'utente"
+
+msgid "Auto-populate website URL field with the current user's website URL"
+msgstr "Auto completa il campo website con quello dell'utente"
+
+msgid "Require Twitter username"
+msgstr "Obbligo inserimento utente twitter"
+
+msgid "Require Facebook URL"
+msgstr "Obbligo inserimento Url Facebook"
+
+msgid "Require Google+ URL"
+msgstr "Obbligo inserimento Url google"
+
+msgid "Maximum photo upload size"
+msgstr "Dimensione massima foto per caricamento"
+
+msgid ""
+"The maximum file size of uploaded files in kilobytes. Leave this field blank "
+"for no limit."
+msgstr ""
+"La dimensione massima in KB per il caricamento di una singola foto. Lascia "
+"questo campo vuoto se non vi sono limiti"
+
+msgid "You must enter a Twitter username."
+msgstr "Devi inserire uno username twitter"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "@username"
+msgstr "@nomeutente"
+
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+msgid "Google+ URL"
+msgstr "Google+ URL"
+
+msgid "End Date"
+msgstr "Data fine"
+
+msgid "Approved"
+msgstr "Approvato"
+
+msgid "Rejected"
+msgstr "Rifiutato"
+
+msgid "Pending"
+msgstr "In Attesa"
+
+msgid "Listing Submitted Admin Notification Email"
+msgstr ""
+"Indirizzo email per le notifiche all'Admin a riguardo delle pubblicazioni "
+"approvate"
+
+msgid ""
+"If enabled, a notification email is sent to administrators whenever a "
+"listing that requires approval is submitted."
+msgstr ""
+"Se abilitata, una notifica verrà inviata all'email dell'amministratore per "
+"le pubblicazioni che richiedono l'approvazione"
+
+msgid "[{site_name}] A new listing (ID: {listing_id}) has been submitted"
+msgstr ""
+"[{site_name}] Una nuova pubblicazione (ID: {listing_id}) è stata inserita "
+"nel sito."
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A new listing \"{listing_title}\" has been submitted on {listing_date}.\n"
+"\n"
+"Submitted by {listing_author_name} ({listing_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{listing_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can view the listing at {listing_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Ciaoi {recipient_name},\n"
+"                \n"
+"Una nuova pubblicazione \"{listing_title}\" è stata inserita il "
+"{listing_date}.\n"
+"\n"
+"Inviata da {listing_author_name} ({listing_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{listing_summary}\n"
+"------------------------------------\n"
+"\n"
+"Puoi visionarla al seguente indirizzo {listing_url}.\n"
+"\n"
+"Saluti,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Review Submitted Admin Notification Email"
+msgstr "Notifica email agli amministratori per le recensioni inviate"
+
+msgid ""
+"If enabled, a notification email is sent to administrators whenever a review "
+"that requires approval is submitted."
+msgstr ""
+"Se abilitata, una notifica email verrà inviata agli amministratori, sia che "
+"sia richiesta l'approvazione che sia approvata automaticamente"
+
+msgid "[{site_name}] A new review (ID: {review_id}) has been submitted"
+msgstr "[{site_name}] una nuova recensione (ID: {review_id}) è stata inviata."
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A review of {listing_title} titled \"{review_title}\" has been submitted on "
+"{review_date}.\n"
+"\n"
+"Submitted by {review_author_name} ({review_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{review_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can view the review at {review_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Ciao {recipient_name},\n"
+"                \n"
+"Una nuova recensione su {listing_title} con il titolo \"{review_title}\" è "
+"stata scritta il {review_date}.\n"
+"\n"
+"Autore {review_author_name} ({review_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{review_summary}\n"
+"------------------------------------\n"
+"\n"
+"Puoi visionarla al seguente indirizzo {review_url}.\n"
+"\n"
+"Saluti,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Photo Submitted Admin Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to administrators whenever a photo "
+"that requires approval is submitted."
+msgstr ""
+
+msgid "[{site_name}] A new photo (ID: {photo_id}) has been submitted"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"\n"
+"A new photo has been added to {listing_title} on {photo_date}.\n"
+"\n"
+"Submitted by {photo_author_name} ({photo_author_email}):\n"
+"\n"
+"You can view the photo at {photo_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Lead Submitted Admin Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to administrators whenever a lead "
+"that requires approval is submitted."
+msgstr ""
+
+msgid "[{site_name}] A new lead (ID: {lead_id}) has been submitted"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"\n"
+"A new lead has been added to {listing_title} on {lead_date}.\n"
+"\n"
+"Submitted by {lead_author_name} ({lead_author_email}):\n"
+"\n"
+"You can view the lead at {lead_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Listing Approved Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to the user when a listing the user "
+"has submitted is approved."
+msgstr ""
+
+msgid "[{site_name}] Your listing has been published"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The listing you have submitted has been approved and is now published.\n"
+"\n"
+"------------------------------------\n"
+"{listing_title}\n"
+"------------------------------------\n"
+"\n"
+"You can view the listing at {listing_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Review Approved Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to the user when a review the user "
+"has submitted is approved."
+msgstr ""
+
+msgid "[{site_name}] Your review has been published"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The review of {listing_title} you have submitted has been approved and is "
+"now published.\n"
+"\n"
+"------------------------------------\n"
+"{review_title}\n"
+"------------------------------------\n"
+"\n"
+"You can view the review at {review_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Photo Approved Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to the user when a photo the user "
+"has submitted is approved."
+msgstr ""
+
+msgid "[{site_name}] Your photo has been published"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The photo of {listing_title} you have submitted has been approved and is now "
+"published.\n"
+"\n"
+"You can view the photo at {photo_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Comment Posted Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to the review author when a comment "
+"is submitted."
+msgstr ""
+
+msgid "[{site_name}] You have a new comment"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A comment has been added to your review \"{review_title}\".\n"
+"\n"
+"Comment by {comment_author_name}:\n"
+"\n"
+"------------------------------------\n"
+"{comment_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can view the comment at {review_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Comment Posted Notification Email (Photo)"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to the photo author when a comment "
+"is submitted."
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A comment has been added to your photo.\n"
+"\n"
+"Comment by {comment_author_name}:\n"
+"\n"
+"------------------------------------\n"
+"{comment_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can view the comment at {photo_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Review Added Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to the listing owner when a review "
+"is posted."
+msgstr ""
+
+msgid "[{site_name}] A new review has been posted"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A review of {listing_title} titled \"{review_title}\" has been posted on "
+"{review_date}.\n"
+"\n"
+"Posted by {review_author_name} ({review_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{review_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can read the full review at {review_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Photo Added Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to the listing owner when photos "
+"are added to the listing."
+msgstr ""
+
+msgid "[{site_name}] A new photo has been added"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A new photo has been added to your listing {listing_title} on {photo_date} "
+"by {photo_author_name} ({photo_author_email}).\n"
+"\n"
+"You can view the photo at {photo_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Lead Added Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to the listing owner when leads are "
+"added to the listing."
+msgstr ""
+
+msgid "[{site_name}] A new lead has been added"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A new lead has been added to your listing {listing_title} on {lead_date} by "
+"{lead_author_name} ({lead_author_email}).\n"
+"\n"
+"You can view the lead at {lead_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Listing Claim Expiration Notification Email"
+msgstr ""
+
+#, php-format
+msgid ""
+"If enabled, a notification email is sent to the listing owner from %d days "
+"before expiration of a claim until the claim expires."
+msgstr ""
+
+msgid "[{site_name}] Your listing claim will expire in {expiration_date_diff}"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"Your claim on listing {listing_title} will expire on {expiration_date}.\n"
+"\n"
+"You can renew the claim at {listing_renew_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Listing Claim Expired Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to the listing owner after a claim "
+"has expired."
+msgstr ""
+
+msgid "[{site_name}] Your listing claim has expired on {expiration_date}"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"Your claim on listing {listing_title} has expird {expiration_date_diff}.\n"
+"\n"
+"You can renew the claim at {listing_renew_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Listing Published Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to users of selected roles whenever "
+"a listing is published."
+msgstr ""
+
+msgid "[{site_name}] A new listing (ID: {listing_id}) has been published"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A new listing \"{listing_title}\" has been published on {listing_date}.\n"
+"\n"
+"Submitted by {listing_author_name} ({listing_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{listing_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can view the listing at {listing_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Review Published Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to users of selected roles whenever "
+"a review is published."
+msgstr ""
+
+msgid "[{site_name}] A new review (ID: {review_id}) has been published"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A review of {listing_title} titled \"{review_title}\" has been published on "
+"{review_date}.\n"
+"\n"
+"Submitted by {review_author_name} ({review_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{review_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can read the full review at {review_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Photo Published Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to users of selected roles whenever "
+"a photo is published."
+msgstr ""
+
+msgid "[{site_name}] A new photo (ID: {photo_id}) has been published"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A photo for {listing_title} titled \"{photo_title}\" has been published on "
+"{photo_date}.\n"
+"\n"
+"Submitted by {photo_author_name} ({photo_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{photo_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can view the photo at {photo_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Listing Flagged Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to users of selected roles whenever "
+"a listing is flagged."
+msgstr ""
+
+msgid "[{site_name}] Listing (ID: {listing_id}) has been flagged"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The following listing has been flagged on {flag_date} by {flag_user_name} "
+"({flag_user_email}):\n"
+"\n"
+"------------------------------------\n"
+"{listing_title}\n"
+"------------------------------------\n"
+"\n"
+"Reason: {flag_reason}\n"
+"Score: {flag_score} (total: {flag_score_total})\n"
+"\n"
+"You can view the listing at {listing_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Review Flagged Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to users of selected roles whenever "
+"a review is flagged."
+msgstr ""
+
+msgid "[{site_name}] Review (ID: {review_id}) has been flagged"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The following review has been flagged on {flag_date} by {flag_user_name} "
+"({flag_user_email}):\n"
+"\n"
+"------------------------------------\n"
+"{review_title} (listing: {listing_title})\n"
+"------------------------------------\n"
+"\n"
+"Reason: {flag_reason}\n"
+"Score: {flag_score} (total: {flag_score_total})\n"
+"\n"
+"You can view the review at {review_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Photo Flagged Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to users of selected roles whenever "
+"a photo is flagged."
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The following photo has been flagged on {flag_date} by {flag_user_name} "
+"({flag_user_email}):\n"
+"\n"
+"------------------------------------\n"
+"{photo_title} (listing: {listing_title})\n"
+"------------------------------------\n"
+"\n"
+"Reason: {flag_reason}\n"
+"Score: {flag_score} (total: {flag_score_total})\n"
+"\n"
+"You can view the photo at {photo_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Listing Claim Approved Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to the user when a listing claim "
+"the user has submitted is approved."
+msgstr ""
+
+msgid "[{site_name}] Your claim has been approved"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The ownership claim for {listing_title} you submitted on {claim_date} has "
+"been approved. You can view the listing at {listing_url}.\n"
+"\n"
+"{claim_admin_note}\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Listing Claim Rejected Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to the user when a listing claim "
+"the user has submitted is rejected."
+msgstr ""
+
+msgid "[{site_name}] Your claim was rejected"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The ownership claim for {listing_title} you submitted on {claim_date} was "
+"rejected. You can view the listing at {listing_url}.\n"
+"\n"
+"{claim_admin_note}\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Listing Claim Pending Admin Notification Email"
+msgstr ""
+
+msgid ""
+"If enabled, a notification email is sent to administrators whenever a "
+"listing claim that requires approval is submitted."
+msgstr ""
+
+msgid "[{site_name}] A new listing claim (ID: {claim_id}) has been submitted"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"\n"
+"A new listing claim has been submitted for {listing_title} on {claim_date}.\n"
+"\n"
+"Submitted by {claim_user_name} ({claim_user_email}):\n"
+"\n"
+"{claim_comment}\n"
+"\n"
+"To approve or reject the claim, go to {claim_admin_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+#, php-format
+msgid "%s by %s in %s"
+msgstr "%s di %s in %s"
+
+#, php-format
+msgid "%s by %s"
+msgstr "%s di %s"
+
+#, php-format
+msgid "%s in %s"
+msgstr "%s in %s"
+
+msgid "Show first photo as featured"
+msgstr "Mostra la prima foto come in risalto"
+
+msgid "Featured photo size"
+msgstr "Dimensione foto in risalto"
+
+msgid "Show thumbnail photos"
+msgstr "Mostra copertine foto"
+
+msgid "Number of thumbnail columns"
+msgstr "Numero colonne per le copertine foto"
+
+msgid "Maximum number of thumbnails to display (0 for unlimited)"
+msgstr "Numero massimo di copertine da mostrare (0 senza limiti)"
+
+msgid "Hide thumbnails on small-screen devices"
+msgstr "Nascondi copertine sui device con schermi piccoli"
+
+msgid "Show sub-ratings if any"
+msgstr "Mostra commenti alle recensioni se presenti"
+
+msgid "Rating separator:"
+msgstr "Separatore delle valutazioni:"
+
+msgid "Prefix text:"
+msgstr "Testo prefix:"
+
+msgid "Suffix text:"
+msgstr "Testo suffix:"
+
+msgid "Categories"
+msgstr "Categorie"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Description"
+msgstr "Descrizione"
+
+msgid "Parent Category"
+msgstr "Categoria Padre"
+
+msgid "Thumbnail"
+msgstr "Copertina"
+
+msgid "Map Marker"
+msgstr "Segnaposto su mappa"
+
+msgid "Recent Listings"
+msgstr "Pubblicazioni recenti"
+
+msgid "Recent Listing Reviews"
+msgstr "Recensioni pubblicazioni recenti"
+
+msgid "Recent Listing Photos"
+msgstr "Foto pubblicazioni recenti"
+
+msgid "Featured Listings"
+msgstr "Pubblicazioni in risalto"
+
+msgid "Related Listings"
+msgstr "Pubblicazioni simili"
+
+msgid "Nearby Listings"
+msgstr "Pubblicazioni vicine"
+
+msgid "Listing Categories"
+msgstr "Categorie pubblicazione"
+
+msgid "Listing Map"
+msgstr "Mappa pubblicazioni"
+
+msgid "Listing Photos"
+msgstr "Foto pubblicazioni"
+
+msgid "Contact Listing"
+msgstr "Contatti pubblicazioni"
+
+msgid "Recently posted listings"
+msgstr "Pubblicazioni recentemente aggiunte"
+
+msgid "Recently posted listing reviews"
+msgstr "Recensioni recentemente aggiunte"
+
+msgid "Recently posted listing photos"
+msgstr "Foto pubblicazioni recentemente aggiunte"
+
+msgid "A list of categories"
+msgstr "La lista delle categorie"
+
+msgid "A call to action button"
+msgstr "Bottone \"segui un azione\""
+
+msgid "Location map of current listing"
+msgstr "Mappa del luogo della pubblicazione corrente"
+
+msgid "Photos of current listing"
+msgstr "Foto della pubblicazione corrente"
+
+msgid "Contact us form for currently displayed listing"
+msgstr "Form del modulo di contatto per la pubblicazione corrente"
+
+msgid "Do not cache output"
+msgstr "Non usare la cache per l'output"
+
+msgid "Number of listings to show"
+msgstr "Numero di pubblicazioni da mostrare"
+
+msgid "Show summary"
+msgstr "Mostra sommario"
+
+msgid "Number of characters in the summary"
+msgstr "Numero di caratteri nel sommario"
+
+msgid "Sort by"
+msgstr "Ordina per"
+
+msgid "Show claimed listings only"
+msgstr "Mostra solo pubblicazioni gestite"
+
+msgid "Select directory"
+msgstr "Seleziona directory"
+
+msgid "All directories"
+msgstr "Tutte le directory"
+
+msgid "Number of reviews to show"
+msgstr "Numero di recensioni da mostrare"
+
+msgid "Show published date"
+msgstr "Mostra la data di pubblicazione"
+
+msgid "Show author"
+msgstr "Mostra autore"
+
+msgid "Number of columns"
+msgstr "Numero di colonne"
+
+msgid "Number of rows"
+msgstr "Numero di righe"
+
+msgid "Photo type"
+msgstr "Tipo di foto"
+
+msgid "Official photos only"
+msgstr "Solo foto ufficiali"
+
+msgid "Non-official photos only"
+msgstr "Solo foto non ufficiali"
+
+msgid "Show post count"
+msgstr "Mostra il numero di post"
+
+msgid "Show thumbnail"
+msgstr "Mostra copertina"
+
+msgid "Button label"
+msgstr "Titolo bottone"
+
+msgid "Button size"
+msgstr "Dimensione bottone"
+
+msgid "Mini"
+msgstr "Mini"
+
+msgid "Small"
+msgstr "Piccolo"
+
+msgid "Medium"
+msgstr "Medio"
+
+msgid "Large"
+msgstr "Grande"
+
+msgid "Button color"
+msgstr "Colore bottone"
+
+msgid "White"
+msgstr "Bianco"
+
+msgid "Blue"
+msgstr "Blue"
+
+msgid "Light blue"
+msgstr "Azzurro"
+
+msgid "Green"
+msgstr "Verde"
+
+msgid "Orange"
+msgstr "Arancione"
+
+msgid "Red"
+msgstr "Rosso"
+
+msgid "Button position"
+msgstr "Posizione bottone"
+
+msgid "Align left"
+msgstr "Allinea sinistra"
+
+msgid "Align right"
+msgstr "Allinea destra"
+
+msgid "Number of photos"
+msgstr "Numero di foto"
+
+msgid "More Listings"
+msgstr "Altre pubblicazioni"
+
+msgid "All categories"
+msgstr "Tutte le categorie"
+
+msgid "Select directory or category"
+msgstr "Seleziona una directory o una categoria"
+
+msgid "Show rating"
+msgstr "Mostra valutazione"
+
+msgid "Show number of reviews"
+msgstr "Mostra numero di recensioni"
+
+msgid "Show number of photos"
+msgstr "Mostra numero di foto"
+
+msgid "Directory Index Page"
+msgstr ""
+
+msgid "Category List Page"
+msgstr "Pagina elenco categorie"
+
+#, php-format
+msgid "%s Categories"
+msgstr "%s Categorie"
+
+msgid "Review List Page"
+msgstr "Pagina elenco recensioni"
+
+msgid "Photo List Page"
+msgstr "Pagina elenco foto"
+
+#, php-format
+msgid "%s Photos"
+msgstr "%s Foto"
+
+msgid "Single Listing Page"
+msgstr "Pagina pubblicazione semplice"
+
+#, php-format
+msgid "%s Listing"
+msgstr "%s pubblicazione"
+
+msgid "Claim Listing Page"
+msgstr "Pagina richiesta gestione pubblicazione"
+
+msgid "Directory Dashboard Page"
+msgstr ""
+
+msgid "Directory Dashboard"
+msgstr ""
+
+msgid "Add Listing Page"
+msgstr "Pagina aggiungi una pubblicazione"
+
+#, php-format
+msgid "Posts by %s"
+msgstr "Scritto da %s"
+
+msgctxt "tab"
+msgid "Listings"
+msgstr "Pubblicazioni"
+
+msgctxt "tab"
+msgid "Reviews"
+msgstr "Recensioni"
+
+#, php-format
+msgctxt "tab"
+msgid "%s (%d)"
+msgstr ""
+
+msgctxt "tab"
+msgid "Photos"
+msgstr "Foto"
+
+#, php-format
+msgid "Add Photos - %s"
+msgstr "Aggiungi foto - %s"
+
+msgid "Claim Listing"
+msgstr "Gestisci pubblicazione"
+
+msgid "Edit Listing"
+msgstr "Modifica pubblicazione"
+
+msgid "Delete Listing"
+msgstr "Cancella pubblicazione"
+
+msgid "Contact Us"
+msgstr "Contattaci"
+
+msgctxt "dashboard"
+msgid "Messages"
+msgstr "Messaggi"
+
+msgid "Rating Details"
+msgstr "Dettagli valutazioni"
+
+msgid "Claims"
+msgstr "Richieste gestione"
+
+msgid "General"
+msgstr "Generale"
+
+#, php-format
+msgctxt "Settings page title"
+msgid "%s Settings"
+msgstr "%s Configurazioni"
+
+msgid "Access Control"
+msgstr "Controllo accesso"
+
+msgid "Emails"
+msgstr "Emails"
+
+msgctxt "settings"
+msgid "Map"
+msgstr "Mappa"
+
+msgctxt "settings"
+msgid "Search"
+msgstr "Cerca"
+
+msgctxt "settings"
+msgid "Claims"
+msgstr "Richiesta Gestioni"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Custom Tab Sample"
+msgstr "Esempio tab personalzzato"
+
+msgid "Settings"
+msgstr "Configurazioni"
+
+msgid "Verified"
+msgstr "Verificato"
+
+msgid "This is an owner verified listing."
+msgstr "Questa è una struttura verificata"
+
+msgid "Edit"
+msgstr "Modifica"
+
+#, php-format
+msgid "Edit this %s"
+msgstr "Modifica questa %s"
+
+#, php-format
+msgid "Delete this %s"
+msgstr "Elimina questa %s"
+
+#, php-format
+msgid "Claim this %s"
+msgstr "Richiedi di gestire questa 5s"
+
+msgid "This is a photo uploaded by the listing owner."
+msgstr "Questa è una foto caricata dal gestore della pubblicazione."
+
+msgid "Claim expired"
+msgstr "Gestione pubblicazione scaduta"
+
+msgid "Claim expiring (7 days)"
+msgstr "La gestione della pubblicazione scadrà tra 7 giorni"
+
+msgid "Claim expiring (30 days)"
+msgstr "La gestione della pubblicazione scadrà tra 30 giorni"
+
+msgid "Featured/Unfeatured"
+msgstr "In evidenza / Non in evidenza"
+
+msgid "Unfeatured"
+msgstr "on in evidenza"
+
+msgid "Official photos"
+msgstr "Foto ufficiali"
+
+msgid "Review photos"
+msgstr "Rivedi foto"
+
+msgid "Mark Official"
+msgstr "Flagga come ufficiale"
+
+msgid "Unmark Official"
+msgstr "Flagga come non ufficiale"
+
+#, php-format
+msgid "Deleted %d expired listing claims"
+msgstr "Eliminate %d pubblicazioni scadute"
+
+#, php-format
+msgid "Moved %d listings with expired claims to trash"
+msgstr "Spostate %d pubblicazioni nel cestino"
+
+#, php-format
+msgid "Deleted %d spam posts (listings and/or reviews) from trash"
+msgstr "Eliminati %d spam post (pubblicazioni e/o recensioni) dal cestino"
+
+#, php-format
+msgid "%s listing"
+msgid_plural "%s listings"
+msgstr[0] "%s pubblicazione"
+msgstr[1] "%s pubblicazioni"
+
+msgid "Detailed view"
+msgstr "Vista dettagliata"
+
+msgid "Summary view"
+msgstr "Vista sommario"
+
+#, php-format
+msgid "Tab view - %s"
+msgstr ""
+
+msgid "Enable this field for unclaimed listings"
+msgstr "Abilita questo campo per le pubblicazioni non gestite"
+
+msgid ""
+"Select categories to which the field belongs. The field will then be enabled "
+"only when one of the following categories are selected."
+msgstr ""
+"Seleziona le categorie a cui questo campo appartiene. Il campo sarà "
+"abilitato solo quando una delle seguenti categorie è selezionata."
+
+msgid "Add More"
+msgstr "Aggiungi altro"
+
+#, php-format
+msgid "Select %s"
+msgstr "Seleziona %s"
+
+msgctxt "tab"
+msgid "Bookmarks"
+msgstr ""
+
+msgid "Bookmark"
+msgstr ""
+
+msgid "Number of bookmarks"
+msgstr "Numero dei bookmarks"
+
+msgid "Show number of bookmarks"
+msgstr "Mostra il numero dei bookmarks"
+
+msgid "Bookmarks"
+msgstr ""
+
+#, php-format
+msgid "%s added a new listing to %s"
+msgstr "%s ha aggiunto una nuova pubblicazione su %s"
+
+#, php-format
+msgid "%s wrote a review for %s"
+msgstr "%s ha scritto una recensione per %s"
+
+#, php-format
+msgid "%s added a new photo to %s"
+msgstr "%s ha aggiunto una nuova foto su %s"
+
+#, php-format
+msgid "%1$s commented on a <a href=\"%2$s\">review</a>"
+msgstr "%1$s ha lasciato un commento su una a <a href=\"%2$s\">recensione</a>"
+
+#, php-format
+msgid "%1$s commented on a <a href=\"%2$s\">photo</a>"
+msgstr "%1$s ha lasciato un commento su una <a href=\"%2$s\">foto</a>"
+
+msgid "BuddyPress profile tab label"
+msgstr "Titolo tab profilo BuddyPress"
+
+msgid "BuddyPress profile tab slug"
+msgstr "Slug tab profilo BuddyPress"
+
+msgid "BuddyPress profile tab position"
+msgstr "Posizione tab profilo BuddyPress"
+
+msgid "BuddyPress activities"
+msgstr "Attività Buddypress"
+
+msgid "Comments"
+msgstr "Commenti"
+
+msgid "CSV file"
+msgstr ""
+
+msgid "CSV file field delimiter"
+msgstr "Delimitatore CSV file"
+
+msgid ""
+"Enter the character to be used as the field delimiter of CSV file fields."
+msgstr "Inserisci il carattere che sarà usato come delimitatore nel CSV file"
+
+msgid "CSV file field enclosure"
+msgstr "Chiusura campo CSV File"
+
+msgid ""
+"Enter the character to be used as the field enclosure of CSV file fields."
+msgstr "Inserisci il carattere di chiusura (enclosure) del file CSV"
+
+msgid "Convert encoding of CSV file data to UTF-8"
+msgstr "Converti l'encoding del CSV file a UTF-8"
+
+msgid "Convert line endings of CSV file to CR/LF"
+msgstr "Converti l'encoding del CSV file a CR/LF"
+
+msgid "Do not import"
+msgstr "Non importare"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Street Address"
+msgstr "Indirizzo"
+
+msgid "Postal / Zip Code"
+msgstr "CAP"
+
+msgid "Latitude"
+msgstr "Latitudine"
+
+msgid "Longitude"
+msgstr "Longitudine"
+
+msgid "Published Date"
+msgstr "Data Pubblicazione"
+
+#, php-format
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Author"
+msgstr "Autore"
+
+msgid "User ID"
+msgstr "User ID"
+
+#, php-format
+msgid "Custom field - %s"
+msgstr "Campo personalizzato - %s"
+
+msgid ""
+"Set up the associations between your CSV file data and directory listing "
+"fields. The \"Category\" field can be associated with more than one column "
+"if the field is configured to accept multiple values."
+msgstr ""
+"Configura l'associazione tra il tuo file CSV e i campi della pubblicazione "
+"nella directory. la \"Categoria\" può essere associatà a una o più colonna, "
+"se il campo è stato configurato per accettare valori multipli."
+
+msgid "CSV Column"
+msgstr "Colonna Csv"
+
+msgid "Directory Listing Field"
+msgstr "Campo pubblicazione directory"
+
+msgid "Please select a column for the \"Title\" field."
+msgstr "Seleziona una colonna per il campo \"Titolo\""
+
+#, php-format
+msgid "You may not associate multiple columns with the \"%s\" field."
+msgstr "Non puoi associare colonne multiple al campo \"%s\""
+
+msgid "Import"
+msgstr "Importa"
+
+msgid "No category"
+msgstr "Nessuna categoria"
+
+msgid "Select from existing categories"
+msgstr "Seleziona dalle categorie esistenti"
+
+msgid "Create a new category"
+msgstr "Crea una nuova categoria"
+
+msgid "Enter a new category name"
+msgstr "Inserisci il nome della nuova categoria"
+
+msgid "Create non-existent categories"
+msgstr "Crea categorie non esistenti"
+
+msgid "Delimiter"
+msgstr "Delimitatore"
+
+#, php-format
+msgid ""
+"Enter the character to be used as delimiter if the %s column contains "
+"multiple values."
+msgstr ""
+"Inserisci il carattere che avrà funzione di deliminatore se la %s colonna "
+"contiene valori multipli"
+
+msgid "Latitude / Longitude"
+msgstr "Latitudine / Longitudine"
+
+msgid "Use Google geocoding service"
+msgstr "Usa il servizio di geocoding di google"
+
+msgid "Enter values manually"
+msgstr "Inserisci i valori manualmente"
+
+msgid ""
+"Use the Google geocoding service to resolve the latitude/longitude "
+"coordinate from the address of each listing. This can be slow if the CSV "
+"data is large as well as there is a 2500 geocode request per day limit."
+msgstr ""
+"Usa il servizio di Google Geocoding per ottenere la latitudine e longitudine "
+"da ogni indirizzo delle pubblicazioni. L'operazione otrebbe essere piuttosto "
+"lenta in quanto Google limita le richieste geocode ad un massimo di 2500 al "
+"giorno."
+
+msgid ""
+"Manually enter the latitude/longitude coordinate that will be applied to all "
+"listings."
+msgstr ""
+"Inserisci manualmente la latitudine e la longitudine che verranno applicate "
+"a tutte le pubblicazioni"
+
+msgid "Latitude:"
+msgstr "Latitudine:"
+
+msgid "Longitude:"
+msgstr "Longitudine:"
+
+msgid "Address Format"
+msgstr "Formato indirizzo"
+
+msgid "Photo archive file (.zip format)"
+msgstr "Archivio foto (.zip)"
+
+msgid "Here you can set the default values and settings for the fields below."
+msgstr ""
+"Qui puoi configurare il valore di default e configurazioni per i campi "
+"seguenti."
+
+#, php-format
+msgid "Photo file %s could not be imported. Error: %s"
+msgstr "Il file della foto %s non è stato importato. Errore $s"
+
+#, php-format
+msgid "File %s could not be imported. Error: %s"
+msgstr "Il file %s non è stato importato. Errore $s"
+
+#, php-format
+msgid "%d row imported successfullly."
+msgid_plural "%d rows imported successfullly."
+msgstr[0] "%d riga importata con successo."
+msgstr[1] "%d righe importata con successo."
+
+#, php-format
+msgid "%d row updated successfullly."
+msgid_plural "%d rows updated successfullly."
+msgstr[0] "%d riga aggiornata con successo."
+msgstr[1] "%d righe aggiornata con successo."
+
+#, php-format
+msgid "CSV data on row number %d could not be imported: %s"
+msgstr "Il dato alla riga %d del file CSV non può essere importato: %s"
+
+#, php-format
+msgid "Address (%s) for CSV data on row number %d could not be geocoded: %s"
+msgstr ""
+"L'indirizzo (%s) del file CSV alla riga %d non può essere geolocalizzato. "
+"Errore %s"
+
+msgid "Slug"
+msgstr "Slug"
+
+msgid ""
+"Set up the associations between your CSV file data and directory category "
+"fields."
+msgstr "Imposta l'associazione tra il tuo CSV File e i campi categoria."
+
+msgid "Thumbnail image archive file (.zip format)"
+msgstr "Archivio immagini copertina (.zip)"
+
+msgid "Map marker icon archive file (.zip format)"
+msgstr "Archivio immagini segnaposto (.zip)"
+
+msgid "Press the button below to import categories."
+msgstr "Premi il bottone di seguito per importare le categorie."
+
+msgid "Import CSV"
+msgstr "Importa CSV"
+
+msgid "There are no payment plans available in this directory."
+msgstr "Non ci sono metodologie di pagamento accettate su questo sito."
+
+#, php-format
+msgid "%s (plan: %s)"
+msgstr "%s (piano: %s)"
+
+msgid "Thank you for your order!"
+msgstr "Grazie per il tuo ordine!"
+
+msgid "Item delivered."
+msgstr "Pubblicazione Inviata."
+
+msgid "Item delivery failed."
+msgstr "Invio Pubblicazione fallita!"
+
+msgid "Claim rejected."
+msgstr "Richiesta di gestione rifiutata."
+
+msgid "Featured Listing"
+msgstr "Pubblicazione in Risalto"
+
+msgid "Additional Locations"
+msgstr "Indirizzi addizionali"
+
+msgid "Additional Categories"
+msgstr "Categorie Addizionali"
+
+msgid "Additional Photos"
+msgstr "Foto Addizionali"
+
+msgid "Basic Feature Settings"
+msgstr "Configurazioni Feature basiche"
+
+msgid ""
+"Enter the number of days listings will be claimed (0 = unlimited). This is "
+"applied to one-time payment only."
+msgstr ""
+"Inserisci il numero di giorni per cui la pubblicazione sarà gestita (0 = "
+"nessun limite). Questa funzione è applicata solo per quanto concerne il "
+"pagamento."
+
+msgid "Display as featured"
+msgstr "Mostra come in risalto"
+
+msgid "Priority"
+msgstr "Priorità"
+
+msgctxt "priority"
+msgid "High"
+msgstr "Alta"
+
+msgctxt "priority"
+msgid "Normal"
+msgstr "Normale"
+
+msgctxt "priority"
+msgid "Low"
+msgstr "Bassa"
+
+msgid "Enter the number of days listings will be featured on homepage."
+msgstr ""
+"Inserisci il numero di giorni per cui questa pubblicazione sarà in evidenza "
+"sulla Home Page"
+
+msgid "Send messages to owner email address"
+msgstr "Invia messaggi all'email del gestore"
+
+#, php-format
+msgid "Claim ownership of listing for %d days"
+msgstr "Prendi in gestione la pubblicazione per %d giorni"
+
+msgid "Claim ownership of listing for unlimited number of days"
+msgstr ""
+"Prendi in gestione la pubblicazione per un numero illimitato di giorni."
+
+#, php-format
+msgid "Feature listing on homepage for %d days"
+msgstr "Metti in risalto la pubblicazione per %d giorni."
+
+msgid "Feature listing on home page for unlimited number of days"
+msgstr "Metti in risalto la pubblicazione per un numero illimitato di giorni."
+
+#, php-format
+msgid "Allow %d extra location addresses"
+msgstr "Permetti %d indirizzi extra"
+
+#, php-format
+msgid "Allow selection of %d extra categories"
+msgstr "Permetti la selezione di %d categorie extra"
+
+#, php-format
+msgid "Allow upload of %d extra photos"
+msgstr "Permetti il caricamento di %d foto extra"
+
+msgid "Allow users to contact the owner via contact us form"
+msgstr ""
+"Permetti agli utenti di contattare il proprietario attraverso il modulo di "
+"contatto"
+
+#, php-format
+msgid "%d category"
+msgid_plural "%d categories"
+msgstr[0] "%d categoria"
+msgstr[1] "%d categorie"
+
+msgctxt "pricing table"
+msgid "Featured"
+msgstr "Metti in Risalto"
+
+#, php-format
+msgid "Extra location"
+msgid_plural "Extra %d locations"
+msgstr[0] "Indirizzo addizionale"
+msgstr[1] "%d indirizzi addizionali"
+
+#, php-format
+msgid "Extra category"
+msgid_plural "Extra %d categories"
+msgstr[0] "Categoria Addizionale"
+msgstr[1] "%d Categorie Addizionali"
+
+#, php-format
+msgid "Extra photo"
+msgid_plural "Extra %d photos"
+msgstr[0] "Foto addizionale"
+msgstr[1] "%d Foto Addizionali"
+
+msgid "Try and see if listing on this site works for your business."
+msgstr ""
+"Prova il servizio e guarda come la tua pubblicazione apparirà sul nostro "
+"sito e incrementi il tuo business."
+
+msgid "30-day Basic Listing"
+msgstr "Pubblicazione gratuita per 30 giorni"
+
+msgid "Claim your listing for 30 days."
+msgstr "Gestisci la tua pubblicazione per 30 giorni."
+
+msgid "30-day Featured Listing Add-on"
+msgstr "Aggiungi feature \"Metti in risalto la tua attività per 30 giorni\""
+
+msgid "Get your listing featured on homepage for 30 days."
+msgstr "Metti in risalto la tua pubblicazione per 30 giorni sulla homepage."
+
+msgid "Contact Form Add-on"
+msgstr "Modulo di contatto"
+
+msgid "Add a contact form to your listing page to capture leads."
+msgstr "Aggiungi un modulo di contatto sulla pagina della tua pubblicazione"
+
+msgid "Order Listing Add-on"
+msgstr "Accetta Ordini "
+
+msgid "Renew Listing"
+msgstr "Rinnova Pubblicazione"
+
+msgid "Renew listing"
+msgstr "Rinnova pubblicazione"
+
+msgid "Order add-ons"
+msgstr "Ordina Add-ons/Features"
+
+msgid "Automatically approve claims for new listings when payment is complete"
+msgstr ""
+"Approva automaticamente le richieste di gestione delle nuove pubblicazioni "
+"quando il pagamento è completato."
+
+msgid ""
+"Automatically approve claims for existing listings when payment is complete"
+msgstr ""
+"Approva automaticamente le richieste di gestione delle pubblicazioni "
+"esistenti quando il pagamento è completato."
+
+msgid "Enable this field for the following paid listing plans"
+msgstr "Abilita questo campo per i seguenti piani di pubblicazione"
+
+#, php-format
+msgid "Unfeatured %d listings"
+msgstr "%d pubblicazioni non in risalto"
+
+#, php-format
+msgid "%s (%d)"
+msgstr "%s (%d)"
+
+msgid "Field"
+msgstr "Campo"
+
+msgid "Value"
+msgstr "Valore"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Message"
+msgstr "Messaggio"
+
+msgid "By car"
+msgstr "In auto"
+
+msgid "By public transit"
+msgstr "Con mezzi pubblici"
+
+msgid "Walking"
+msgstr "A piedi"
+
+msgid "Bicycling"
+msgstr "In Bici"
+
+msgid "Get Directions"
+msgstr "Come arrivarci"
+
+#, php-format
+msgid "Showing %d - %d of %s results"
+msgstr "Mostro %d risultati di %d su %s "
+
+msgid "Rating distribution"
+msgstr "Distribuzione delle valutazioni"
+
+msgid "Rating summary"
+msgstr "Sommario delle valutazioni"
+
+#, php-format
+msgid "%d of %d people found the following review helpful"
+msgstr "%d persone su %d hanno trovato questa recensione utile"
+
+#, php-format
+msgid "<span>Was this review helpful to you?</span> %s %s"
+msgstr "<span>L'hai trovato utile?</span> %s %s"
+
+#, php-format
+msgid "%s mi"
+msgstr "%s miglia"
+
+#, php-format
+msgid "%s km"
+msgstr "%s km"
+
+#, php-format
+msgid "(%d)"
+msgstr "(%d)"
+
+msgid "No entries were found."
+msgstr "Non abbiamo trovato nulla."
+
+msgid "Browse Category:"
+msgstr "Sfoglia categorie:"
+
+msgid "Keywords:"
+msgstr "Keywords:"
+
+msgid "Location Options"
+msgstr "Opzioni Località"
+
+#, php-format
+msgid "Search Radius: %s mi"
+msgstr "Area di ricerca: %s miglia"
+
+#, php-format
+msgid "Search Radius: %s km"
+msgstr "Area di ricerca: %s km"
+
+msgid "Get My Location"
+msgstr "Prendi la mia attuale posizione"
+
+msgid "The position of the device could not be determined."
+msgstr "Non è stato possibile determinare la posizione GPS del tuo device"
+
+msgid "Invalid location"
+msgstr "Località noln valida"
+
+msgid "Photo size"
+msgstr "Dimensioni foto"
+
+msgid "Thumbnail photo"
+msgstr "Foto di copertina"
+
+msgid "Medium size photo"
+msgstr "Foto di dimensioni medie"
+
+msgid "Large size photo"
+msgstr "Foto di dimensioni grandi"
+
+msgid "Original size photo"
+msgstr "Foto di dimensioni originali"
+
+msgid "Link photos to:"
+msgstr "Linka le foto a:"
+
+msgid "Do not link"
+msgstr "Non linkare la foto"
+
+msgid "Single listing page"
+msgstr "Pagina di pubblicazione semplice"
+
+msgid "Single photo"
+msgstr "Singola foto"
+
+msgid "Linked photo size"
+msgstr "Dimensioni della foto linkata"
+
+msgid "Claimed/Unclaimed"
+msgstr "Gestita/Non Gestita"
+
+msgid "Show claimed only"
+msgstr "Mostra solo gestita"
+
+msgid "Send E-mail"
+msgstr "Invia E-Mail"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Hidden fields"
+msgstr "Campi nascosti"
+
+msgid "Phone Number"
+msgstr "Numero di telefono"
+
+msgid "Mobile Number"
+msgstr "Numero di cellulare"
+
+msgid "Fax Number"
+msgstr "Numero di Fax"
+
+msgid "Icon:"
+msgstr "Icona:"
+
+msgid "Display e-mail address"
+msgstr "Mostra E-Mail"
+
+msgid "Display custom label"
+msgstr "Mostra label personalizzato"
+
+msgid "Display URL"
+msgstr "Mostra URL"
+
+msgid "Maximum URL length (0 for unlimited):"
+msgstr "Dimensione massima URL (0 = Senza limiti)"
+
+msgid "Add rel=\"nofollow\""
+msgstr "Aggiungi rel=\"nofollow\""
+
+msgid "Add rel=\"external\""
+msgstr "Aggiungi rel=\"external\""
+
+msgid "Listings"
+msgstr "Pubblicazioni"
+
+msgid "Listing"
+msgstr "Pubblicazione"
+
+msgid "Your Info"
+msgstr "Le tue info"
+
+msgid "Essential Info"
+msgstr "Info essenziali"
+
+msgid "Contact Info"
+msgstr "Info di contatto"
+
+msgid "Social Accounts"
+msgstr "Account Social"
+
+msgid "Additional Info"
+msgstr "Info Addizionali"
+
+msgid "Location"
+msgstr "Località"
+
+msgid "Owner"
+msgstr "Proprietario"
+
+msgid "Photos"
+msgstr "Foto"
+
+msgid "Listing Description"
+msgstr "Descrizione pubblicazione"
+
+#, php-format
+msgid "Edit own unclaimed %1$s"
+msgstr "Edita le proprie pubblicazioni non gestite %1$s"
+
+#, php-format
+msgid "Edit any unclaimed %2$s"
+msgstr "Edita pubblicazioni non gestite %2$s"
+
+#, php-format
+msgid "Delete own unclaimed %1$s"
+msgstr "Elimina le proprie pubblicazioni non gestite %1$s"
+
+#, php-format
+msgid "Delete own claimed %1$s"
+msgstr "Edita pubblicazioni gestite %1$s"
+
+#, php-format
+msgid "Delete any unclaimed %2$s"
+msgstr "Elimina pubblicazioni non gestite %2$s"
+
+#, php-format
+msgid "Claim existing %1$s"
+msgstr "Gestisci le esistenti %1$s"
+
+msgid "Rating"
+msgstr "Valutazione"
+
+msgid "Votes"
+msgstr "Voti"
+
+#, php-format
+msgid "Delete any %2$s"
+msgstr "Elimina %2$s"
+
+msgid "Photo"
+msgstr "Foto"
+
+#, php-format
+msgid "Delete any non-official %2$s"
+msgstr "Elimina i non ufficiali %2$s"
+
+msgid "Leads"
+msgstr "Contatti"
+
+msgid "Lead"
+msgstr "Contatto"
+
+msgid "Proceed without registration"
+msgstr "Procedi senza registrazione"
+
+msgid "Create an Account"
+msgstr "Crea un account"
+
+#, php-format
+msgid ""
+"Already registered? Click <a href=\"%s\" class=\"sabai-login popup-login\">"
+"here</a> to login."
+msgstr ""
+"Già registrato? Clicca <a href=\"%s\" class=\"sabai-login popup-login\">"
+"QUI</a> per fare login."
+
+msgid "Directory"
+msgstr "Directory"
+
+msgid "Select the directory where you want to submit the new listing."
+msgstr "Seleziona la categoria in cui inserire la nuova pubblicazione."
+
+msgid "Submit Listing"
+msgstr "Invia Pubblicazione"
+
+#, php-format
+msgid ""
+"Your listing has been submitted successfully and published. You can view the "
+"listing <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+"La tua pubblicazione è stata inviata con successo. Puoi visualizzarla qui."
+
+msgid ""
+"Your listing has been submitted successfully. We will review your submission "
+"and post it on this site if it is approved."
+msgstr ""
+"La tua pubblicazione è stata inviata con successo. Questa verrà "
+"successivamente da noi supervisionata e pubblicata una volta che avrà "
+"superato il processo di approvazione."
+
+msgid ""
+"If the listing is for your organisation, please complete the details below. "
+"Once we have confirmed your identity, we will give you full control over "
+"your listing and its contents."
+msgstr ""
+"Se la pubblicazione fa parte di una tua organizzazione o società, completa i "
+"campi di seguito. Una volta confermata la tua identità ti daremo il "
+"controllo sulla tua pubblicazione e i suoi contenuti."
+
+msgid "Duration Settings"
+msgstr "Configurazione durata"
+
+msgid "Duration"
+msgstr "Durata"
+
+msgid ""
+"Enter the number of days claims are valid before they expire. Enter 0 for no "
+"expiration."
+msgstr ""
+"Inserisci il numero di giorni per cui una richiesta di gestione è valida "
+"prima di scadere. Inserisci 0 per nessuna scadenza"
+
+msgid "Grace period duration"
+msgstr "Durata del periodo di grazia (dalla scadenza)"
+
+msgid ""
+"Enter the number of days after which expired claims are deleted from the "
+"database."
+msgstr ""
+"Inserisci il numero di giorni dopo i quali le pubblicazioni scadute verranno "
+"cancellate dal database."
+
+msgid "Move listings to trash when their claims expired"
+msgstr "Sposta le pubblicazioni nel cestino quando sono scadute."
+
+msgid "Claim Listing Form Settings"
+msgstr "Configurazione form per la presa in gestione di una pubblicazione"
+
+msgid "Claim listing form header"
+msgstr "Header form per la presa in gestione di una pubblicazione"
+
+msgid ""
+"Enter the message displayed at the top of the form for claiming existing "
+"listings."
+msgstr ""
+"Inserisci il messaggio mostrato nella parte top del form per la richiesta di "
+"gestione di una pubblicazione esistente."
+
+msgid "Do not require comment"
+msgstr "Non richiede commenti"
+
+msgid "Approval Settings"
+msgstr "Configurazioni per l'approvazione"
+
+msgid "Automatically approve claims for new listings"
+msgstr "Approva automaticamente le nuove pubblicazioni"
+
+msgid "Automatically approve claims for existing listings"
+msgstr ""
+"Approva automaticamente le richieste di gestione per le pubblicazioni "
+"esistenti"
+
+msgid "Delete claims that have been approved automatically"
+msgstr ""
+"Elimina le richieste di gestione che sono state approvate automaticamente"
+
+msgid "Unclaimed Listing Settings"
+msgstr "Configurazioni delle pubblicazioni non gestite"
+
+msgid "Hide from the index page"
+msgstr "Nascondi nella pagina index"
+
+msgid "Fields"
+msgstr "Campi"
+
+msgid "Select the fields allowed for unclaimed listings in the frontend."
+msgstr "Seleziona i campi permessi per le pubblicazioni nel frontend."
+
+msgid "Enter a location"
+msgstr "Inserisci un luogo..."
+
+#, php-format
+msgid "Showing %s result"
+msgid_plural "Showing %s results"
+msgstr[0] "Mostro %s risultato"
+msgstr[1] "Mostro %s risultati"
+
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "%s recensione"
+msgstr[1] "%s recensioni"
+
+#, php-format
+msgid "%s reviews"
+msgstr "%s recensioni"
+
+msgid "Redo search when map moved"
+msgstr "Ricarica mappa se viene spostata"
+
+msgid "Select category"
+msgstr "Seleziona tipologia"
+
+msgid "Search..."
+msgstr "Cerca..."
+
+msgid "Add Listing"
+msgstr "Aggiungi Pubblicazione"
+
+msgid "Claimed"
+msgstr "Gestiti"
+
+msgid "Unclaimed"
+msgstr "Non gestiti"
+
+msgid "Reviews"
+msgstr "Recensioni"
+
+msgid "Review"
+msgstr "Recensione"
+
+msgid "Register now"
+msgstr "Registrati adesso"
+
+msgid "days"
+msgstr "giorni"
+
+msgid "Contact Us Form"
+msgstr "Modulo di contatto"
+
+msgid "day(s)"
+msgstr "Giorno (i)"
+
+msgid "Most Reviews"
+msgstr "Più recensiti"
+
+msgid "Highest Rated"
+msgstr "Valutazione più alta"
+
+msgid "Most Voted"
+msgstr "Più votati"
+
+msgid "Reviews:"
+msgstr "Recensioni:"
+
+msgid "List"
+msgstr "Elenco"
+
+msgid "Grid"
+msgstr "Griglia"
+
+msgid "Map"
+msgstr "Mappa"
+
+#, php-format
+msgid "%s Reviews"
+msgstr "%s Recensioni"
+
+#, php-format
+msgid "%s photo"
+msgid_plural "%s photos"
+msgstr[0] "%s foto"
+msgstr[1] "%s foto"
+
+msgid "Select Category"
+msgstr "Seleziona Tipologia"
+
+msgctxt "paid plan feature"
+msgid "Reviews"
+msgstr "Recensioni"
+
+#, php-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d giorno"
+msgstr[1] "%d giorni"
+
+msgid "Unlimited categories"
+msgstr "Categorie Illimitate"
+
+#, php-format
+msgid "%d photo"
+msgid_plural "%d photos"
+msgstr[0] "%d foto"
+msgstr[1] "%d foto"
+
+msgid "Unlimited photos"
+msgstr "Foto Illimitate"
+
+#, php-format
+msgid "%d location"
+msgid_plural "%d locations"
+msgstr[0] "%d localizzazione"
+msgstr[1] "%d localizzazioni"
+
+msgid "Unlimited locations"
+msgstr "Localizzazioni Illimitate"
+
+#, php-format
+msgid "Featured %d day"
+msgid_plural "Featured %d days"
+msgstr[0] "In risalto per %d giorno"
+msgstr[1] "In risalto per %d giorni"
+
+msgid "7-day Free Trial"
+msgstr "7 giorni di prova gratuita"
+
+msgid "Orders"
+msgstr "Ordini"
+
+msgid "View orders"
+msgstr "Vedi Ordini"
+
+msgid "Order"
+msgstr "Ordine"
+
+msgid "View Orders"
+msgstr "Vedi Ordini"
+
+#, php-format
+msgid "Sort by: <strong>%s</strong>"
+msgstr "Ordina per: <strong>%s</strong>"

@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sabai-googlemaps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-01 01:01+0900\n"
+"PO-Revision-Date: 2017-07-29 19:03+0000\n"
+"Last-Translator: Il Gran Capo <illatooscurodelsesso@gmail.com>\n"
+"Language-Team: Italian\n"
+"Language: it-IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Generator: Loco - https://localise.biz/"
+
+msgid "Icon"
+msgstr "Icona"
+
+msgid "Customize the format of address"
+msgstr "Personalizza il formato dell'indirizzo"
+
+msgid "Custom format"
+msgstr "Formato Custom"
+
+msgid "Link to Google Maps or native map application"
+msgstr "Linka a Google Maps o all'applicazione nativa della mappa"
+
+msgid "Country code"
+msgstr "Codice Nazione"
+
+msgid ""
+"Enter one of the <a href=\"http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2\" "
+"target=\"_blank\">two-letter country codes</a> to restrict location "
+"autocomplete suggestions to a specific country."
+msgstr "Inserisci il codice di due lettere che identifica la nazione"
+
+msgid "Require a location on map if the address field is not empty"
+msgstr "Richiede che vi sia una località sulla mappa se il campo non è vuoto."
+
+msgid "Map type"
+msgstr "Tipo di Mappa"
+
+msgid "Map height"
+msgstr "Altezza Mappa"
+
+msgid "Enter the height of map in pixels."
+msgstr "Inserisci l'altezza della mappa in pixels."
+
+msgid "Default latitude"
+msgstr "Latidudine di default"
+
+msgid "Enter the latitude of the default map location in decimals."
+msgstr "Inserisci la latitudine di default della mappa in decimali."
+
+msgid "Default longitude"
+msgstr "Longitudine di default"
+
+msgid "Enter the longitude of the default map location in decimals."
+msgstr "Inserisci la longitudine di default della mappa in decimali."
+
+msgid "Default zoom level"
+msgstr "Livello di Zoom di default"
+
+msgid "Default map type"
+msgstr "Tipo di mappa di default"
+
+msgid "Default style"
+msgstr "Stile di default"
+
+msgid "Google map style"
+msgstr "Stile mappa di google"
+
+msgid "Enable scrollwheel zooming"
+msgstr "Abilita rotellina di scorrimento sul mouse"
+
+msgid "Enable directions search"
+msgstr "Abilita la ricerca per direzioni (guida)"
+
+msgid "Map infobox width"
+msgstr "larghezza infobox della mappa"
+
+msgid "Enter a location"
+msgstr "Inserisci un luogo"
+
+msgid "Get Directions"
+msgstr "Come arrivarci"
+
+msgid "By public transit"
+msgstr "Mezzi Pubblici"
+
+msgid "Bicycling"
+msgstr "Bicicletta"
+
+msgid "Google (roadmap)"
+msgstr "Google (stradale)"
+
+msgid "Google (satellite)"
+msgstr "Google (satellite)"
+
+msgid "Google (hybrid)"
+msgstr "Google (Ibrrida)"
+
+msgid "OpenStreetMap"
+msgstr "OpenStreetMap"
+
+msgid "Location"
+msgstr "Luogo"
+
+msgid "Filter by"
+msgstr "Filtra per"
+
+msgid "City"
+msgstr "Città"
+
+msgid "State / Province / Region"
+msgstr "Stato / Provincia / Regione"
+
+msgid "Postal / Zip code"
+msgstr "Codice Avviamento Postale"
+
+msgid "Country"
+msgstr "Nazione"
+
+msgid "Form element type"
+msgstr "Tipo di forma degli elementi"
+
+msgid "Checkboxes"
+msgstr "Checkboxes"
+
+msgid "Select list"
+msgstr "Lista di selezione"
+
+msgid "Display inline"
+msgstr "Mostra \"in-line\""
+
+msgid "Check this to align all options on the same line."
+msgstr ""
+"Seleziona questo box per allineare le opzioni tutte sulla stessa linea."
+
+msgid "Number of options to display"
+msgstr "Numero di opzioni da mostrare."
+
+msgid ""
+"If there are more options than the number specified here, those options will "
+"be displayed in a popup window."
+msgstr ""
+"Se ci sono più opzioni da mostrare rispetto al limite selezionate, le "
+"mancanti verranno mostrate in una finestra pop-up."
+
+msgid "Label for link to open popup window"
+msgstr "Titolo della finestra di pop-up"
+
+#, php-format
+msgid "More %s"
+msgstr "Altri %s"
+
+msgid "Min. length of keywords in characters"
+msgstr "Lunghezza minima delle parole immesse nella ricerca"
+
+msgid "Match any or all"
+msgstr "Corrispondenza di una qualsiasi parola o di tutte"
+
+msgid "Match any"
+msgstr "Corrispondenza di una qualsiasi parola"
+
+msgid "Match all"
+msgstr "Corrispondenza di tutte le parole"
+
+msgid "Exact match"
+msgstr "Corrispondenza esatta"
+
+msgctxt "option"
+msgid "Any"
+msgstr "Qualsiasi"
+
+msgid "Google Map"
+msgstr "Google Map"
+
+msgid "Find on map"
+msgstr "Trova su mappa"
+
+msgid "Get from map"
+msgstr "Prendi dalla mappa"
+
+msgid "Enter address details manually"
+msgstr "Inserisci l'indirizzo manualmente"
+
+msgid "Latitude"
+msgstr "Latitudine"
+
+msgid "Longitude"
+msgstr "Longitudine"
+
+msgid "Please select a valid location on map."
+msgstr "Seleziona una località valida sulla mappa."
+
+msgid "Map renderer"
+msgstr "Renderer della mappa"
+
+msgid "Enter coordinates manually"
+msgstr "Inserisci coordinate manualmente"
+
+msgid "Do not load Google Maps API"
+msgstr "Non caricare le Api delle google maps"
+
+msgid "Do not load Google Maps API in admin dashboard"
+msgstr "Non caricare le Api delle google Maps nella Admin Dashboard"
+
+msgid "Google Maps API type"
+msgstr "Tipologia delle API Google Maps API"
+
+msgid "Google Maps API (free)"
+msgstr "Google Maps API (free)"
+
+msgid "Google Maps API for Business"
+msgstr "Google Maps API per Business"
+
+msgid "Google Geocoding API key"
+msgstr "Chiave Google Geocoding API"
+
+#, php-format
+msgid ""
+"The API key for the Google Geocoding service can be obtained from the "
+"following URL: %s"
+msgstr ""
+"Le chiavi API per il servizio Google Geocoding possono essere ottenute al "
+"seguente indirizzo: %s"
+
+msgid "Google Maps API for Work client ID"
+msgstr ""
+
+#, php-format
+msgid ""
+"Enter the cliend ID provided by Google. Also add the following code to any "
+"line in wp-config.php: %s"
+msgstr ""
+"Inserisci il client ID fornito da Google. Aggiungi inoltre il seguente "
+"codice all'interno del file wp-config.php: %s"

@@ -1,0 +1,325 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sabai Google Maps\n"
+"POT-Creation-Date: 2016-04-04 16:09+0200\n"
+"PO-Revision-Date: 2016-04-04 16:43+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: sabai-googlemaps.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: lib/GoogleMaps.php:121
+msgid "Do not load Google Maps API"
+msgstr "Laad geen Google Maps API"
+
+#: lib/GoogleMaps.php:126
+msgid "Do not load Google Maps API in admin dashboard"
+msgstr "Laad Google Maps API niet in admin dashboard"
+
+#: lib/GoogleMaps.php:130
+msgid "Google Maps API type"
+msgstr "Google Maps API type"
+
+#: lib/GoogleMaps.php:132
+msgid "Google Maps API (free)"
+msgstr "Google Maps API (gratis)"
+
+#: lib/GoogleMaps.php:132
+msgid "Google Maps API for Business"
+msgstr "Google Maps API voor bedrijven"
+
+#: lib/GoogleMaps.php:137
+msgid "Google Geocoding API key"
+msgstr "Google Geocoding API key"
+
+#: lib/GoogleMaps.php:138
+#, php-format
+msgid ""
+"The API key for the Google Geocoding service can be obtained from the "
+"following URL: %s"
+msgstr ""
+"De API key voor Google Geocoding services kunt u verkrijgen via de volgende "
+"link: %s"
+
+#: lib/GoogleMaps.php:148
+msgid "Google Maps API for Work client ID"
+msgstr "Google Maps API for Work client ID"
+
+#: lib/GoogleMaps.php:156
+#, php-format
+msgid ""
+"Enter the cliend ID provided by Google. Also add the following code to any "
+"line in wp-config.php: %s"
+msgstr ""
+"Vul de client ID in die u verkregen heeft via Google.  Voeg ook de volgende "
+"code toe aan elke lijn in wp-config.php:% s"
+
+#: lib/GoogleMaps/AddressFieldRenderer.php:20
+msgid "Icon"
+msgstr "Icoon"
+
+#: lib/GoogleMaps/Helper/AutocompleteCountryFormField.php:7
+msgid "Country code"
+msgstr "Land Code"
+
+#: lib/GoogleMaps/Helper/AutocompleteCountryFormField.php:8
+msgid ""
+"Enter one of the <a href=\"http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2\" "
+"target=\"_blank\">two-letter country codes</a> to restrict location "
+"autocomplete suggestions to a specific country."
+msgstr ""
+"Voer een van de <a href=\"http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2\" "
+"target=\"_blank\">twee letterige landcodes</a> in voor locatie suggesties "
+"voor automatisch aanvullen."
+
+#: lib/GoogleMaps/Helper/FieldWidgetSettings.php:9
+msgid "Require a location on map if the address field is not empty"
+msgstr "Vereist een locatie op de map wanneer het adresveld ingevuld is"
+
+#: lib/GoogleMaps/Helper/FieldWidgetSettings.php:20
+msgid "Map type"
+msgstr "Kaart type"
+
+#: lib/GoogleMaps/Helper/FieldWidgetSettings.php:30
+#: lib/GoogleMaps/Helper/MapOptions.php:41
+msgid "Map height"
+msgstr "Kaart hoogte "
+
+#: lib/GoogleMaps/Helper/FieldWidgetSettings.php:31
+msgid "Enter the height of map in pixels."
+msgstr "Vul hier de hoogte van de kaart in pixels"
+
+#: lib/GoogleMaps/Helper/FieldWidgetSettings.php:40
+msgid "Default latitude"
+msgstr "Algemene latitude"
+
+#: lib/GoogleMaps/Helper/FieldWidgetSettings.php:41
+msgid "Enter the latitude of the default map location in decimals."
+msgstr "Vul hier de latitude van de kaart in."
+
+#: lib/GoogleMaps/Helper/FieldWidgetSettings.php:51
+msgid "Default longitude"
+msgstr "Algemene longitude"
+
+#: lib/GoogleMaps/Helper/FieldWidgetSettings.php:52
+msgid "Enter the longitude of the default map location in decimals."
+msgstr "Vul hier de  longitude van de kaart in."
+
+#: lib/GoogleMaps/Helper/FieldWidgetSettings.php:62
+#: lib/GoogleMaps/Helper/MapOptions.php:30
+msgid "Default zoom level"
+msgstr "Algemene zoom level"
+
+#: lib/GoogleMaps/Helper/MapOptions.php:18
+msgid "Default map type"
+msgstr "Algemene kaart type"
+
+#: lib/GoogleMaps/Helper/MapOptions.php:24
+msgid "Default style"
+msgstr "Algemene stijl"
+
+#: lib/GoogleMaps/Helper/MapOptions.php:25
+msgid "Google map style"
+msgstr "Google map stijl"
+
+#: lib/GoogleMaps/Helper/MapOptions.php:46
+msgid "Enable scrollwheel zooming"
+msgstr "Aanzetten scroll wheel zooming"
+
+#: lib/GoogleMaps/Helper/MapOptions.php:51
+msgid "Enable directions search"
+msgstr "Aanzetten route zoeken"
+
+#: lib/GoogleMaps/Helper/MapOptions.php:60
+msgid "Map infobox width"
+msgstr "Kaart infobox  breedte"
+
+#: lib/GoogleMaps/Helper/RenderMap.php:100
+msgid "Zoeken op locatie"
+msgstr "Zoek op locatie"
+
+#: lib/GoogleMaps/Helper/RenderMap.php:103
+msgid "Get Directions"
+msgstr "Toon route"
+
+#: lib/GoogleMaps/Helper/RenderMap.php:105
+msgid "By public transit"
+msgstr "Met het openbaar vervoer"
+
+#: lib/GoogleMaps/Helper/RenderMap.php:107
+msgid "Bicycling"
+msgstr "Met de fiets"
+
+#: lib/GoogleMaps/Helper/Types.php:7
+msgid "Google (roadmap)"
+msgstr "Google (roadmap)"
+
+#: lib/GoogleMaps/Helper/Types.php:8
+msgid "Google (satellite)"
+msgstr "Google (satellite)"
+
+#: lib/GoogleMaps/Helper/Types.php:9
+msgid "Google (hybrid)"
+msgstr "Google (hybrid)"
+
+#: lib/GoogleMaps/Helper/Types.php:10
+msgid "OpenStreetMap"
+msgstr "OpenStreetMap"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:9
+#: lib/GoogleMaps/LocationFieldType.php:7
+msgid "Location"
+msgstr "Locatie"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:28
+msgid "Filter by"
+msgstr "Filter op"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:30
+msgid "City"
+msgstr "Plaats"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:31
+msgid "State / Province / Region"
+msgstr "Provincie"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:32
+msgid "Postal / Zip code"
+msgstr "Postcode"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:33
+msgid "Country"
+msgstr "Land"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:41
+msgid "Form element type"
+msgstr "Formulier element type"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:43
+msgid "Checkboxes"
+msgstr "Checkboxes"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:43
+msgid "Select list"
+msgstr "Selecteer lijst"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:57
+msgid "Display inline"
+msgstr "weergave inline"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:58
+msgid "Check this to align all options on the same line."
+msgstr "Vink dit aan om alle opties op dezelfde lijn uit te lijnen."
+
+#: lib/GoogleMaps/LocationFieldFilter.php:75
+msgid "Number of options to display"
+msgstr "Aantal opties weergeven"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:76
+msgid ""
+"If there are more options than the number specified here, those options will "
+"be displayed in a popup window."
+msgstr ""
+"Als er meer opties zijn dan hier is gespecificeerd, dan zullen de rest van "
+"de opties weergeven worden in een popup."
+
+#: lib/GoogleMaps/LocationFieldFilter.php:90
+msgid "Label for link to open popup window"
+msgstr "Label voor link om te openen in popup venster"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:91
+#, php-format
+msgid "More %s"
+msgstr "Meer %s"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:124
+msgid "Min. length of keywords in characters"
+msgstr "Min. lengte van keywoorden in characters"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:133
+msgid "Match any or all"
+msgstr "Komt overeen met een enkele of alles"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:135
+msgid "Match any"
+msgstr "Komt overeen met elke"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:135
+msgid "Match all"
+msgstr "Komt overeen met alles"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:135
+msgid "Exact match"
+msgstr "Exacte overeenkomst"
+
+#: lib/GoogleMaps/LocationFieldFilter.php:179
+#: lib/GoogleMaps/LocationFieldFilter.php:269
+msgctxt "option"
+msgid "Any"
+msgstr "Elke"
+
+#: lib/GoogleMaps/LocationFieldWidget.php:7
+msgid "Google Map"
+msgstr "Google Map"
+
+#: lib/GoogleMaps/LocationFormField.php:51
+msgid "Find on map"
+msgstr "Zoek op de kaart"
+
+#: lib/GoogleMaps/LocationFormField.php:52
+msgid "Get from map"
+msgstr "Verkrijg vanaf kaart"
+
+#: lib/GoogleMaps/LocationFormField.php:65
+msgid "Enter address details manually"
+msgstr "Voer adresgegevens handmatig in"
+
+#: lib/GoogleMaps/LocationFormField.php:88 lib/GoogleMaps/MapFormField.php:56
+msgid "Latitude"
+msgstr "Latitude"
+
+#: lib/GoogleMaps/LocationFormField.php:102 lib/GoogleMaps/MapFormField.php:69
+msgid "Longitude"
+msgstr "Longitude"
+
+#: lib/GoogleMaps/LocationFormField.php:140
+#: lib/GoogleMaps/LocationFormField.php:143 lib/GoogleMaps/MapFormField.php:104
+msgid "Please select a valid location on map."
+msgstr "Selecteer een geldige locatie op de kaart."
+
+#: lib/GoogleMaps/MapFieldRenderer.php:7
+msgid "Map renderer"
+msgstr "Kaart weergeven"
+
+#: lib/GoogleMaps/MapFormField.php:48
+msgid "Enter coordinates manually"
+msgstr "Vul coördinaten handmatig in"
+
+#. Plugin Name of the plugin/theme
+msgid "Sabai Google Maps"
+msgstr "Sabai Google Maps"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://codecanyon.net/user/onokazu/portfolio?ref=onokazu"
+msgstr "http://sjopsjop.nl/portfolio"
+
+#. Description of the plugin/theme
+msgid "Google Maps add-on for Sabai plugins."
+msgstr "Google Maps add-on for Sabai plugins."
+
+#. Author of the plugin/theme
+msgid "onokazu"
+msgstr "onokazu"

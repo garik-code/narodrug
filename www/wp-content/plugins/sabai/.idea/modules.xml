@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/sabai.iml" filepath="$PROJECT_DIR$/.idea/sabai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sabai-directory/.idea/sabai-directory.iml" filepath="$PROJECT_DIR$/../sabai-directory/.idea/sabai-directory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sabai-discuss/.idea/sabai-discuss.iml" filepath="$PROJECT_DIR$/../sabai-discuss/.idea/sabai-discuss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sabai-googlemaps/.idea/sabai-googlemaps.iml" filepath="$PROJECT_DIR$/../sabai-googlemaps/.idea/sabai-googlemaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sabai-paidlistings/.idea/sabai-paidlistings.iml" filepath="$PROJECT_DIR$/../sabai-paidlistings/.idea/sabai-paidlistings.iml" />
+    </modules>
+  </component>
+</project>

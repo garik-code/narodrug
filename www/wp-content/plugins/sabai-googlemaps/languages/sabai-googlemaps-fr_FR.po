@@ -1,0 +1,246 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the sabai-directory package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sabai-googlemaps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-06 15:38-0400\n"
+"PO-Revision-Date: 2016-04-06 15:40-0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"Last-Translator: jean-pierre michaud <nexialys@yahoo.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+msgid "Icon"
+msgstr "Icône"
+
+msgid "Customize the format of address"
+msgstr "Personnaliser le format d’adresse"
+
+msgid "Custom format"
+msgstr "Format personnalisé"
+
+msgid "Link to Google Maps or native map application"
+msgstr "Lien vers Google Maps ou l’application native de carte"
+
+msgid "Country code"
+msgstr "Indicatif du Pays"
+
+msgid ""
+"Enter one of the <a href=\"http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2\" "
+"target=\"_blank\">two-letter country codes</a> to restrict location "
+"autocomplete suggestions to a specific country."
+msgstr ""
+"Renseignez une des <a href=“http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2” "
+"target=“_blank”>2 lettres constituant le code Pays</a> pour restreindre les "
+"suggestions de pays spécifiques lors du remplissage automatique."
+
+msgid "Require a location on map if the address field is not empty"
+msgstr ""
+"Demander un emplacement sur la carte si le champ adresse n'est pas vide"
+
+msgid "Map type"
+msgstr "Carte"
+
+msgid "Map height"
+msgstr "Hauteur de la carte"
+
+msgid "Enter the height of map in pixels."
+msgstr "Entrez la hauteur de la carte en pixels."
+
+msgid "Default latitude"
+msgstr "Latitude par défaut"
+
+msgid "Enter the latitude of the default map location in decimals."
+msgstr "Entrez la latitude de l'emplacement par défaut en décimales."
+
+msgid "Default longitude"
+msgstr "Longitude par défaut"
+
+msgid "Enter the longitude of the default map location in decimals."
+msgstr "Entrez la longitude de l'emplacement par défaut en décimales."
+
+msgid "Default zoom level"
+msgstr "Niveau de zoom par défaut"
+
+msgid "Default map type"
+msgstr "Type de carte par défaut"
+
+msgid "Default style"
+msgstr "Style par défaut"
+
+msgid "Google map style"
+msgstr "Style de carte Google"
+
+msgid "Enable scrollwheel zooming"
+msgstr "Activer le zoom avec la souris"
+
+msgid "Enable directions search"
+msgstr "Activer la recherche d'itinéraire"
+
+msgid "Map infobox width"
+msgstr "largeur de l’Infobox du plan"
+
+msgid "Enter a location"
+msgstr "Entrez un lieu"
+
+msgid "Get Directions"
+msgstr "Obtenir des directions"
+
+msgid "By public transit"
+msgstr "Par transport en commun"
+
+msgid "Bicycling"
+msgstr "À vélo"
+
+msgid "Google (roadmap)"
+msgstr "Google (plan)"
+
+msgid "Google (satellite)"
+msgstr "Google (satellite)"
+
+msgid "Google (hybrid)"
+msgstr "Google (mixte)"
+
+msgid "OpenStreetMap"
+msgstr "Ouvrir StreetMap"
+
+msgid "Location"
+msgstr "Zone géographique"
+
+msgid "Filter by"
+msgstr "Filtré par"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "State / Province / Region"
+msgstr "Etat / Province / Région"
+
+msgid "Postal / Zip code"
+msgstr "Code postal"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Form element type"
+msgstr "Type d'Elément du Formulaire"
+
+msgid "Checkboxes"
+msgstr "Cases à cocher"
+
+msgid "Select list"
+msgstr "Liste de Sélection"
+
+msgid "Display inline"
+msgstr "Afficher en ligne"
+
+msgid "Check this to align all options on the same line."
+msgstr "Cochez cette case pour aligner toutes les options sur la même ligne."
+
+msgid "Number of options to display"
+msgstr "Nombre d’options à afficher"
+
+msgid ""
+"If there are more options than the number specified here, those options will "
+"be displayed in a popup window."
+msgstr ""
+"S’il y a plus d’options que le nombre spécifié ici, ces options seront "
+"affichées dans une fenêtre popup."
+
+msgid "Label for link to open popup window"
+msgstr "Libellé du lien pour ouvrir la fenêtre popup"
+
+#, php-format
+msgid "More %s"
+msgstr "Plus %s"
+
+msgid "Min. length of keywords in characters"
+msgstr "Longueur min. des mots clés en nb de caractères"
+
+msgid "Match any or all"
+msgstr "Correspondance avec un ou tous"
+
+msgid "Match any"
+msgstr "Contient au moins un des mots"
+
+msgid "Match all"
+msgstr "Contient tous les mots"
+
+msgid "Exact match"
+msgstr "Terme exact"
+
+msgctxt "option"
+msgid "Any"
+msgstr "N'importe"
+
+msgid "Google Map"
+msgstr "Carte Google"
+
+msgid "Find on map"
+msgstr "Trouver sur la carte"
+
+msgid "Get from map"
+msgstr "Depuis la carte"
+
+msgid "Enter address details manually"
+msgstr "Entrez les détails de l'adresse"
+
+msgid "Latitude"
+msgstr "Latitude"
+
+msgid "Longitude"
+msgstr "Longitude"
+
+msgid "Please select a valid location on map."
+msgstr "Sélectionnez un lieu valide sur la carte."
+
+msgid "Map renderer"
+msgstr "Rendu de la carte"
+
+msgid "Enter coordinates manually"
+msgstr "Entrer les coordonnées manuellement"
+
+msgid "Do not load Google Maps API"
+msgstr "Ne pas charger l’API Google Maps"
+
+msgid "Do not load Google Maps API in admin dashboard"
+msgstr "Ne pas charger l'API Google Maps dans l'admin tableau de bord"
+
+msgid "Google Maps API type"
+msgstr "type API Google Maps"
+
+msgid "Google Maps API (free)"
+msgstr "Google Maps API (gratuit)"
+
+msgid "Google Maps API for Business"
+msgstr "Google Maps API pour Entreprise"
+
+msgid "Google Geocoding API key"
+msgstr "Clé API Google Geocoding"
+
+#, php-format
+msgid ""
+"The API key for the Google Geocoding service can be obtained from the "
+"following URL: %s"
+msgstr ""
+"La clé de l'API pour le service Google Geocoding peut être obtenu à partir "
+"de l'URL suivante : %s"
+
+msgid "Google Maps API for Work client ID"
+msgstr "API Google Maps pour Work client ID"
+
+#, php-format
+msgid ""
+"Enter the cliend ID provided by Google. Also add the following code to any "
+"line in wp-config.php: %s"
+msgstr ""
+"Entrez l'ID de client fourni par Google.  Ajoutez également le code suivant "
+"à n'importe quelle ligne dans wp-config.php : %s"

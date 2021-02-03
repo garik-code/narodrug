@@ -1,0 +1,957 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the sabai-directory package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sabai-paidlistings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-06 15:40-0400\n"
+"PO-Revision-Date: 2016-04-06 15:46-0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"Last-Translator: jean-pierre michaud <nexialys@yahoo.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+msgid "Field"
+msgstr "Champ"
+
+msgid "Value"
+msgstr "Valeurs"
+
+msgid "Order ID"
+msgstr "N&deg; de facture"
+
+msgid "Order Date"
+msgstr "Date de la commande"
+
+msgid "User"
+msgstr "Utilisateur"
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "Payment Method"
+msgstr "Moyens de paiement"
+
+msgid "Transaction ID"
+msgstr "Identifiant de transaction"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Order Items"
+msgstr "Articles de la commande"
+
+msgid "Order Logs"
+msgstr "Historique de commande"
+
+msgid "Credit Card"
+msgstr "Carte de crédit"
+
+msgid "Billing Address"
+msgstr "Adresse de Facturation"
+
+msgid "Credit Card (2Checkout)"
+msgstr "Carte de crédit (2Checkout)"
+
+msgid "Disable this payment method"
+msgstr "Désactiver ce mode de paiement"
+
+msgid "Payment Method Label"
+msgstr "Étiquette Méthode de paiement"
+
+msgid "Text"
+msgstr "Texte"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Text + Logo"
+msgstr "Texte + logo"
+
+msgid "Logo + Text"
+msgstr "Logo + Texte"
+
+msgid "Payment Method Logo"
+msgstr "Logo du moyen de paiement"
+
+#, php-format
+msgid "Default logo: %s"
+msgstr "Logo par défaut : %s"
+
+msgid "Payment Method Text"
+msgstr "Texte moyen de paiement"
+
+msgid "Account Number"
+msgstr "Numéro du Compte"
+
+msgid "Publishable Key"
+msgstr "Clé publique"
+
+msgid "Private Key"
+msgstr "Clé privée"
+
+msgid "Enable sandbox mode"
+msgstr "Activer le mode Sandbox"
+
+msgid "Sandbox Account Number"
+msgstr "Numéro de compte Sandbox"
+
+msgid "Sandbox Publishable Key"
+msgstr "Clé publiable dSandbox"
+
+msgid "Sandbox Private Key"
+msgstr "Clé privée du bac à sable"
+
+msgid "Credit Card (Authorize.net)"
+msgstr "Carte de crédit (Authorize.net)"
+
+msgid "API Login ID"
+msgstr "Identifiant de connexion de l'API"
+
+msgid "Transaction Key"
+msgstr "Clé de Transaction"
+
+msgid "Manual Payment"
+msgstr "Paiement manuel"
+
+msgid "[{site_name}] We received your order (ID: {order_id})"
+msgstr "[{site_name}] Nous avons reçu votre commande (N°: {order_id})"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"We have received your order placed on {order_date} and its now pending "
+"payment.\n"
+"\n"
+"------------------------------------\n"
+"{plan_name} - {order_price} {order_currency}\n"
+"------------------------------------\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Bonjour {recipient_name},\n"
+"\n"
+"Nous avons bien reçu votre commande passée le {order_date} et elle est "
+"maintenant en attente de paiement. \n"
+"\n"
+"{plan_name} - {order_price} {order_currency}\n"
+"------------------------------------\n"
+"\n"
+"Cordialement, \n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Payment Instructions"
+msgstr "Informations de paiement"
+
+#, php-format
+msgid ""
+"Displayed on the thank you page, after the customer has completed the order. "
+"Available template tags: %s"
+msgstr ""
+"Affiché sur la page de remerciement, après que le client a finalisé sa "
+"commande. Balises de modèle disponibles:%s"
+
+msgid "Send payment instructions email"
+msgstr "Envoyer un email d'instructions de paiement"
+
+msgid "Payment instructions email subject"
+msgstr "Sujet de l’email de paiement"
+
+msgid "Payment instructions email body"
+msgstr "Texte de l’email de paiement"
+
+#, php-format
+msgid "Available tempalte tags: %s"
+msgstr "Balises disponibles:%s"
+
+msgid "Plan type"
+msgstr "Type de régime"
+
+msgid "Add Plan"
+msgstr "Ajouter Plan"
+
+msgid "Plan Settings"
+msgstr "Paramètres du forfait"
+
+msgid "Plan name"
+msgstr "Nom du forfait"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Inactive"
+msgstr "Inactive"
+
+msgid "Display order"
+msgstr "Ordre d’affichage"
+
+msgid "Currency"
+msgstr "Devise"
+
+msgid "Make this plan featured"
+msgstr "Mettre ce forfait en avant"
+
+msgid "One-time Payment"
+msgstr "Un seul paiement"
+
+msgid "Enable"
+msgstr "Permettre"
+
+msgid "Recurring Payment"
+msgstr "Paiement récurrent"
+
+msgid "Price:"
+msgstr "Prix:"
+
+msgid "Number of trial period days (0 = no trial period):"
+msgstr "Nombre de jours de la période d'essai (0 = pas de période d'essai):"
+
+msgid "Enable this feature"
+msgstr "Activez cette fonction"
+
+msgid "The recurring price must be equal or greater than 0.01."
+msgstr "Le prix récurrent doit être égal ou supérieur à 0,01."
+
+msgid "At least one payment type needs to be enabled."
+msgstr "Vous devez choisir au moins un moyen de paiement."
+
+msgid "Delete Plan"
+msgstr "Supprimer le forfait"
+
+msgid "Are you sure you want to delete this plan? This cannot be undone."
+msgstr ""
+"Êtes-vous sûr de vouloir supprimer ce forfait? Cette action ne peut pas être "
+"annulée."
+
+msgid "Save Changes"
+msgstr "Enregistrer les changements"
+
+msgid "Settings saved."
+msgstr "Réglages enregistrés."
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Edit Plan"
+msgstr "Editer le plan d'abonnement"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "There are no plans available for the listing."
+msgstr "Il n'y a pas de forfaits disponibles pour ce listing."
+
+msgctxt "pricing table"
+msgid "Order Now"
+msgstr "Commandez maintenant"
+
+#, php-format
+msgid "Order %s"
+msgstr "Commande %s"
+
+msgid "Log Date"
+msgstr "Date de Connexion"
+
+msgid "Log Message"
+msgstr "Message de connexion"
+
+msgid "Order Item"
+msgstr "Itm de commande"
+
+msgid "Order Status"
+msgstr "Statut Commande"
+
+#, php-format
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Item ID"
+msgstr "ID d'élément"
+
+msgid "Item Name"
+msgstr "Nom"
+
+msgid "Deliver Items"
+msgstr "Item livré"
+
+msgid "Pending Delivery"
+msgstr "Livraison En Attente"
+
+msgid "Pending"
+msgstr "En attente"
+
+msgid "Delivered"
+msgstr "Livré"
+
+msgid "Cancelled"
+msgstr "Annulée"
+
+msgid "Plan"
+msgstr "Plan"
+
+msgid "Items"
+msgstr "Articles"
+
+#, php-format
+msgid "All (%d)"
+msgstr "Tous (%d)"
+
+#, php-format
+msgid "%s (%d)"
+msgstr "%s (%d)"
+
+#, php-format
+msgid "%d Pending"
+msgstr "%d en attente"
+
+#, php-format
+msgid "%d Delivered"
+msgstr "%d Livré"
+
+#, php-format
+msgid "%d Cancelled"
+msgstr "%d Annulé"
+
+msgid "Unknown"
+msgstr "inconnue"
+
+msgid "Bulk Actions"
+msgstr "Actions en Vrac"
+
+msgid "Update Status"
+msgstr "Mise à jour du statut"
+
+msgid "Apply"
+msgstr "Appliquer"
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "Last Name"
+msgstr "Nom de famille"
+
+msgid "Name on Card"
+msgstr "Nom figurant sur la carte"
+
+msgid "Credit Card Number"
+msgstr "Numéro de carte de crédit"
+
+msgid "Expiration Date"
+msgstr "Date d’expiration"
+
+msgid "Security Code"
+msgstr "Code de sécurité"
+
+msgid "Invalid credit card expiration date."
+msgstr "Date d'expiration non valide."
+
+msgid "No plan"
+msgstr "Aucun forfait"
+
+msgid "Item delivered."
+msgstr "Article livré."
+
+msgid "Item delivery failed."
+msgstr "La livraison de l’article a &eacute;chou&eacute;"
+
+msgid "Order created."
+msgstr "Commande crée."
+
+msgid "U.S. Dollar"
+msgstr "Dollar américain"
+
+msgid "Australian Dollar"
+msgstr "Dollar australien"
+
+msgid "Brazillian Real"
+msgstr "Real brésilien"
+
+msgid "Canadian Dollar"
+msgstr "Dollar canadien"
+
+msgid "Swiss Franc"
+msgstr "Franc Suisse"
+
+msgid "Chinese Renminbi Yuan"
+msgstr "Renminbi Yuan Chinois"
+
+msgid "Czech Koruna"
+msgstr "Couronne Tchèque"
+
+msgid "Danish Krone"
+msgstr "Couronne danoise"
+
+msgid "Euro"
+msgstr "euros"
+
+msgid "Hong Kong Dollar"
+msgstr "Dollar de Hong Kong"
+
+msgid "Hungarian Forint"
+msgstr "Forint hongrois"
+
+msgid "Indonesian Rupiah"
+msgstr "Roupiah indonésienne"
+
+msgid "Indian Rupee"
+msgstr "Roupie Indienne"
+
+msgid "Israeli New Sheqel"
+msgstr "Nouveau Sheqel israélien"
+
+msgid "Iranian Rial"
+msgstr "Rial iranien"
+
+msgid "Japanese Yen"
+msgstr "Yen Japonais"
+
+msgid "South Korean Won"
+msgstr "Won sud-coréen"
+
+msgid "Mexican Peso"
+msgstr "Peso mexicain"
+
+msgid "Malaysian Ringgit"
+msgstr "Ringgit malais"
+
+msgid "Nigerian Naira"
+msgstr "Naira nigérien"
+
+msgid "Norwegian Krone"
+msgstr "Couronne Norvégienne"
+
+msgid "New Zealand Dollar"
+msgstr "Dollar Nouvelle Zélande"
+
+msgid "Polish Zloty"
+msgstr "Zloty polonais"
+
+msgid "British Pound"
+msgstr "Livre sterling"
+
+msgid "Russian Ruble"
+msgstr "Rouble Russe"
+
+msgid "Swedish Krona"
+msgstr "Couronne Suédoise"
+
+msgid "Singapore Dollar"
+msgstr "Dollar Singapour"
+
+msgid "Thailand Baht"
+msgstr "Baht Thaïlandais"
+
+msgid "South African Rand"
+msgstr "Rand sud-africain"
+
+msgid "Complete"
+msgstr "Complété"
+
+msgid "Paid"
+msgstr "Payées"
+
+msgid "Processing"
+msgstr "En traitement"
+
+msgid "Pending Payment"
+msgstr "Paiement en attente"
+
+msgid "Expired"
+msgstr "Expiré"
+
+msgid "Failed"
+msgstr "Échec"
+
+msgid "Refunded"
+msgstr "Remboursé"
+
+msgid "Suspended"
+msgstr "Suspendu"
+
+msgid "Confirm Order"
+msgstr "Confirmer Commande"
+
+msgid "Payment Type"
+msgstr "Type de paiement"
+
+msgid "Base"
+msgstr "Base"
+
+msgid "Add-on"
+msgstr "Module"
+
+msgid "All"
+msgstr "Tout"
+
+msgid ""
+"A base plan includes a basic package of features and is required for any "
+"paid listing."
+msgstr ""
+"Un forfait minimal comprenant les options de bases est requis pour tous les "
+"affichages payants"
+
+msgid ""
+"An add-on plan includes additional features or services that may only be "
+"purchased on top of a base plan."
+msgstr ""
+"Un forfait étendu comprenant des options additionnelles peut seulement être "
+"acheté si l'option de base à été sélectionnée."
+
+msgid "Per Week"
+msgstr "Par semaine"
+
+msgid "Per Month"
+msgstr "Par mois"
+
+msgid "Every 3 Months"
+msgstr "Tous les 3 mois"
+
+msgid "Every 6 Months"
+msgstr "Tous les 6 mois"
+
+msgid "Per Year"
+msgstr "Par année"
+
+msgid "Invalid payment plan."
+msgstr "Paiement du forfait invalide"
+
+msgid "Please select a payment type."
+msgstr "Veuillez choisir un type de paiement."
+
+msgid ""
+"The selected payment plan does not support the selected recurring payment "
+"type."
+msgstr ""
+"Le mode de paiement du forfait choisi n'est pas compatible avec le type de "
+"paiement récurrent sélectionné."
+
+msgid "Invalid payment method."
+msgstr "Méthode de paiement non valide."
+
+#, php-format
+msgid ""
+"The selected payment method does not support the currency (%s) set for the "
+"plan."
+msgstr ""
+"Le moyen de paiement choisi ne supporte pas la devise (% s) définie pour le "
+"forfait."
+
+msgid "The selected payment method does not support one-time payments."
+msgstr ""
+"Le moyen de paiement choisi n'est pas compatible avec les paiements en une "
+"fois."
+
+msgid "The selected payment method does not support recurring payments."
+msgstr ""
+"Le moyen de paiement choisi n'est pas compatible avec les paiements "
+"récurrents."
+
+msgid ""
+"The selected payment method does not support the selected recurring payment "
+"type."
+msgstr ""
+"Le moyen de paiement choisi ne supporte pas le type de paiement récurrent "
+"sélectionné."
+
+msgid "Order confirmed and payment complete."
+msgstr "Commande et paiement effectué."
+
+msgid "Order is pending payment."
+msgstr "La commande est en attente de paiement."
+
+msgctxt "order created"
+msgid "Created"
+msgstr "Créé le"
+
+#, php-format
+msgid "Your order (ID: %s) has been processed successfully and is complete."
+msgstr ""
+"La commande pour votre inscription ou votre annonce N°: (ID: %s) a été "
+"traitée et validé avec succès."
+
+#, php-format
+msgid ""
+"Your order (ID: %s) is currently being processed. We will notify you once it "
+"is complete."
+msgstr ""
+"La commande pour votre inscription ou votre annonce N° : (ID: %s) est en "
+"cours de traitement (Merci de noter cette référence pour une réclamation "
+"éventuelle). Nous vous informerons une fois qu'elle sera terminée."
+
+#, php-format
+msgid ""
+"Your order (ID: %s) is currently awaiting payment. We will process your "
+"order once we receive your payment."
+msgstr ""
+"Votre commande (ID:%s) est en attente de paiement. Nous la traiterons une "
+"fois le paiement reçu."
+
+#, php-format
+msgid ""
+"An error occurred while processing your order (ID: %s). Please contact the "
+"administrator for details."
+msgstr ""
+"Une erreur s'est produite lors du traitement de votre commande (ID:% s). S' "
+"il vous plaît contactez l'administrateur pour plus de détails."
+
+#, php-format
+msgid "%s / week"
+msgstr "%s / semaine"
+
+#, php-format
+msgid "%s / month"
+msgstr "%s / mois"
+
+#, php-format
+msgid "%s / 3 months"
+msgstr "%s / 3 mois"
+
+#, php-format
+msgid "%s / 6 months"
+msgstr "%s / 6 mois"
+
+#, php-format
+msgid "%s / year"
+msgstr "%s / an"
+
+#, php-format
+msgid "%s with %d-day trial"
+msgstr "%s with %d-day trial"
+
+msgid "One Time"
+msgstr "Unique"
+
+msgid "Unit price"
+msgstr "Prix unitaire"
+
+msgid "Quantity"
+msgstr "Quantité"
+
+msgid "Amount"
+msgstr "Montant"
+
+msgid "Total:"
+msgstr "Total:"
+
+msgid "Select Plan"
+msgstr "Choisir un abonnement"
+
+#, php-format
+msgid ""
+"I agree to the <a href=\"%s\" target=\"_blank\">terms and conditions</a>"
+msgstr ""
+"J'accepte les <a href=\"%s\"  target=\"_blank\">termes et conditions</a>."
+
+msgid "Terms and Conditions"
+msgstr "Conditions générales"
+
+msgid "Orders"
+msgstr "Demande Devis"
+
+msgid "Plans"
+msgstr "Plans"
+
+msgid "Item delivery cancelled."
+msgstr "La livraison de la commande est annulé."
+
+msgid "Item delivery cancel failed."
+msgstr "L'annulation de la livraison a échoué"
+
+msgid "Item cancelled."
+msgstr "Article annulé."
+
+msgid "Order complete."
+msgstr "Commande terminée."
+
+msgid "Order Received Notification Email"
+msgstr "Email à l'utilisateur pour une commande reçue"
+
+msgid ""
+"If enabled, a notification email is sent to the user when a user places an "
+"order."
+msgstr "Si activé, envoie un email à l'utilisateur quand il fait une commande."
+
+msgid "[{site_name}] We have received your order (Order ID: {order_id})"
+msgstr ""
+"[{site_name}] Nous avons reçu votre commande (Numéro de commande: {order_id})"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"We have received an order from you on {order_date}.\n"
+"\n"
+"Please review your order below:\n"
+"\n"
+"------------------------------------\n"
+"{order_plan} - {order_price} {order_currency}\n"
+"------------------------------------\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Bonjour {recipient_name},\n"
+"                \n"
+"Nous avons reçu une commande de votre part le {order_date}.\n"
+"\n"
+"Veuillez vérifier votre commande ci-dessous:\n"
+"\n"
+"------------------------------------\n"
+"{order_plan} - {order_price} {order_currency}\n"
+"------------------------------------\n"
+"\n"
+"Cordialement, \n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Order Complete Notification Email"
+msgstr "Email à l'utilisateur pour une commande terminée"
+
+msgid ""
+"If enabled, a notification email is sent to the user when an order is "
+"complete."
+msgstr ""
+"Si activé, envoie un email à l'utilisateur quand sa commande est terminée."
+
+msgid "[{site_name}] Your order (ID: {order_id}) is complete"
+msgstr "[{site_name}] Votre commande (ID: {order_id}) est terminée."
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"We have processed your order placed on {order_date} and its now complete.\n"
+"\n"
+"------------------------------------\n"
+"{order_plan} - {order_price} {order_currency}\n"
+"------------------------------------\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Bonjour {recipient_name},\n"
+"                \n"
+"Nous avons traité votre commande passée le {order_date} et elle est "
+"maintenant terminé.\n"
+"\n"
+"------------------------------------\n"
+"{order_plan} - {order_price} {order_currency}\n"
+"------------------------------------\n"
+"\n"
+"Cordialement, \n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Order Received Admin Notification Email"
+msgstr "Email à l'admin pour une commande reçue"
+
+msgid ""
+"If enabled, a notification email is sent to administrators when a user place "
+"an order and payment received."
+msgstr ""
+"Si activé, un email de notification est envoyé aux administrateurs quand un "
+"utilisateur passe une commande et que le paiement est reçu."
+
+msgid "[{site_name}] A new order (Order ID: {order_id}) has been placed"
+msgstr ""
+"[{site_name}] Une nouvelle commande (Order ID: {order_id}) a été passée"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A new order from {order_user_name} ({order_user_email}) has been placed on "
+"{order_date}.\n"
+"\n"
+"------------------------------------\n"
+"{order_plan} - {order_price} {order_currency}\n"
+"------------------------------------\n"
+"\n"
+"You can view the details of the order at {order_admin_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Bonjour {recipient_name},\n"
+"                \n"
+"Une nouvelle commande de {order_user_name} ({order_user_email}) a été émise "
+"le {order_date}.\n"
+"\n"
+"------------------------------------\n"
+"{order_plan} - {order_price} {order_currency}\n"
+"------------------------------------\n"
+"\n"
+"Vous pouvez consulter les détails de la commande à {order_admin_url}.\n"
+"\n"
+"Cordialement,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Order Awaiting Fullfillment Admin Notification Email"
+msgstr "Email à l'admin pour une commande en attente de réalisation"
+
+msgid ""
+"If enabled, a notification email is sent to administrators when ordered "
+"items for an order are ready for delivery."
+msgstr ""
+"Si activé, un e-mail de notification est envoyé aux administrateurs lorsque "
+"des commandes sont prêtes à être livrés."
+
+msgid ""
+"[{site_name}] There is an order (Order ID: {order_id}) awaiting fullfillment"
+msgstr ""
+"[{site_name}] Il y a une commande (ID: {order_id}) en attente de réalisation"
+
+msgid ""
+"Hi {recipient_name},\n"
+"\n"
+"The following order placed on {order_date} is awaiting fullfillment.\n"
+"\n"
+"------------------------------------\n"
+"{order_plan} - {order_price} {order_currency}\n"
+"------------------------------------\n"
+"\n"
+"You can view the details of the order at {order_admin_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Bonjour {recipient_name},\n"
+"\n"
+"La commande suivante du {order_date} est en attente d'exécution .\n"
+"\n"
+"------------------------------------\n"
+"order_plan} - {order_price} {order_currency}\n"
+"------------------------------------\n"
+"\n"
+"Vous pouvez consulter les détails de la commande à {order_admin_url}.\n"
+"\n"
+"Cordialement,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "All plans"
+msgstr "Tous les Forfaits"
+
+msgid "Set Plan"
+msgstr "Réglez le forfait"
+
+msgid "Payment Terms and Conditions"
+msgstr "Conditions générales de paiement"
+
+msgid "No terms and conditions"
+msgstr "Pas de conditions générales"
+
+msgid "Show terms and conditions link"
+msgstr "Lien des conditions générales"
+
+msgid "Show terms and conditions inline"
+msgstr "Afficher les conditions générales en ligne"
+
+msgid "Users must agree to terms and conditions"
+msgstr "Les utilisateurs doivent accepter les conditions générales"
+
+msgid "Order confirmed."
+msgstr "Commande confirmée."
+
+msgid "Redirecting to PayPal..."
+msgstr "Redirection vers PayPal..."
+
+msgid "PayPal"
+msgstr "PayPal"
+
+#, php-format
+msgid "PayPal IPN received (type: %s, status: %s)."
+msgstr "PayPal IPN reçue (type: %s, État: %s)."
+
+msgid "Classic API Username"
+msgstr "Nom d'utilisateur API Classique"
+
+msgid "Classic API Password"
+msgstr "Mot de passe API Classique"
+
+msgid "Classic API Signature"
+msgstr "Signature API Classique"
+
+msgid "Classic API Version"
+msgstr "Signature API Classique"
+
+msgid "Classic API IPN endpoint URL"
+msgstr "API classique IPN endpoint URL"
+
+msgid "Classic API Username (sandbox)"
+msgstr "Nom d'utilisateur de l'API (Sandbox)"
+
+msgid "Classic API Password (sandbox)"
+msgstr "Mot de passe de l'API (Sandbox)"
+
+msgid "Classic API Signature (sandbox)"
+msgstr "Signature de l'API (Sandbox)"
+
+msgid "Set payment status as \"Processing\""
+msgstr "Mettre Statut Paiement à \"En cours de Traitement\""
+
+msgid ""
+"Check this option to set the payment status of orders to \"Processing\" even "
+"when it is complete, which is useful for testing IPN."
+msgstr ""
+"Cochez cette option pour mettre le statut de paiement de la commande à \"En "
+"cours de traitement\" même si elle est complète, ce qui est utile pour les "
+"tests IPN."
+
+msgid "Classic API IPN endpoint URL (sandbox)"
+msgstr "URL de point de terminaison classique API IPN (sandbox)"
+
+msgid "New credit card"
+msgstr "Nouvelle carte bancaire"
+
+msgid "Invalid credit card. Please try creating a new card."
+msgstr "Carte de crédit invalide. Essayez de créer une nouvelle carte."
+
+msgid ""
+"The order cannot be processed. You have not been charged. Please contact the "
+"administrator for details."
+msgstr ""
+"La commande n'a pas pu être traitée. Vous n'avez pas été débité. Contactez "
+"l'administrateur pour plus de détails."
+
+msgid "Credit Card (Stripe)"
+msgstr "Carte de Crédit (Stripe)"
+
+msgid "The Stripe library requires the OpenSSL PHP extension installed."
+msgstr ""
+"Le paiement par Stripe nécessite l&#39;installation de l&#39;extension "
+"OpenSSL"
+
+msgid "Secret Key"
+msgstr "Clé secrète"
+
+msgid "Webhook URL"
+msgstr "URL crochet web"
+
+msgid "Enable test mode"
+msgstr "Activer le mode de test"
+
+msgid "Test Secret Key"
+msgstr "Test Secret Key"
+
+msgid "Test Publishable Key"
+msgstr "Test Publishable Key"
+
+#, php-format
+msgid "Stripe webhoook received (type: %s)."
+msgstr "Stripe webhook reçu (type: %s)."

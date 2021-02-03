@@ -1,0 +1,3202 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sabai-directory\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-04 19:42+0200\n"
+"PO-Revision-Date: 2016-04-13 20:42+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Language: nl_NL\n"
+
+#, php-format
+msgid "%s (%d)"
+msgstr "%s (%d)"
+
+#, php-format
+msgid "Sort by: <strong>%s</strong>"
+msgstr "Sorteer op: <strong>%s</strong>"
+
+msgid "Field"
+msgstr "Veld"
+
+msgid "Value"
+msgstr "Waarde"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Message"
+msgstr "Bericht"
+
+msgid "Enter a location"
+msgstr "Vul locatie in"
+
+msgid "By car"
+msgstr "Met de auto"
+
+msgid "By public transit"
+msgstr "Met het openbaar vervoer"
+
+msgid "Walking"
+msgstr "Lopend"
+
+msgid "Bicycling"
+msgstr "Met de fiets"
+
+msgid "Get Directions"
+msgstr "Toon route"
+
+#, php-format
+msgid "Showing %d - %d of %s results"
+msgstr "Toon %d - %d of %s resultaten"
+
+#, php-format
+msgid "Showing %s result"
+msgid_plural "Showing %s results"
+msgstr[0] "Toon %s resultaat"
+msgstr[1] "Toon %s resultaten"
+
+msgid "Rating distribution"
+msgstr "Verdeling waarderingen"
+
+msgid "Rating summary"
+msgstr "Overzicht waarderingen"
+
+#, php-format
+msgid "%d of %d people found the following review helpful"
+msgstr "%d van de %d mensen vonden de volgende review nuttig"
+
+#, php-format
+msgid "%s reviewed %s"
+msgstr "%s gewaardeerd %s"
+
+#, php-format
+msgid "<span>Was this review helpful to you?</span> %s %s"
+msgstr "<span>Vond u deze waardering nuttig?</span> %s %s"
+
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "%s review"
+msgstr[1] "%s reviews"
+
+#, php-format
+msgid "%s reviews"
+msgstr "%s reviews"
+
+#, php-format
+msgid "%s mi"
+msgstr "%s mi"
+
+#, php-format
+msgid "%s km"
+msgstr "%s km"
+
+#, php-format
+msgid "(%d)"
+msgstr "(%d)"
+
+msgid "Redo search when map moved"
+msgstr "Zoek opnieuw na verplaatsen map"
+
+msgid "Browse Category:"
+msgstr "Blader door Categorie:"
+
+msgid "Keywords:"
+msgstr "Keywords:"
+
+msgid "Select category"
+msgstr "Selecteer categorie"
+
+msgid "Search..."
+msgstr "Zoeken..."
+
+msgid "Location Options"
+msgstr "Locatie opties"
+
+#, php-format
+msgid "Search Radius: %s mi"
+msgstr "Zoek radius: %s mi"
+
+#, php-format
+msgid "Search Radius: %s km"
+msgstr "Zoek radius: %s km"
+
+msgid "Get My Location"
+msgstr "Verkrijg mijn locatie"
+
+msgid "Invalid location"
+msgstr "Ongeldige locatie"
+
+msgid "Add Listing"
+msgstr "Instelling toevoegen"
+
+msgid "Photo size"
+msgstr "Formaat foto"
+
+msgid "Thumbnail photo"
+msgstr "Thumbnail foto"
+
+msgid "Medium size photo"
+msgstr "Medium formaat foto"
+
+msgid "Large size photo"
+msgstr "Groot formaat foto"
+
+msgid "Original size photo"
+msgstr "Origineel formaat foto"
+
+msgid "Link photos to:"
+msgstr "Link fotos naar"
+
+msgid "Do not link"
+msgstr "Geen link plaatsen"
+
+msgid "Single listing page"
+msgstr "Link naar zorginstelling pagina"
+
+msgid "Single photo"
+msgstr "Enkele foto"
+
+msgid "Linked photo size"
+msgstr "Gelinkte foto formaat"
+
+msgid "Claimed/Unclaimed"
+msgstr "opgeëist/niet opgeëist"
+
+msgid "Claimed"
+msgstr "opgeëist"
+
+msgid "Unclaimed"
+msgstr "Niet opgeëist"
+
+msgid "Show claimed only"
+msgstr "Alleen opgeëiste tonen"
+
+msgid "Send E-mail"
+msgstr "Verstuur E-mail"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Hidden fields"
+msgstr "Verborgen velden"
+
+msgid "Phone Number"
+msgstr "Telefoonnummer"
+
+msgid "Mobile Number"
+msgstr "Mobiel  nummer"
+
+msgid "Fax Number"
+msgstr "Fax nummer"
+
+msgid "Icon:"
+msgstr "Icoon:"
+
+msgid "Display e-mail address"
+msgstr "Toon e-mailadres"
+
+msgid "Display custom label"
+msgstr "Toon aangepast label"
+
+msgid "Display URL"
+msgstr "Toon URL"
+
+msgid "Maximum URL length (0 for unlimited):"
+msgstr "Max. URL lengte (0 voor ongelimiteerd):"
+
+msgid "Add rel=\"nofollow\""
+msgstr "Add rel=\"nofollow\""
+
+msgid "Add rel=\"external\""
+msgstr "Add rel=\"external\""
+
+msgid "Listings"
+msgstr "Zorginstellingen"
+
+msgid "Listing"
+msgstr "Zorginstelling"
+
+msgid "Your Info"
+msgstr "Uw informatie"
+
+msgid "Essential Info"
+msgstr "Belangrijke info"
+
+msgid "Contact Info"
+msgstr "Contact info"
+
+msgid "Social Accounts"
+msgstr "Social Media"
+
+msgid "Additional Info"
+msgstr "Algemene info"
+
+msgid "Location"
+msgstr "Locatie"
+
+msgid "Owner"
+msgstr "Eigenaar"
+
+msgid "Photos"
+msgstr "Foto's"
+
+msgid "Listing Description"
+msgstr "Zorginstelling beschrijving"
+
+#, php-format
+msgid "Edit own unclaimed %1$s"
+msgstr "Bewerk eigen niet opgeëiste %1$s"
+
+#, php-format
+msgid "Edit any unclaimed %2$s"
+msgstr "Bewerk opgeëiste %2$s"
+
+#, php-format
+msgid "Delete own unclaimed %1$s"
+msgstr " Verwijder eigen niet opgeëiste %1$s"
+
+#, php-format
+msgid "Delete own claimed %1$s"
+msgstr "Verwijder eigen opgeëiste %1$s"
+
+#, php-format
+msgid "Delete any unclaimed %2$s"
+msgstr "Verwijdert alle niet opgeëiste %2$s"
+
+#, php-format
+msgid "Claim existing %1$s"
+msgstr "Bestaande claimen %1$s"
+
+msgid "Reviews"
+msgstr "Beoordelingen"
+
+msgid "Review"
+msgstr "Beoordeling"
+
+msgid "Rating"
+msgstr "Rating"
+
+msgid "Votes"
+msgstr "Stemmen"
+
+#, php-format
+msgid "Delete any %2$s"
+msgstr "Verwijder elke %2$s"
+
+msgid "Photo"
+msgstr "Foto"
+
+#, php-format
+msgid "Delete any non-official %2$s"
+msgstr "Verwijder elke niet officiële %2$s"
+
+msgid "Leads"
+msgstr "Leads"
+
+msgid "Lead"
+msgstr "Lead"
+
+msgid "Register now"
+msgstr "Registreer nu"
+
+msgid "Proceed without registration"
+msgstr "Ga verder zonder regsitratie"
+
+msgid "Create an Account"
+msgstr "creëer een Account"
+
+#, php-format
+msgid ""
+"Already registered? Click <a href=\"%s\" class=\"sabai-login popup-login"
+"\">here</a> to login."
+msgstr ""
+"Bent u al geregistreerd? klik Click <a href=\"%s\" class=\"sabai-login popup-"
+"login\">hier</a> om in te loggen."
+
+msgid "Directory"
+msgstr "Map"
+
+msgid "Select the directory where you want to submit the new listing."
+msgstr "Selecteer de map waar u de nieuwe Zorginstelling toe wilt voegen."
+
+msgid "Submit Listing"
+msgstr "Voeg zorginstelling toe"
+
+#, php-format
+msgid ""
+"Your listing has been submitted successfully and published. You can view the "
+"listing <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+"De zorginstelling is succesvol toegevoegd en gepubliceerd. U kan de "
+"zorginstelling <a href=\"%s\" target=\"_blank\">hier</a> bekijken."
+
+msgid ""
+"Your listing has been submitted successfully. We will review your submission "
+"and post it on this site if it is approved."
+msgstr ""
+"De zorginstelling is succesvol toegevoegd. Wij zullen uw inzending bekijken "
+"en op de site plaatsen als het is goedgekeurd."
+
+msgid ""
+"If the listing is for your organisation, please complete the details below. "
+"Once we have confirmed your identity, we will give you full control over "
+"your listing and its contents."
+msgstr ""
+"<p>Directeur of werknemer van deze zorginstelling? Verifieer deze dan "
+"vandaag nog.\n"
+"Wilt u  de zorginstelling ook uitgebreid presenteren op Psychisch Kompas?Dit "
+"zal uw zorginstelling heel wat opleveren.</p> <p>Vraag dan direct een "
+"vrijblijvende offerte aan, voor een uitgebreide prestentatie.</p>"
+
+msgid "Duration Settings"
+msgstr "Duur instellingen"
+
+msgid "Duration"
+msgstr "Duur"
+
+msgid ""
+"Enter the number of days claims are valid before they expire. Enter 0 for no "
+"expiration."
+msgstr ""
+"Voer het aantal dagen in wanneer de claims verlopen zijn voor ze vervallen. "
+"voer 0 in indien er geen vervaldag is."
+
+msgid "days"
+msgstr "Dagen"
+
+msgid "Grace period duration"
+msgstr "Bedenktijd"
+
+msgid ""
+"Enter the number of days after which expired claims are deleted from the "
+"database."
+msgstr ""
+"Voer het aantal dagen in wanneer de claims verlopen zijn voor ze verwijderd "
+"worden uit de database."
+
+msgid "Move listings to trash when their claims expired"
+msgstr "Verwijder waarderingen naar de prullenbak als ze verlopen zijn"
+
+msgid "Claim Listing Form Settings"
+msgstr "opgeëiste zorginstelling formulier instellingen"
+
+msgid "Claim listing form header"
+msgstr "opgeëiste zorginstelling formulier header"
+
+msgid ""
+"Enter the message displayed at the top of the form for claiming existing "
+"listings."
+msgstr ""
+"Voer het bericht in welke wordt weergegeven aan de bovenkant van het "
+"formulier om een bestaande zorginstelling te claimen."
+
+msgid "Do not require comment"
+msgstr "Commentaar niet nodig"
+
+msgid "Approval Settings"
+msgstr "Goedkeuring instellingen"
+
+msgid "Automatically approve claims for new listings"
+msgstr "Automatische goedkeuring voor het claimen van nieuwe zorginstellingen"
+
+msgid "Automatically approve claims for existing listings"
+msgstr ""
+"Automatische goedkeuring voor het claimen van bestaande zorginstellingen"
+
+msgid "Delete claims that have been approved automatically"
+msgstr "Verwijder opgeëiste automatisch als deze zijn goedgekeurd"
+
+msgid "Unclaimed Listing Settings"
+msgstr "niet opgeëiste zorginstelling instellingen"
+
+msgid "Hide from the index page"
+msgstr "Verberg van de index pagina"
+
+msgid "Fields"
+msgstr "Velden"
+
+msgid "Select the fields allowed for unclaimed listings in the frontend."
+msgstr ""
+"Selecteer de velden toegestaan ​​opgeëiste zorginstellingen op de voorgrond."
+
+#, php-format
+msgid "Limit the number of %s allowed in the frontend"
+msgstr "Beperk het aantal %s toegestaan ​op de voorgrond"
+
+msgid "Contact Us Form"
+msgstr "Contact Formulier"
+
+msgid "Allow users to send messages via contact us form"
+msgstr ""
+"Sta toe dat gebruikers berichten kunnen sturen via het Contact Formulier"
+
+msgid "Send messages to author email address"
+msgstr "Stuur berichten naar een auteur email adres"
+
+msgid "Send messages to contact info email address (if any)"
+msgstr "Stuur berichten naar een contact info email adres ( indien aanwezig)"
+
+msgid "Allow users to post reviews"
+msgstr "Sta toe dat gebruikers waarderingen kunnen plaatsen"
+
+msgid "Single listing page tabs"
+msgstr "Enkele zorginstelling pagina tabs"
+
+msgid ""
+"Enter the number of days before the expiration date on which this "
+"notification will be sent."
+msgstr ""
+"Voer het aantal dagen in vóór de vervaldatum waarop deze kennisgeving wordt "
+"verzonden."
+
+msgid "day(s)"
+msgstr "dag(en)"
+
+msgid "Claim ID"
+msgstr "Claim ID"
+
+msgid "Claim Date"
+msgstr "Claim Datum"
+
+msgid "Claim Type"
+msgstr "Claim Soort"
+
+msgid "User"
+msgstr "Gebruiker"
+
+msgid "Comment"
+msgstr "Reactie"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Delete"
+msgstr "Verwijder"
+
+#, php-format
+msgid "All (%d)"
+msgstr "Alle (%d)"
+
+#, php-format
+msgid "Claim %s"
+msgstr "Claim %s"
+
+msgid "New listing"
+msgstr "Nieuwe zorginstelling"
+
+msgid "Existing listing"
+msgstr "Bestaande zorginstelling"
+
+msgid "Disable map"
+msgstr "Map uistchakelen"
+
+msgid "Basic Settings"
+msgstr "Basis Instellingen"
+
+msgid "Default map type"
+msgstr "Standaard map soort"
+
+msgid "Map height"
+msgstr "Map height"
+
+msgid "Default style"
+msgstr "Standaard stijl"
+
+msgid "Google map style"
+msgstr "Google map stijl"
+
+msgid "Distance mode"
+msgstr "Afstand mode"
+
+msgid "Kilometers"
+msgstr "Kilometers"
+
+msgid "Miles"
+msgstr "Miles"
+
+msgid "Default latitude"
+msgstr "Standaard latitude"
+
+msgid "Default longitude"
+msgstr "Standaard longitude"
+
+msgid "Enable scrollwheel zooming on the map"
+msgstr "Scrollwheel inzoomen op map inschakelen"
+
+msgid "Map infobox width"
+msgstr "Map infobox width"
+
+msgid "List View Settings"
+msgstr "List View Instellingen"
+
+msgid "Display small map"
+msgstr "Toon kleine map"
+
+msgid "Show a scroll bar when there are many listings to display"
+msgstr ""
+"Laat een scroll bar zien als er teveel zorginstellingen zijn om te tonen"
+
+msgid "Map width"
+msgstr "Map width"
+
+msgid ""
+"The horizontal display ratio (12 being 100% wide) of the map in List view"
+msgstr ""
+"De horizontale beeldverhouding (12 op 100% wide) van de kaart in de "
+"lijstweergave"
+
+msgid "Map infobox"
+msgstr "Map infobox"
+
+msgid ""
+"Display map infobox on the map when hover overing listing titles or clicking "
+"map markers"
+msgstr ""
+"Weergave map infobox op de kaart wanneer hover over de zorginstelling titels "
+"of bij het klikken op de kaartmarkeringen"
+
+msgid "Display map infobox on the map when clicking map markers"
+msgstr ""
+"Weergave map infobox op de kaart bij het klikken op de kaartmarkeringen"
+
+msgid "Never display map infobox on the map"
+msgstr "Map infobox nooit weergeven op de map"
+
+msgid "Map Marker Settings"
+msgstr "Map Markeer Instellingen"
+
+msgid "Custom marker icon URL"
+msgstr "Custom marker icon URL"
+
+msgid "Custom marker icon size"
+msgstr "Gebruikelijke grootte van het markeer icoon"
+
+msgid "Enable marker clusters"
+msgstr "Enable marker clusters"
+
+msgid "Custom marker cluster image directory URL"
+msgstr "Standaard marker cluster afbeelding map URL"
+
+#, php-format
+msgid "Default: %s"
+msgstr "Standaard %s"
+
+msgid "Other Settings"
+msgstr "Andere Instellingen"
+
+msgid "Default zoom level for single listing"
+msgstr "Standaard zoom level voor enkele zorginstelling"
+
+msgid "Show all listings in Map view"
+msgstr "Alle zorginstellingen weergeven in Map view"
+
+msgid "Draw radius search circle"
+msgstr "Draw radius search circle"
+
+msgid "Radius search circle stroke color"
+msgstr "Radius search circle stroke color"
+
+msgid "Radius search circle fill color"
+msgstr "Radius search circle fill color"
+
+#, php-format
+msgid "%d km/mi"
+msgstr "%d km/mi"
+
+msgid "None"
+msgstr "Geen"
+
+msgid "Keyword Search Settings"
+msgstr "Keywords Zoek Instellingen"
+
+msgid "Disable keyword search"
+msgstr "Keywords Zoek Instellingen uitschakelen"
+
+msgid "Min. length of keywords in characters"
+msgstr "minimale lengte van keywords in karakters"
+
+msgid "Match any or all"
+msgstr "Komt overeen met elke of alle"
+
+msgid "Match any"
+msgstr "Komt overeen met elke"
+
+msgid "Match all"
+msgstr "komt overeen met alle"
+
+msgid "Enable auto suggestion"
+msgstr "Schakel auto  voorstel in"
+
+msgid "Auto suggest listings"
+msgstr "auto voorgestelde zorginstellingen"
+
+msgid "Redirect to suggested listing page when clicked"
+msgstr ""
+"Omleiden naar voorgestelde zorginstelling pagina als erop wordt geklikt"
+
+msgid "Number of auto suggested listings to display"
+msgstr ""
+"Aantal automatisch voorgestelde zorginstellingen die worden weergegeven"
+
+msgid "Suggested listings header text"
+msgstr "Voorgestelde zorginstellingen in header tekst"
+
+msgid "Suggested listing icon"
+msgstr "Voorgesteld zorginstelling icoon"
+
+msgid "Auto suggest categories"
+msgstr "Auto voorstel categorieën"
+
+msgid "Redirect to suggested category page when clicked"
+msgstr "Omleiden naar voorgestelde categorie pagina als erop wordt geklikt"
+
+msgid "Number of auto suggested categories to display"
+msgstr "Aantal auto voorgestelde categorieën die worden weergegeven"
+
+msgid "Suggested categories header text"
+msgstr "Voorgestelde categorieën in header tekst"
+
+msgid "Suggested category icon"
+msgstr "Voorgestelde categorie icoon"
+
+msgid "Category Search Settings"
+msgstr "Categorie Zoek Instellingen"
+
+msgid "Disable category search"
+msgstr "Schakel categorie zoeken uit"
+
+msgid "Category depth (0 for unlimited)"
+msgstr "Categorie depth (0 for unlimited)"
+
+msgid "Hide if no posts"
+msgstr "Verberg als er geen berichten zijn"
+
+msgid "Hide post count"
+msgstr "Verberg berichten telling"
+
+msgid "Search Filter Settings"
+msgstr "Zoek Filter Instellingen"
+
+msgid "Disable filters"
+msgstr "Schakel filters uit"
+
+msgid "Always show filters"
+msgstr "Altijd filters weergeven"
+
+msgid "Display filter form above search results"
+msgstr "Filter formulier weergeven boven zoek resultaten"
+
+msgid "Auto submit filter form when value(s) changed"
+msgstr "Auto indienen filter formulier als de waarde (n) veranderd"
+
+msgid "Custom fields to include in search"
+msgstr "Custom fields to include in search"
+
+msgid "Location Search Settings"
+msgstr "Locatie Zoek Instellingen"
+
+msgid "Disable location search"
+msgstr "Schakel locatie zoeken uit"
+
+msgid "Default search radius"
+msgstr "Standaard zoek radius"
+
+msgid "Auto suggest location addresses"
+msgstr "Auto voorstellen locatie adres"
+
+msgid "Suggested location addresses header text"
+msgstr "Voorgestelde locatie adres header tekst"
+
+msgid "Auto suggest cities"
+msgstr "Auto voorgestelde Stad"
+
+msgid "Number of auto suggested cities to display"
+msgstr "Aantal auto voorgestelde steden om weer te geven"
+
+msgid "City"
+msgstr "Stad"
+
+msgid "Suggested cities header text"
+msgstr "Voorgestelde steden header tekst"
+
+msgid "Suggested city icon"
+msgstr "Voorgestelde stad icoon"
+
+msgid "Suggested location address icon"
+msgstr "Voorgestelde locatie adres icoon"
+
+msgid "Auto suggest states/provinces/regions"
+msgstr "Auto voorstel states/provincies/regio's"
+
+msgid "Number of auto suggested states/provinces/regions to display"
+msgstr "Aantal voorgestelde states/provincies/regio's om weer te geven"
+
+msgid "State / Province / Region"
+msgstr "State/ Provincie/ Regio's"
+
+msgid "Suggested states/provinces/regions header text"
+msgstr "Voorgestelde states/provincies/regio's header Tekst"
+
+msgid "Suggested state/province/region icon"
+msgstr "Voorgestelde states/provincies/regio's icoon"
+
+msgid "Auto suggest zip/postal codes"
+msgstr "Auto voorgestelde zip/postcode"
+
+msgid "Number of auto suggested zip/postal codes to display"
+msgstr "Aantal auto voorgestelde zip/postcode om weer te geven"
+
+msgid "Postal / Zip code"
+msgstr "Post/Zip code"
+
+msgid "Suggested zip/postal codes header text"
+msgstr "Voorgestelde zip/postcode header tekst"
+
+msgid "Suggested zip/postal code icon"
+msgstr "Voorgestelde zip/postcode icoon"
+
+msgid "Auto suggest countries"
+msgstr "Auto voorgestelde landen"
+
+msgid "Number of auto suggested countries to display"
+msgstr "Aantal auto voorgestelde landen om weer te geven"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Suggested countries header text"
+msgstr "Voorgestelde landen header tekst"
+
+msgid "Suggested country icon"
+msgstr "Voorgestelde landen icoon"
+
+msgid "Newest First"
+msgstr "Nieuwste Eerst"
+
+msgid "Oldest First"
+msgstr "Oudste Eerst"
+
+msgid "Most Reviews"
+msgstr "Meest bekeken Waarderingen"
+
+msgid "Highest Rated"
+msgstr "Hoogste Rated"
+
+msgctxt "sort"
+msgid "Title"
+msgstr "Titel"
+
+msgid "Random"
+msgstr "Random"
+
+msgid "Distance"
+msgstr "Afstand"
+
+msgid "Helpfullness"
+msgstr "Nuttig"
+
+msgid "Most Voted"
+msgstr "Meest Gestemd"
+
+msgid "List view"
+msgstr "lijst weergave"
+
+msgid "Grid view"
+msgstr "Grid weergave"
+
+msgid "Map view"
+msgstr "Map view"
+
+msgid "Listings per page"
+msgstr "Zorginstellingen per pagina"
+
+#, php-format
+msgid "(max. limit %d)"
+msgstr "(max. limit %d)"
+
+msgid "Reviews per page"
+msgstr "Waarderingen per pagina"
+
+msgid "Photos per page"
+msgstr "Foto's per pagina"
+
+msgid "Listings sorting options"
+msgstr "Zorginstellingen sorteer opties"
+
+msgid "Listings default sorting order"
+msgstr "Standaard sorteer volgorde van de zorginstellingen"
+
+msgid "Reviews sorting options"
+msgstr "Waarderingen sorteer opties"
+
+msgid "Reviews default sorting order"
+msgstr "Standaard sorteer volgorde van de waarderingen"
+
+msgid "Photos sorting options"
+msgstr "Foto's sorteer opties"
+
+msgid "Photos default sorting order"
+msgstr "Standaard sorteer volgorde van de foto's"
+
+msgid "Listings view options"
+msgstr "Weergave zorginstellingen opties"
+
+msgid "Listings default view"
+msgstr "Zorginstellingen standaard weergave"
+
+msgid "Grid view column count"
+msgstr "Grid weergave kolom count"
+
+msgid "slug"
+msgstr "slug"
+
+msgid ""
+"Slugs must consist of lowercase alphanumeric characters and underscores."
+msgstr ""
+"Slugs moet bestaan ​​uit kleine letters alfanumerieke tekens en underscores."
+
+msgid "Category list page column count"
+msgstr "Categorie lijst pagina kolom count"
+
+msgid "Hide empty categories on category list page"
+msgstr "Verberg lege categorieën in de categorie pagina"
+
+msgid "Hide child categories on category list page"
+msgstr "Verberg sub categorieën in de categorie lijst pagina"
+
+msgid "Disable photo comments"
+msgstr "Schakel foto reacties uit"
+
+msgid "Stick featured listings to the top of the directory index page"
+msgstr ""
+"Zet aanbevolen zorginstellingen aan de bovenkant van de map index pagina "
+"vast."
+
+msgid "Stick featured listings to the top of single category pages"
+msgstr ""
+"Zet aanbevolen zorginstellingen aan de bovenkant van de enkele categorieën "
+"vast"
+
+msgid "List claimed listings only in user profile"
+msgstr "Plaats opgeëiste zorginstellingen alleen in een gebruikers profiel"
+
+msgid "Show user registration form when guest user is submitting a listing"
+msgstr ""
+"Laat gebruikers registratie formulier zien als een gast gebruiker een "
+"zorginstelling indient"
+
+msgid "Allow guest user to skip user registration"
+msgstr "sta toe dat gast gebruikers gebruikers registratie overslaan"
+
+msgid "Spam Score Threshold"
+msgstr "Spam Score Threshold"
+
+msgid ""
+"When a post is flagged, the post is assigned a \"spam score\". Posts with "
+"spam scores exceeding the threshold value are marked as spam and moved to "
+"trash automatically by the system. Also, posts with higher number of votes "
+"will have higher threshold. For example, if the value set here is 11, and a "
+"post has 10 votes, then the spam score threshold for the post will be 14 (11 "
+"+ 0.3 x 10)."
+msgstr ""
+"Wanneer een bericht is gemarkeerd , wordt aan het bericht een \"spam score\" "
+"toegewezen . Berichten met spam scores boven de drempelwaarde zijn "
+"gemarkeerd als spam en worden automatisch door het systeem verplaatst naar "
+"de prullenbak. Ook zullen berichten met een hoger aantal stemmen hogere "
+"drempel hebben . Bijvoorbeeld, als de hier ingestelde waarde 11 is , en een "
+"bericht heeft 10 stemmen , dan zal de  spam score drempel voor het bericht  "
+"14 (11 + 0.3 x 10) worden."
+
+msgid "Listings:"
+msgstr "Zorginstellingen:"
+
+msgid "number of rating stars"
+msgstr "Aantal rating sterren"
+
+msgid "Reviews:"
+msgstr "Waarderingen:"
+
+msgid "number of \"helpful\" votes"
+msgstr "Aantal \"nuttige\" stemmen"
+
+msgid "number of votes"
+msgstr "Aantal stemmen"
+
+msgid "Auto-delete Settings"
+msgstr "Auto-verwijder Instellingen"
+
+msgid "Auto-delete spam"
+msgstr "Auto-verwijder spam"
+
+msgid ""
+"When checked, posts that have been marked as spam will be deleted by the "
+"system after the period of time specified in the \"Delete Spam After\" "
+"option."
+msgstr ""
+"Indien aangevinkt , worden berichten die  gemarkeerd zijn als spam gewist "
+"door het systeem na een tijdsbestek die gespecifieerd is in de \"Verwijder "
+"spam na\" optie."
+
+msgid "Delete spam after:"
+msgstr "Verwijder spam na:"
+
+msgid ""
+"Enter the number of days the system will wait before auto-deleting posts "
+"marked as spam."
+msgstr ""
+"Voer het aantal dagen in dat het systeem zal wachten voor dat de spam "
+"gemarkeerde berichten auto-verwijderd worden."
+
+msgid "Reject"
+msgstr "Afgekeurd"
+
+msgid "Approve"
+msgstr "Goedkeuren"
+
+msgid ""
+"This claim may not be approved because the listing has already been claimed "
+"by another user."
+msgstr ""
+"Deze claim zal misschien niet worden goed gekeurd omdat de zorginstelling al "
+"is geclaimd door een andere gebruiker."
+
+#, php-format
+msgid "%s submitted %s for listing %s"
+msgstr "%s ingediend %s als zorginstelling %s"
+
+msgid "Unknown"
+msgstr "Onbekend"
+
+msgid "Contact name"
+msgstr "Contact naam"
+
+msgid "Admin note"
+msgstr "Admin notitie"
+
+msgid ""
+"This note may be used for administration purpose or embedded in notifcation "
+"mail using the {claim_admin_note} tag."
+msgstr ""
+"Deze notitie kan misschien gebruikt worden voor administratieve redenen of "
+"embedded in een notificatie mail welke gebruikmaakt van de "
+"{claim_admin_note} tag."
+
+#, php-format
+msgid "The most recent %d listings"
+msgstr "Meest recente %d zorginstellingen"
+
+#, php-format
+msgid "The most recent %d reviews"
+msgstr "Meest recente %d waarderingen"
+
+#, php-format
+msgid "The most recent %d listings and reviews"
+msgstr "Meest recente %d zorginstellingen en waarderingen"
+
+msgid "All listings"
+msgstr "Alle zorginstellingen"
+
+msgid "All photos"
+msgstr "Alle foto's"
+
+msgid "All reviews"
+msgstr "Alle waarderingen"
+
+msgid ""
+"Please provide additional information that will allow us to verify your "
+"claim."
+msgstr ""
+"Geef A.U.B extra informatie die ons in staat stelt om uw claim  te "
+"controleren."
+
+msgid "Submit Claim"
+msgstr "Voer claim in"
+
+msgid "Your claim has been submitted successfully and approved."
+msgstr "Uw claim is met succes ingevoerd en goedgekeurd."
+
+msgid ""
+"Your claim has been submitted successfully. We will review your claim "
+"details and notify you if it is approved."
+msgstr ""
+"Uw claim is met succes ingevoerd. Wij zullen uw claim contoleren en u op de "
+"hoogte stellen als deze is goedgekeurd."
+
+msgid "Sort by Views"
+msgstr "Sorteer op Views"
+
+msgid "Sort by Leads"
+msgstr "Sorteer op Leads"
+
+msgid "Title"
+msgstr "Titel"
+
+msgctxt "date created"
+msgid "Date"
+msgstr "Datum"
+
+msgid "Featured"
+msgstr "Uitgelicht"
+
+msgid "Untitled"
+msgstr "Geen Titel"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "View listing"
+msgstr "Bekijk zorginstelling"
+
+msgid "Claim listing"
+msgstr "Zorginstelling claimen"
+
+msgid "Delete listing"
+msgstr "Verwijder zorginstelling"
+
+msgid "The listing has been updated successfully."
+msgstr "Deze zorginstelling is succesvol ge-update."
+
+#, php-format
+msgid "The most recent %d listings in %s"
+msgstr "De meest recente %d zorginstellingen in %s"
+
+#, php-format
+msgid "The most recent %d reviews in %s"
+msgstr "De meest recente %d waarderingen in %s"
+
+#, php-format
+msgid "The most recent %d listings and reviews in %s"
+msgstr "De meest recente %d zorginstellingen en waarderingen in %s"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "View"
+msgstr "View"
+
+#, php-format
+msgid "Message by %s"
+msgstr "Bericht door%s"
+
+msgid "Bulk Actions"
+msgstr "Bulk Acties"
+
+msgid "Apply"
+msgstr "Toepassen"
+
+msgid "Submit"
+msgstr "Indienen"
+
+msgid "Upload Photos"
+msgstr "Upload Foto's"
+
+msgid "Add Photos"
+msgstr "Voeg Foto's toe"
+
+msgid "Write a Review"
+msgstr "Schrijf een Waardering"
+
+msgid "List"
+msgstr "Lijst"
+
+msgid "Switch to list view"
+msgstr "Schakel over naar lijst view"
+
+msgid "Grid"
+msgstr "Grid"
+
+msgid "Switch to grid view"
+msgstr "Schakel over naar grid view"
+
+msgid "Map"
+msgstr "Map"
+
+msgid "Switch to map view"
+msgstr "Schakel over naar map view"
+
+msgid "Helpfulness"
+msgstr "Nuttig"
+
+msgid "Rating Stars"
+msgstr "Rating sterren"
+
+msgid "Rating Criteria"
+msgstr "Rating Criteria"
+
+msgid ""
+"Note that changing the slug will reset the ratings of the criterion in all "
+"reviews. Also the overall ratings in both listings and reviews will stay the "
+"same even when a criterion is added or removed until the reviews are updated."
+msgstr ""
+"Hou er rekening mee dat het veranderen van de slug de ratings van het "
+"criteria wordt gereset in alle waarderingen. Ook de algemene ratings in "
+"beide lijsten en waarderingen zullen hetzelfde blijven , zelfs wanneer een "
+"criterium wordt toegevoegd of verwijderd , totdat de beoordelingen worden "
+"bijgewerkt ."
+
+msgid "Rating Step"
+msgstr "Rating Step"
+
+msgid "Disable phone number field"
+msgstr "Schakel telefoon nummer veld uit"
+
+msgid "Disable e-mail field"
+msgstr "Schakel e-mail veld uit"
+
+msgid "Disable mobile number field"
+msgstr "Schakel mobiele nummer veld uit"
+
+msgid "Disable fax number field"
+msgstr "Schakel fax nummer veld uit"
+
+msgid "Disable website field"
+msgstr "Schakel website veld uit"
+
+msgid "Require phone number"
+msgstr "Vereist telefoon nummer"
+
+msgid "Require mobile number"
+msgstr "Vereist mobiele nummer"
+
+msgid "Require fax number"
+msgstr "Vereist fax nummer"
+
+msgid "Require e-mail address"
+msgstr "Vereist e-mail nummer"
+
+msgid "Require website URL"
+msgstr "Vereist website URL"
+
+msgid ""
+"Auto-populate e-mail address field with the current user's e-mail address"
+msgstr ""
+"Auto-populate e-mail adres veld met het e-mail adres van de huidige gebruiker"
+
+msgid "Auto-populate website URL field with the current user's website URL"
+msgstr ""
+"Auto-populate website URL veld met de website URL van de huidige gebruiker"
+
+msgid "Require Twitter username"
+msgstr "Vereist Twitter gebruikersnaam"
+
+msgid "Require Facebook URL"
+msgstr "Vereist Facebook URL"
+
+msgid "Require Google+ URL"
+msgstr "Vereist Google+ URL"
+
+msgid "Maximum photo upload size"
+msgstr "Maximale foto upload formaat"
+
+msgid ""
+"The maximum file size of uploaded files in kilobytes. Leave this field blank "
+"for no limit."
+msgstr ""
+"De maximale bestandsgrootte van geüploade bestanden in kilobytes . Laat dit "
+"veld leeg voor geen limiet"
+
+msgid "You must enter a Twitter username."
+msgstr "U moet een Twitter-gebruikersnaam invoeren"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "@username"
+msgstr "@Gebruikersnaam"
+
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+msgid "Google+ URL"
+msgstr "Google+ URL"
+
+msgid "End Date"
+msgstr "Eind Datum"
+
+msgid "Approved"
+msgstr "Goedgekeurd"
+
+msgid "Rejected"
+msgstr "Afgekeurd"
+
+msgid "Pending"
+msgstr "In afwachting"
+
+msgid "Listing Submitted Admin Notification Email"
+msgstr "Zorginstelling Ingediend Admin Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to administrators whenever a "
+"listing that requires approval is submitted."
+msgstr ""
+"Indien ingeschakeld, wordt er een notificatie email verstuurd naar de "
+"administrators iedere keer als een zorginstelling is ingevoerd die een "
+"goedkeuring vereist."
+
+msgid "[{site_name}] A new listing (ID: {listing_id}) has been submitted"
+msgstr ""
+"[{site_name}] Er is een nieuwe zorginstelling (ID: {listing_id}) ingediend"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A new listing \"{listing_title}\" has been submitted on {listing_date}.\n"
+"\n"
+"Submitted by {listing_author_name} ({listing_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{listing_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can view the listing at {listing_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"Een nieuwe zorginstelling \"{listing_title}\" is ingediend op "
+"{listing_date}.\n"
+"\n"
+"Ingediend door {listing_author_name} ({listing_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{listing_summary}\n"
+"------------------------------------\n"
+"\n"
+"U kunt de zorginstelling bekijken op {listing_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Review Submitted Admin Notification Email"
+msgstr "Waardering Ingediend  Admin Notificatie Email "
+
+msgid ""
+"If enabled, a notification email is sent to administrators whenever a review "
+"that requires approval is submitted."
+msgstr ""
+"Indien ingeschakeld, word er een notificatie email verstuurd naar de "
+"administrators ieder keer als een waardering word geplaatst waar goedkeuring "
+"voor is vereist."
+
+msgid "[{site_name}] A new review (ID: {review_id}) has been submitted"
+msgstr "[{site_name}] Een nieuwe waardering (ID: {review_id}) is ingediend"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A review of {listing_title} titled \"{review_title}\" has been submitted on "
+"{review_date}.\n"
+"\n"
+"Submitted by {review_author_name} ({review_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{review_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can view the review at {review_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"Er is een waardering  {listing_title} titled \"{review_title}\" ingediend op "
+"{review_date}.\n"
+"\n"
+"ingediend door {review_author_name} ({review_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{review_summary}\n"
+"------------------------------------\n"
+"\n"
+"U kunt de waardering bekijken op {review_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Photo Submitted Admin Notification Email"
+msgstr "Foto Ingediend Admin Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to administrators whenever a photo "
+"that requires approval is submitted."
+msgstr ""
+"Indien ingeschakeld, word er een notificatie email verstuurd naar de "
+"administrators ieder keer als een foto wordt geplaatst waar goedkeuring voor "
+"is vereist."
+
+msgid "[{site_name}] A new photo (ID: {photo_id}) has been submitted"
+msgstr "[{site_name}] Er is een nieuwe foto (ID: {photo_id}) ingediend"
+
+msgid ""
+"Hi {recipient_name},\n"
+"\n"
+"A new photo has been added to {listing_title} on {photo_date}.\n"
+"\n"
+"Submitted by {photo_author_name} ({photo_author_email}):\n"
+"\n"
+"You can view the photo at {photo_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"\n"
+"Er is een nieuwe foto toegevoegd op {listing_title} op {photo_date}.\n"
+"\n"
+"toegevoegd door {photo_author_name} ({photo_author_email}):\n"
+"\n"
+"U kan de foto bekijken op  {photo_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Lead Submitted Admin Notification Email"
+msgstr "Lead ingediend Admin Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to administrators whenever a lead "
+"that requires approval is submitted."
+msgstr ""
+"Indien ingeschakeld, word er een notificatie email verstuurd naar de "
+"administrators ieder keer als een lead wordt geplaatst waar goedkeuring voor "
+"is vereist."
+
+msgid "[{site_name}] A new lead (ID: {lead_id}) has been submitted"
+msgstr "[{site_name}] Er is een nieuwe lead (ID: {lead_id}) ingediend"
+
+msgid ""
+"Hi {recipient_name},\n"
+"\n"
+"A new lead has been added to {listing_title} on {lead_date}.\n"
+"\n"
+"Submitted by {lead_author_name} ({lead_author_email}):\n"
+"\n"
+"You can view the lead at {lead_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"\n"
+"Er is een nieuwe lead toegevoegd {listing_title} op {lead_date}.\n"
+"\n"
+"Toegevoegd door {lead_author_name} ({lead_author_email}):\n"
+"\n"
+"U kan de lead bekijken op {lead_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Listing Approved Notification Email"
+msgstr "Zorginstelling Goedgekeurd Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to the user when a listing the user "
+"has submitted is approved."
+msgstr ""
+"Indien ingeschakeld, word er een notificatie email verstuurd  naar de "
+"gebruiker wanneer een zorginstelling die gebruiker heeft ingediend, wordt "
+"goedgekeurd."
+
+msgid "[{site_name}] Your listing has been published"
+msgstr "[{site_name}] Uw zorginstelling is gepubliceerd"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The listing you have submitted has been approved and is now published.\n"
+"\n"
+"------------------------------------\n"
+"{listing_title}\n"
+"------------------------------------\n"
+"\n"
+"You can view the listing at {listing_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"De zorginstelling die u heeft ingediend is goedgekeurd en nu gepubliceerd.\n"
+"\n"
+"------------------------------------\n"
+"{listing_title}\n"
+"------------------------------------\n"
+"\n"
+"U kunt de zorginstelling bekijken op {listing_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Review Approved Notification Email"
+msgstr "Waardering Goedgekeurd Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to the user when a review the user "
+"has submitted is approved."
+msgstr ""
+"Indien ingeschakeld, word er een notificatie email verstuurd  naar de "
+"gebruiker wanneer een waardering die gebruiker heeft ingediend, wordt "
+"goedgekeurd."
+
+msgid "[{site_name}] Your review has been published"
+msgstr "[{site_name}] Uw waardering is gepubliceerd"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The review of {listing_title} you have submitted has been approved and is "
+"now published.\n"
+"\n"
+"------------------------------------\n"
+"{review_title}\n"
+"------------------------------------\n"
+"\n"
+"You can view the review at {review_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"De waardering {listing_title} die u heeft ingediend is goedgekeurd en nu "
+"gepubliceerd.\n"
+"\n"
+"------------------------------------\n"
+"{review_title}\n"
+"\n"
+"------------------------------------\n"
+"\n"
+"U kunt de waardering bekijken op  {review_url}.\n"
+"\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Photo Approved Notification Email"
+msgstr "Foto Goedgekeurd Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to the user when a photo the user "
+"has submitted is approved."
+msgstr ""
+"Indien ingeschakeld, word er een notificatie email verstuurd  naar de "
+"gebruiker wanneer een foto die gebruiker heeft ingediend, wordt goedgekeurd."
+
+msgid "[{site_name}] Your photo has been published"
+msgstr "[{site_name}] Uw foto is gepubliceerd"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The photo of {listing_title} you have submitted has been approved and is now "
+"published.\n"
+"\n"
+"You can view the photo at {photo_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"De foto van {listing_title} die u heeft ingediend is goedgekeurd en nu "
+"gepubliceerd\n"
+"\n"
+"U kan de foto bekijken op {photo_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Comment Posted Notification Email"
+msgstr "Reactie geplaatst Goedgekeurd Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to the review author when a comment "
+"is submitted."
+msgstr ""
+"Indien ingeschakeld , wordt er een notificatie email naar de  auteur van de "
+"waardering verzonden wanneer een reactie wordt ingediend."
+
+msgid "[{site_name}] You have a new comment"
+msgstr "[{site_name}] U heeft een nieuwe reactie"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A comment has been added to your review \"{review_title}\".\n"
+"\n"
+"Comment by {comment_author_name}:\n"
+"\n"
+"------------------------------------\n"
+"{comment_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can view the comment at {review_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"Er is een reactie geplaatst bij uw waardering \"{review_title}\".\n"
+"\n"
+"Reactie is van  {comment_author_name}:\n"
+"\n"
+"------------------------------------\n"
+"{comment_summary}\n"
+"------------------------------------\n"
+"\n"
+"U kan de reactie bekijken op {review_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Comment Posted Notification Email (Photo)"
+msgstr "Reactie Geplaatst Notificatie Email (foto)"
+
+msgid ""
+"If enabled, a notification email is sent to the photo author when a comment "
+"is submitted."
+msgstr ""
+"Indien ingeschakeld , wordt er een notificatie email naar de  auteur van de "
+"reactie verzonden wanneer een reactie wordt ingediend."
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A comment has been added to your photo.\n"
+"\n"
+"Comment by {comment_author_name}:\n"
+"\n"
+"------------------------------------\n"
+"{comment_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can view the comment at {photo_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"Er is een reactie bij uw foto geplaatst .\n"
+"\n"
+"Reactie door {comment_author_name}:\n"
+"\n"
+"------------------------------------\n"
+"{comment_summary}\n"
+"------------------------------------\n"
+"\n"
+"U kan de reactie bekijken op {photo_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Review Added Notification Email"
+msgstr "Waardering toegevoegd  Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to the listing owner when a review "
+"is posted."
+msgstr ""
+"Indien ingeschakeld , wordt er een notificatie email naar de  eigenaar van "
+"de zorginstelling als er een waardering is verzonden."
+
+msgid "[{site_name}] A new review has been posted"
+msgstr "[{site_name}] Er is een nieuwe waardering geplaatst"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A review of {listing_title} titled \"{review_title}\" has been posted on "
+"{review_date}.\n"
+"\n"
+"Posted by {review_author_name} ({review_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{review_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can read the full review at {review_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"Een nieuwe waardering {listing_title} genaamd \"{review_title}\" is "
+"geplaatst op {review_date}.\n"
+"\n"
+"Geplaatst door {review_author_name} ({review_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{review_summary}\n"
+"------------------------------------\n"
+"\n"
+"U kan de waardering bekijken op {review_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Photo Added Notification Email"
+msgstr "Foto toegevoegd Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to the listing owner when photos "
+"are added to the listing."
+msgstr ""
+"Indien ingeschakeld , wordt er een notificatie email naar de  eigenaar van "
+"de zorginstelling gestuurd als er foto's van de instelling zijn toegevoegd."
+
+msgid "[{site_name}] A new photo has been added"
+msgstr "[{site_name}] Er is een nieuwe foto geplaatst"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A new photo has been added to your listing {listing_title} on {photo_date} "
+"by {photo_author_name} ({photo_author_email}).\n"
+"\n"
+"You can view the photo at {photo_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"Er is een nieuwe foto toegevoegd bij uw zorginstelling {listing_title} on "
+"{photo_date} door {photo_author_name} ({photo_author_email}).\n"
+"\n"
+"U kan de foto bekijken op {photo_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Lead Added Notification Email"
+msgstr "Lead toegevoegd Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to the listing owner when leads are "
+"added to the listing."
+msgstr ""
+"Indien ingeschakeld , wordt er een notificatie email naar de  eigenaar van "
+"de zorginstelling als er leads zijn toegevoegd."
+
+msgid "[{site_name}] A new lead has been added"
+msgstr "[{site_name}] Er is een nieuwe lead toegevoegd"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A new lead has been added to your listing {listing_title} on {lead_date} by "
+"{lead_author_name} ({lead_author_email}).\n"
+"\n"
+"You can view the lead at {lead_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"Er is een nieuwe lead toegevoegd aan uw zorginstelling {listing_title} on "
+"{lead_date} door {lead_author_name} ({lead_author_email}).\n"
+"\n"
+"U kan de lead bekijken op {lead_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Listing Claim Expiration Notification Email"
+msgstr "Zorginstelling Claim Vervaltijd Notificatie Email"
+
+#, php-format
+msgid ""
+"If enabled, a notification email is sent to the listing owner from %d days "
+"before expiration of a claim until the claim expires."
+msgstr ""
+"Indien ingeschakeld , wordt er een notificatie email naar de  eigenaar van "
+"de zorginstelling gestuurd, van %d dagen voor het verstrijken van een claim "
+"tot de claim komt te vervallen"
+
+msgid "[{site_name}] Your listing claim will expire in {expiration_date_diff}"
+msgstr ""
+"[{site_name}] Uw claim van de zorginstelling komt te vervallen op "
+"{expiration_date_diff}"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"Your claim on listing {listing_title} will expire on {expiration_date}.\n"
+"\n"
+"You can renew the claim at {listing_renew_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"Uw claim van de zorginstelling {listing_title} zal komen te vervallen op "
+"{expiration_date}.\n"
+"\n"
+"U kan opnieuw een claim indienen op {listing_renew_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Listing Claim Expired Notification Email"
+msgstr "Zorginstelling claim verlopen Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to the listing owner after a claim "
+"has expired."
+msgstr ""
+"Indien ingeschakeld , wordt er een notificatie email naar de  eigenaar van "
+"de zorginstelling nadat een claim is verlopen."
+
+msgid "[{site_name}] Your listing claim has expired on {expiration_date}"
+msgstr ""
+"[{site_name}] Uw claim van de zorginstelling is vervallen op  "
+"{expiration_date}"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"Your claim on listing {listing_title} has expird {expiration_date_diff}.\n"
+"\n"
+"You can renew the claim at {listing_renew_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"De claim van de zorginstelling  {listing_title} is verlopen "
+"{expiration_date_diff}.\n"
+"\n"
+"U kunt uw claim opnieuw indienen op {listing_renew_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Listing Published Notification Email"
+msgstr "Zorginstelling Gepubliceerd  Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to users of selected roles whenever "
+"a listing is published."
+msgstr ""
+"Indien ingeschakeld , wordt er een notificatie email verstuurd naar "
+"gebruikers van de geselecteerde rollen wanneer een zorginstelling wordt "
+"gepubliceerd."
+
+msgid "[{site_name}] A new listing (ID: {listing_id}) has been published"
+msgstr ""
+"[{site_name}] Een nieuwe zorginstelling (ID: {listing_id}) is gepubliceerd"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A new listing \"{listing_title}\" has been published on {listing_date}.\n"
+"\n"
+"Submitted by {listing_author_name} ({listing_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{listing_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can view the listing at {listing_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"Een nieuwe zorginstelling \"{listing_title}\" is gepubliceerd op "
+"{listing_date}.\n"
+"\n"
+"Ingediend door {listing_author_name} ({listing_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{listing_summary}\n"
+"------------------------------------\n"
+"\n"
+"U kan de zorginstelling bekijken op {listing_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Review Published Notification Email"
+msgstr "Waardering gepubliceerd  Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to users of selected roles whenever "
+"a review is published."
+msgstr ""
+"Indien ingeschakeld , wordt er een notificatie email verstuurd naar "
+"gebruikers van de geselecteerde rollen wanneer een waardering is "
+"gepubliceerd."
+
+msgid "[{site_name}] A new review (ID: {review_id}) has been published"
+msgstr "[{site_name}] Een nieuwe waardering (ID: {review_id}) is gepubliceerd"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A review of {listing_title} titled \"{review_title}\" has been published on "
+"{review_date}.\n"
+"\n"
+"Submitted by {review_author_name} ({review_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{review_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can read the full review at {review_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"Er is een nieuwe waardering van  {listing_title} getiteld \"{review_title}\" "
+"gepubliceerd {review_date}.\n"
+"\n"
+"ingediend door {review_author_name} ({review_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{review_summary}\n"
+"------------------------------------\n"
+"\n"
+"U kunt de waarering bekijken op {review_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Photo Published Notification Email"
+msgstr "Foto gepubliceerd  Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to users of selected roles whenever "
+"a photo is published."
+msgstr ""
+"Indien ingeschakeld , wordt er een notificatie email verstuurd naar "
+"gebruikers van de geselecteerde rollen wanneer een foto is gepubliceerd."
+
+msgid "[{site_name}] A new photo (ID: {photo_id}) has been published"
+msgstr "[{site_name}]Er is een nieuwe foto(ID: {photo_id}) gepubliceerd"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A photo for {listing_title} titled \"{photo_title}\" has been published on "
+"{photo_date}.\n"
+"\n"
+"Submitted by {photo_author_name} ({photo_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{photo_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can view the photo at {photo_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"Een foto  {listing_title} getiteld \"{photo_title}\" is gepubliceerd op "
+"{photo_date}.\n"
+"\n"
+"ingediend door {photo_author_name} ({photo_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{photo_summary}\n"
+"------------------------------------\n"
+"\n"
+"U kunt de foto bekijken op {photo_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Listing Flagged Notification Email"
+msgstr "Zorginstelling Gemarkeerd Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to users of selected roles whenever "
+"a listing is flagged."
+msgstr ""
+"Indien ingeschakeld , wordt er een notificatie email verstuurd naar "
+"gebruikers van de geselecteerde rollen wanneer er een zorginstelling is "
+"gemarkeerd."
+
+msgid "[{site_name}] Listing (ID: {listing_id}) has been flagged"
+msgstr "[{site_name}] Zorginstelling (ID: {listing_id}) is gemarkeerd"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The following listing has been flagged on {flag_date} by {flag_user_name} "
+"({flag_user_email}):\n"
+"\n"
+"------------------------------------\n"
+"{listing_title}\n"
+"------------------------------------\n"
+"\n"
+"Reason: {flag_reason}\n"
+"Score: {flag_score} (total: {flag_score_total})\n"
+"\n"
+"You can view the listing at {listing_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"De volgende zorginstelling is gemarkeerd op {flag_date} door "
+"{flag_user_name} ({flag_user_email}):\n"
+"\n"
+"------------------------------------\n"
+"{listing_title}\n"
+"------------------------------------\n"
+"\n"
+"Reden: {flag_reason}\n"
+"Score: {flag_score} (total: {flag_score_total})\n"
+"\n"
+"U kunt de zorginstelling bekijken op {listing_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Review Flagged Notification Email"
+msgstr "Waardering Gemarkeerd Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to users of selected roles whenever "
+"a review is flagged."
+msgstr ""
+"Indien ingeschakeld , wordt er een notificatie email verstuurd naar "
+"gebruikers van de geselecteerde rollen wanneer er een waardering is "
+"gemarkeerd."
+
+msgid "[{site_name}] Review (ID: {review_id}) has been flagged"
+msgstr "[{site_name}] Waardering (ID: {review_id}) his gemarkeerd"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The following review has been flagged on {flag_date} by {flag_user_name} "
+"({flag_user_email}):\n"
+"\n"
+"------------------------------------\n"
+"{review_title} (listing: {listing_title})\n"
+"------------------------------------\n"
+"\n"
+"Reason: {flag_reason}\n"
+"Score: {flag_score} (total: {flag_score_total})\n"
+"\n"
+"You can view the review at {review_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"De volgende waardering is gemarkeerd op {flag_date} door {flag_user_name} "
+"({flag_user_email}):\n"
+"\n"
+"------------------------------------\n"
+"{review_title} (listing: {listing_title})\n"
+"------------------------------------\n"
+"\n"
+"Reden: {flag_reason}\n"
+"Score: {flag_score} (total: {flag_score_total})\n"
+"\n"
+"U kunt de waardering bekijken op {review_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Photo Flagged Notification Email"
+msgstr "Foto Gemarkeerd Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to users of selected roles whenever "
+"a photo is flagged."
+msgstr ""
+"Indien ingeschakeld , wordt er een notificatie email verstuurd naar "
+"gebruikers van de geselecteerde rollen wanneer een foto is gemarkeerd."
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The following photo has been flagged on {flag_date} by {flag_user_name} "
+"({flag_user_email}):\n"
+"\n"
+"------------------------------------\n"
+"{photo_title} (listing: {listing_title})\n"
+"------------------------------------\n"
+"\n"
+"Reason: {flag_reason}\n"
+"Score: {flag_score} (total: {flag_score_total})\n"
+"\n"
+"You can view the photo at {photo_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Hi {recipient_name},\n"
+"                \n"
+"De volgende foto is gemarkeerd op {flag_date} door {flag_user_name} "
+"({flag_user_email}):\n"
+"\n"
+"------------------------------------\n"
+"{photo_title} (listing: {listing_title})\n"
+"------------------------------------\n"
+"\n"
+"Reden: {flag_reason}\n"
+"Score: {flag_score} (total: {flag_score_total})\n"
+"\n"
+"U kan de foto bekijken op {photo_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Listing Claim Approved Notification Email"
+msgstr "Zorginstelling Claim Goedgekeurd  Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to the user when a listing claim "
+"the user has submitted is approved."
+msgstr ""
+"Indien ingeschakeld , wordt er een notificatie email verstuurd naar de "
+"gebruiker als de claim voor de zorginstelling die de gebruiker heeft "
+"ingediend is goedgekeurd."
+
+msgid "[{site_name}] Your claim has been approved"
+msgstr "[{site_name}] Uw claim van de zorginstelling is goedgekeurd"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The ownership claim for {listing_title} you submitted on {claim_date} has "
+"been approved. You can view the listing at {listing_url}.\n"
+"\n"
+"{claim_admin_note}\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"De eigendom claim voor {listing_title} die u heeft ingediend op{claim_date} "
+"Is goedgekeurd. U kunt deze zorginstelling bekijken op{listing_url}.\n"
+"\n"
+"{claim_admin_note}\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Listing Claim Rejected Notification Email"
+msgstr "Zorginstelling Claim Afgekeurd  Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to the user when a listing claim "
+"the user has submitted is rejected."
+msgstr ""
+"Indien ingeschakeld , wordt er een notificatie email verstuurd naar de "
+"gebruiker als de claim voor de zorginstelling die de gebruiker heeft "
+"ingediend is afgewezen."
+
+msgid "[{site_name}] Your claim was rejected"
+msgstr "[{site_name}] Uw claim van de zorginstelling is afgekeurd"
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The ownership claim for {listing_title} you submitted on {claim_date} was "
+"rejected. You can view the listing at {listing_url}.\n"
+"\n"
+"{claim_admin_note}\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"                \n"
+"De eigendom claim voor {listing_title} die u ingediend heeft op {claim_date} "
+"is afgewezen. U kan de zorginstelling bekijken op {listing_url}.\n"
+"\n"
+"{claim_admin_note}\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+msgid "Listing Claim Pending Admin Notification Email"
+msgstr "Zorginstelling Claim In Afwachting  Notificatie Email"
+
+msgid ""
+"If enabled, a notification email is sent to administrators whenever a "
+"listing claim that requires approval is submitted."
+msgstr ""
+"Indien ingeschakeld , wordt er een notificatie email verstuurd naar "
+"administratie als de claim van de zorginstelling die de gebruiker heeft "
+"ingediend is goedgekeurd."
+
+msgid "[{site_name}] A new listing claim (ID: {claim_id}) has been submitted"
+msgstr ""
+"[{site_name}] Er is een nieuwe claim van een zorginstelling (ID: {claim_id}) "
+"ingedoend"
+
+msgid ""
+"Hi {recipient_name},\n"
+"\n"
+"A new listing claim has been submitted for {listing_title} on {claim_date}.\n"
+"\n"
+"Submitted by {claim_user_name} ({claim_user_email}):\n"
+"\n"
+"{claim_comment}\n"
+"\n"
+"To approve or reject the claim, go to {claim_admin_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+"Geachte {recipient_name},\n"
+"\n"
+"Er is een nieuwe claim ingediend voor {listing_title} op {claim_date}.\n"
+"\n"
+"Ingediend door {claim_user_name} ({claim_user_email}):\n"
+"\n"
+"{claim_comment}\n"
+"\n"
+"Om de claim goed te keuren of af te wijzen,ga naar {claim_admin_url}.\n"
+"\n"
+"Met vriendelijke groet,\n"
+"{site_name}\n"
+"{site_url}"
+
+#, php-format
+msgid "%s by %s in %s"
+msgstr "%s door %s in %s"
+
+#, php-format
+msgid "%s by %s"
+msgstr "%s by %s"
+
+#, php-format
+msgid "%s in %s"
+msgstr "%s in %s"
+
+msgid "Show first photo as featured"
+msgstr "Laat de eerste foto zien als uitgelicht"
+
+msgid "Featured photo size"
+msgstr "Uitgelichte foto size"
+
+msgid "Show thumbnail photos"
+msgstr "Laat thumbnail foto's zien"
+
+msgid "Number of thumbnail columns"
+msgstr "Aantal thumbnail kolommen"
+
+msgid "Maximum number of thumbnails to display (0 for unlimited)"
+msgstr "Maximum aantal thumbnails weer te geven (0 for unlimited)"
+
+msgid "Hide thumbnails on small-screen devices"
+msgstr "Verberg thumbnails op small-screen apparaten"
+
+msgid "Show sub-ratings if any"
+msgstr "Toon sub- ratings indien van toepassing"
+
+msgid "Rating separator:"
+msgstr "Rating separator:"
+
+msgid "Prefix text:"
+msgstr "Prefix tekst:"
+
+msgid "Suffix text:"
+msgstr "Suffix tekst:"
+
+msgid "Categories"
+msgstr "Categorieën"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Description"
+msgstr "Omschrijving"
+
+msgid "Parent Category"
+msgstr "Hoofd Categorie"
+
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+msgid "Map Marker"
+msgstr "Map Marker"
+
+msgid "Recent Listings"
+msgstr "Recente Zorginstellingen"
+
+msgid "Recent Listing Reviews"
+msgstr "Recente Waarderingen van Zorginstellingen"
+
+msgid "Recent Listing Photos"
+msgstr "Recente Foto's van Zorginstellingen"
+
+msgid "Featured Listings"
+msgstr "Uitgelichte Zorgintellingen"
+
+msgid "Related Listings"
+msgstr "Gerelateerde Zorginstellingen"
+
+msgid "Nearby Listings"
+msgstr "Zorginstellingen in de Buurt"
+
+msgid "Listing Categories"
+msgstr "Zorginstelling Categorieën"
+
+msgid "Listing Map"
+msgstr "Zorginstelling Map"
+
+msgid "Listing Photos"
+msgstr "Zorginstelling Foto's"
+
+msgid "Contact Listing"
+msgstr "Contact Zorginstelling"
+
+msgid "Recently posted listings"
+msgstr "Recent geplaatste zorginstellingen"
+
+msgid "Recently posted listing reviews"
+msgstr "Recent geplaatste waardering bij een  zorginstelling"
+
+msgid "Recently posted listing photos"
+msgstr "Recent geplaatste foto's bij een zorginstelling"
+
+msgid "A list of categories"
+msgstr "Lijst van categorieën"
+
+msgid "A call to action button"
+msgstr "Een call to action knop"
+
+msgid "Location map of current listing"
+msgstr "Location map van de huidige zorginstelling"
+
+msgid "Photos of current listing"
+msgstr "Foto's van de huidige zorginstelling"
+
+msgid "Contact us form for currently displayed listing"
+msgstr "Neem contact met ons op van de huidig getoonde zorginstelling"
+
+msgid "Do not cache output"
+msgstr "Do not cache output"
+
+msgid "Number of listings to show"
+msgstr "Aantal zorginstellingen om weer te geven"
+
+msgid "Show summary"
+msgstr "Samenvatting weergeven"
+
+msgid "Number of characters in the summary"
+msgstr "Aantal karakters in de samenvatting"
+
+msgid "Sort by"
+msgstr "Sorteer op"
+
+msgid "Show claimed listings only"
+msgstr "Alleen geclaimde zorginstellingen weergeven"
+
+msgid "Select directory"
+msgstr "Selecteer map"
+
+msgid "All directories"
+msgstr "Alle directories"
+
+msgid "Number of reviews to show"
+msgstr "Aantal waarderingen om weer te geven"
+
+msgid "Show published date"
+msgstr "Publicatie datum weergeven"
+
+msgid "Show author"
+msgstr "Auteur weergeven"
+
+msgid "Number of columns"
+msgstr "Aantal kolommen"
+
+msgid "Number of rows"
+msgstr "Aantal rows"
+
+msgid "Photo type"
+msgstr "Foto type"
+
+msgid "Official photos only"
+msgstr "Alleen officiële foto's"
+
+msgid "Non-official photos only"
+msgstr "Alleen niet officiële foto's"
+
+msgid "Show post count"
+msgstr "Post count weergeven"
+
+msgid "Show thumbnail"
+msgstr "Thumbnail weergeven"
+
+msgid "Button label"
+msgstr "Knop label"
+
+msgid "Button size"
+msgstr "Knop size"
+
+msgid "Mini"
+msgstr "Mini"
+
+msgid "Small"
+msgstr "Small"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "Large"
+msgstr "Large"
+
+msgid "Button color"
+msgstr "Knop kleur"
+
+msgid "White"
+msgstr "White"
+
+msgid "Blue"
+msgstr "Blue"
+
+msgid "Light blue"
+msgstr "Light blue"
+
+msgid "Green"
+msgstr "Green"
+
+msgid "Orange"
+msgstr "Orange"
+
+msgid "Red"
+msgstr "Red"
+
+msgid "Button position"
+msgstr "Knop positie"
+
+msgid "Align left"
+msgstr "Align left"
+
+msgid "Align right"
+msgstr "Align right"
+
+msgid "Number of photos"
+msgstr "Aantal foto's"
+
+msgid "More Listings"
+msgstr "Meer Zorginstellingen"
+
+msgid "All categories"
+msgstr "Alle categorieën"
+
+msgid "Select directory or category"
+msgstr "Selecteer een map of categorie"
+
+msgid "Show rating"
+msgstr "Rating weergeven"
+
+msgid "Show number of reviews"
+msgstr "Aantal waarderingen weergeven"
+
+msgid "Show number of photos"
+msgstr "Aantal foto's weergeven"
+
+msgid "Directory Index Page"
+msgstr "Map Index Pagina"
+
+msgid "Category List Page"
+msgstr "Categorie Lijst Pagina"
+
+#, php-format
+msgid "%s Categories"
+msgstr "%s Categorieën"
+
+msgid "Review List Page"
+msgstr "Waardering lijst pagina"
+
+#, php-format
+msgid "%s Reviews"
+msgstr "%s  Waarderingen"
+
+msgid "Photo List Page"
+msgstr "Foto Lijst Pagina"
+
+#, php-format
+msgid "%s Photos"
+msgstr "%s Foto's"
+
+msgid "Single Listing Page"
+msgstr "Single Zorginstelling Pagina"
+
+#, php-format
+msgid "%s Listing"
+msgstr "%s Zorginstelling"
+
+msgid "Claim Listing Page"
+msgstr "Claim Zorginstelling Pagina"
+
+msgid "Directory Dashboard Page"
+msgstr "Map Dashboard Pagina"
+
+msgid "Directory Dashboard"
+msgstr "Map Dashboard"
+
+msgid "Add Listing Page"
+msgstr "Voeg Zorginstelling toe Pagina"
+
+#, php-format
+msgid "Posts by %s"
+msgstr "Geplaatst door %s"
+
+msgctxt "tab"
+msgid "Listings"
+msgstr "Zorginstellingen"
+
+msgctxt "tab"
+msgid "Reviews"
+msgstr "Waarderingen"
+
+#, php-format
+msgctxt "tab"
+msgid "%s (%d)"
+msgstr "%s (%d)"
+
+msgctxt "tab"
+msgid "Photos"
+msgstr "Foto's"
+
+#, php-format
+msgid "Add Photos - %s"
+msgstr "Voeg Foto's toe - %s"
+
+msgid "Claim Listing"
+msgstr "Claim Zorginstelling"
+
+msgid "Edit Listing"
+msgstr "Bewerk Zorginstelling"
+
+msgid "Delete Listing"
+msgstr "Verwijder Zorginstelling"
+
+msgid "Contact Us"
+msgstr "Neem contact met ons op"
+
+msgctxt "dashboard"
+msgid "Messages"
+msgstr "Berichten"
+
+msgid "Rating Details"
+msgstr "Rating Details"
+
+msgid "Claims"
+msgstr "Claims"
+
+msgid "General"
+msgstr "Algemeen"
+
+#, php-format
+msgctxt "Settings page title"
+msgid "%s Settings"
+msgstr "%s Instellingen"
+
+msgid "Access Control"
+msgstr "Access Control"
+
+msgid "Emails"
+msgstr "Emails"
+
+msgctxt "settings"
+msgid "Map"
+msgstr "Map"
+
+msgctxt "settings"
+msgid "Search"
+msgstr "Zoek"
+
+msgctxt "settings"
+msgid "Claims"
+msgstr "Claims"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Custom Tab Sample"
+msgstr "Standaard Tab Voorbeeld"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Verified"
+msgstr "geverifieerd"
+
+msgid "This is an owner verified listing."
+msgstr "Dit is een eigenaar van een geverifieerde zorginstelling."
+
+msgid "Edit"
+msgstr "Bewerk"
+
+#, php-format
+msgid "Edit this %s"
+msgstr "Bewerk dit %s"
+
+#, php-format
+msgid "Delete this %s"
+msgstr "Verwijder dit %s"
+
+#, php-format
+msgid "Claim this %s"
+msgstr "Claim deze %s"
+
+msgid "This is a photo uploaded by the listing owner."
+msgstr ""
+"Dit is een foto die is ge-upload door de eigenaar van de zorginstelling."
+
+msgid "Claim expired"
+msgstr "Claim verlopen"
+
+msgid "Claim expiring (7 days)"
+msgstr "Claim loopt af (7 dagen)"
+
+msgid "Claim expiring (30 days)"
+msgstr "Claim loopt af (30 dagen)"
+
+msgid "Featured/Unfeatured"
+msgstr "Uitgelicht/Niet uitgelicht"
+
+msgid "Unfeatured"
+msgstr "Niet uitgelicht"
+
+msgid "Official photos"
+msgstr "Officiële foto's"
+
+msgid "Review photos"
+msgstr "Waardering foto's"
+
+msgid "Mark Official"
+msgstr "Markeer Officieel"
+
+msgid "Unmark Official"
+msgstr "Markering uitschakelen Officieel"
+
+#, php-format
+msgid "Deleted %d expired listing claims"
+msgstr "Verwijder %d verlopen zorginstelling claims"
+
+#, php-format
+msgid "Moved %d listings with expired claims to trash"
+msgstr ""
+"Verplaatste %d zorginstellingen waarvan de claim is verlopen in de "
+"prullenbak plaatsen"
+
+#, php-format
+msgid "Deleted %d spam posts (listings and/or reviews) from trash"
+msgstr ""
+"Verwijderde %d spam berichten ( zorginstellingen en/of waarderingen) van de "
+"prullenbak"
+
+#, php-format
+msgid "%s listing"
+msgid_plural "%s listings"
+msgstr[0] "%s zorginstelling"
+msgstr[1] "%s zorginstellingen"
+
+#, php-format
+msgid "%s photo"
+msgid_plural "%s photos"
+msgstr[0] "%s foto"
+msgstr[1] "%s foto's"
+
+msgid "Detailed view"
+msgstr "Gedetailleerde weergave"
+
+msgid "Summary view"
+msgstr "Overzichtsweergave"
+
+#, php-format
+msgid "Tab view - %s"
+msgstr "Tab view - %s"
+
+msgid "Enable this field for unclaimed listings"
+msgstr "Schakel dit veld in voor niet geclaimde zorginstellingen"
+
+msgid ""
+"Select categories to which the field belongs. The field will then be enabled "
+"only when one of the following categories are selected."
+msgstr ""
+"Selecteer categorieën waaraan het veld behoort. Het veld zal dan alleen "
+"worden geactiveerd wanneer een van de volgende categorieën zijn geselecteerd."
+
+msgid "Add More"
+msgstr "Voeg meer toe"
+
+#, php-format
+msgid "Select %s"
+msgstr "Selecteer%s"
+
+msgctxt "tab"
+msgid "Bookmarks"
+msgstr "Bladwijzers"
+
+msgid "Bookmark"
+msgstr "Bladwijzer"
+
+msgid "Number of bookmarks"
+msgstr "Aantal bladwijzers"
+
+msgid "Show number of bookmarks"
+msgstr "Aantal bladwijzers weergeven"
+
+msgid "Bookmarks"
+msgstr "Bladwijzers"
+
+#, php-format
+msgid "%s added a new listing to %s"
+msgstr "%s Nieuwe zorginstellingen toegevoegd aan %s"
+
+#, php-format
+msgid "%s wrote a review for %s"
+msgstr "%s Waardering geschreven voor %s"
+
+#, php-format
+msgid "%s added a new photo to %s"
+msgstr "%s Nieuwe foto toegevoegd aan %s"
+
+#, php-format
+msgid "%1$s commented on a <a href=\"%2$s\">review</a>"
+msgstr "%1$s Reactie geplaatst op <a href=\"%2$s\">waardering</a>"
+
+#, php-format
+msgid "%1$s commented on a <a href=\"%2$s\">photo</a>"
+msgstr "%1$s Reactie geplaatst op <a href=\"%2$s\">foto</a>"
+
+msgid "BuddyPress profile tab label"
+msgstr "BuddyPress profiel tab label"
+
+msgid "BuddyPress profile tab slug"
+msgstr "BuddyPress profiel tab slug"
+
+msgid "BuddyPress profile tab position"
+msgstr "BuddyPress profiel tab positie"
+
+msgid "BuddyPress activities"
+msgstr "BuddyPress actieviteiten"
+
+msgid "Comments"
+msgstr "Reacties"
+
+msgid "CSV file"
+msgstr "CSV bestand"
+
+msgid "CSV file field delimiter"
+msgstr "CSV bestand veld scheidingsteken "
+
+msgid ""
+"Enter the character to be used as the field delimiter of CSV file fields."
+msgstr ""
+"Voer het teken in dat moet worden gebruikt als het veld scheidingsteken van "
+"de CSV-bestand velden."
+
+msgid "CSV file field enclosure"
+msgstr "CVS bestands veld insluiten"
+
+msgid ""
+"Enter the character to be used as the field enclosure of CSV file fields."
+msgstr ""
+"Voer het teken in dat moet worden gebruikt als het veld  moet worden "
+"ingesloten van de CSV-bestand velden. "
+
+msgid "Convert encoding of CSV file data to UTF-8"
+msgstr "Converteer de codering van CSV-bestand gegevens naar UTF-8"
+
+msgid "Convert line endings of CSV file to CR/LF"
+msgstr "Converteer lijn uitgangen van CSV-bestand naar CR/LF"
+
+msgid "Do not import"
+msgstr "Niet importeren"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Street Address"
+msgstr "Straat adres"
+
+msgid "Postal / Zip Code"
+msgstr "Post/Zip Code"
+
+msgid "Latitude"
+msgstr "Latitude"
+
+msgid "Longitude"
+msgstr "longitude"
+
+msgid "Published Date"
+msgstr "Publiceer Datum"
+
+#, php-format
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Author"
+msgstr "Auteur"
+
+msgid "User ID"
+msgstr "Gebruikers ID"
+
+#, php-format
+msgid "Custom field - %s"
+msgstr "Standaard veld - %s"
+
+msgid ""
+"Set up the associations between your CSV file data and directory listing "
+"fields. The \"Category\" field can be associated with more than one column "
+"if the field is configured to accept multiple values."
+msgstr ""
+"Stel de associaties tussen uw CSV-bestand gegevens en map zorginstellingen "
+"velden in. Het veld \"Categorie \" kan worden toegewezen aan meer dan één "
+"kolom als het veld is geconfigureerd om meerdere waarden accepteren ."
+
+msgid "CSV Column"
+msgstr "CSV kolom"
+
+msgid "Directory Listing Field"
+msgstr "Map Zorginstelling Veld"
+
+msgid "Please select a column for the \"Title\" field."
+msgstr "Selecteer een kolom for het \"Titel\" veld"
+
+#, php-format
+msgid "You may not associate multiple columns with the \"%s\" field."
+msgstr "U mag niet meerdere kolommen met het \"%s\" veld associëren."
+
+msgid "Import"
+msgstr "Import"
+
+msgid "No category"
+msgstr "Geen Categorie"
+
+msgid "Select from existing categories"
+msgstr "Selecteer van bestaande categorieën"
+
+msgid "Create a new category"
+msgstr "Creëer een nieuwe categorie "
+
+msgid "Select Category"
+msgstr "Selecteer een Categorie"
+
+msgid "Enter a new category name"
+msgstr "Voer een nieuwe categorie naam in"
+
+msgid "Create non-existent categories"
+msgstr "Creëer niet-bestaande categoriën"
+
+msgid "Delimiter"
+msgstr "scheidingsteken "
+
+#, php-format
+msgid ""
+"Enter the character to be used as delimiter if the %s column contains "
+"multiple values."
+msgstr ""
+"Typ het teken als scheidingsteken worden gebruikt als de %s kolom meerdere "
+"waarden bevat."
+
+msgid "Latitude / Longitude"
+msgstr "Latitude / Longitude"
+
+msgid "Use Google geocoding service"
+msgstr "Gebruik Google geocoding service"
+
+msgid "Enter values manually"
+msgstr "Voer values handmatig toe"
+
+msgid ""
+"Use the Google geocoding service to resolve the latitude/longitude "
+"coordinate from the address of each listing. This can be slow if the CSV "
+"data is large as well as there is a 2500 geocode request per day limit."
+msgstr ""
+"Gebruik de  Google geocoding service voor het beslissen van de latitude/"
+"longitude coördinaten van het adres van elke zorginstelling . Dit kan "
+"vertraging veroorzaken, zeker als de CSV data zowel groot is en als er een "
+"2500 geocode verzoek per dag beperkt word ."
+
+msgid ""
+"Manually enter the latitude/longitude coordinate that will be applied to all "
+"listings."
+msgstr ""
+"Voer handmatig de latitude/longitude coördinaten die zal worden toegepast op "
+"alle zorginstellingen"
+
+msgid "Latitude:"
+msgstr "Latitude:"
+
+msgid "Longitude:"
+msgstr "Longitude:"
+
+msgid "Address Format"
+msgstr "Adres Format"
+
+msgid "Photo archive file (.zip format)"
+msgstr "Foto archief bestand(.zip formaat"
+
+msgid "Here you can set the default values and settings for the fields below."
+msgstr ""
+"Hier kunt u de standaard waarden en instellingen voor de onderstaande velden "
+"instellen"
+
+#, php-format
+msgid "Photo file %s could not be imported. Error: %s"
+msgstr "Foto bestand %s kon niet worden geïmporteerd Error: %s"
+
+#, php-format
+msgid "File %s could not be imported. Error: %s"
+msgstr "Bestand %s kon niet worden geïmporteerd Error:%s"
+
+#, php-format
+msgid "%d row imported successfullly."
+msgid_plural "%d rows imported successfullly."
+msgstr[0] "%d rij  succesvol geïmporteerd."
+msgstr[1] "%d rijen succesvol  geïmporteerd "
+
+#, php-format
+msgid "%d row updated successfullly."
+msgid_plural "%d rows updated successfullly."
+msgstr[0] "%d rij succesvol ge-update "
+msgstr[1] "%d rijen succesvol ge-update "
+
+#, php-format
+msgid "CSV data on row number %d could not be imported: %s"
+msgstr "CSV gegevens op rij nummer %d kon niet worden geïmporteerd: %s"
+
+#, php-format
+msgid "Address (%s) for CSV data on row number %d could not be geocoded: %s"
+msgstr ""
+"Adres (%s) voor de CSV gegevens op rij nummer %d kon niet worden geoded: %s"
+
+msgid "Slug"
+msgstr "Slug"
+
+msgid ""
+"Set up the associations between your CSV file data and directory category "
+"fields."
+msgstr ""
+"Stel de associaties tussen uw CSV-bestand gegevens en map categorie velden "
+"in."
+
+msgid "Thumbnail image archive file (.zip format)"
+msgstr "Thumbnail afbeedling archief (.zip format)"
+
+msgid "Map marker icon archive file (.zip format)"
+msgstr "Map marker icoon archiefbestand (.zip -formaat)"
+
+msgid "Press the button below to import categories."
+msgstr "Druk op de onderstaande knop om categorieën te importeren."
+
+msgid "Import CSV"
+msgstr "Importeer CSV"
+
+msgid "There are no payment plans available in this directory."
+msgstr "Er zijn geen betaling plannen beschikbaar in deze map."
+
+#, php-format
+msgid "%s (plan: %s)"
+msgstr "%s (plan: %s)"
+
+msgid "Thank you for your order!"
+msgstr "Bedankt voor uw bestelling!"
+
+msgid "Item delivered."
+msgstr "Artikel geleverd."
+
+msgid "Item delivery failed."
+msgstr "Artikel levering mislukt."
+
+msgid "Claim rejected."
+msgstr "Claim afgewezen."
+
+msgid "Featured Listing"
+msgstr "Uitgelichte zorginstelling"
+
+msgid "Additional Locations"
+msgstr "Aanvullende Locaties"
+
+msgid "Additional Categories"
+msgstr "Aanvullende Categoriën"
+
+msgid "Additional Photos"
+msgstr "Aanvullende Foto's"
+
+msgctxt "paid plan feature"
+msgid "Reviews"
+msgstr "Waarderingen "
+
+msgid "Basic Feature Settings"
+msgstr "Basis Uitgelichte Instellingen"
+
+msgid ""
+"Enter the number of days listings will be claimed (0 = unlimited). This is "
+"applied to one-time payment only."
+msgstr ""
+"Voer het aantal dagen in dat zorginstellingen kunnen worden geclaimd (0 = "
+"unlimited). Dit is alleen van toepassing op een eenmalige betaling."
+
+msgid "Featured Lisitng"
+msgstr "Uitgelichte Zorginstelling"
+
+msgid "Display as featured"
+msgstr "Toon als uitgelicht"
+
+msgid "Priority"
+msgstr "Prioriteit"
+
+msgctxt "priority"
+msgid "High"
+msgstr "Hoog"
+
+msgctxt "priority"
+msgid "Normal"
+msgstr "Normaal"
+
+msgctxt "priority"
+msgid "Low"
+msgstr "Laag"
+
+msgid "Enter the number of days listings will be featured on homepage."
+msgstr ""
+"Voer het aantal dagen in dat zorginstellingen uitgelicht zullen zijn op de "
+"homepagina."
+
+msgid "Send messages to owner email address"
+msgstr "Stuur berichten naar de eigenaar van het e-mailadres"
+
+#, php-format
+msgid "Claim ownership of listing for %d days"
+msgstr "Claim eigendom van de zorginstelling voor %d dagen"
+
+msgid "Claim ownership of listing for unlimited number of days"
+msgstr "Claim voor een onbeperkt aantal dagen eigendom van de zorginstelling"
+
+#, php-format
+msgid "Feature listing on homepage for %d days"
+msgstr "Uitgelichte zorginstelling op de homepagina voor %d dagen"
+
+msgid "Feature listing on home page for unlimited number of days"
+msgstr ""
+"Uitgelichte zorginstelling op de homepagina voor een onbeperkt aantal dagen"
+
+#, php-format
+msgid "Allow %d extra location addresses"
+msgstr "Sta %d extra locatie adressen toe"
+
+#, php-format
+msgid "Allow selection of %d extra categories"
+msgstr "Sta een selectie van %d extra categorieën toe"
+
+#, php-format
+msgid "Allow upload of %d extra photos"
+msgstr "Sta het uploaden van %d extra foto's toe"
+
+msgid "Allow users to contact the owner via contact us form"
+msgstr ""
+"sta toe dat gebruikers contact met de eigenaar kan opnemen via het neem "
+"contact met ons op formulier"
+
+#, php-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d dag"
+msgstr[1] "%d dagen"
+
+#, php-format
+msgid "%d category"
+msgid_plural "%d categories"
+msgstr[0] "%d categorie"
+msgstr[1] "%d categorieën"
+
+msgid "Unlimited categories"
+msgstr "Niet gelimiteerde categorieën"
+
+#, php-format
+msgid "%d photo"
+msgid_plural "%d photos"
+msgstr[0] "%d foto"
+msgstr[1] "%d foto's"
+
+msgid "Unlimited photos"
+msgstr "Niet gelimiteerde foto's"
+
+#, php-format
+msgid "%d location"
+msgid_plural "%d locations"
+msgstr[0] "%d locatie"
+msgstr[1] "%d locaties"
+
+msgid "Unlimited locations"
+msgstr "Niet gelimiteerde lokaties"
+
+#, php-format
+msgid "Featured %d day"
+msgid_plural "Featured %d days"
+msgstr[0] "Uitgelichte %d dag"
+msgstr[1] "Uitgelichte %d dagen"
+
+#, php-format
+msgid "Extra location"
+msgid_plural "Extra %d locations"
+msgstr[0] "Extra locatie"
+msgstr[1] "Extra %d locaties"
+
+#, php-format
+msgid "Extra category"
+msgid_plural "Extra %d categories"
+msgstr[0] "Extra categorie"
+msgstr[1] "Extra %d categorieën"
+
+#, php-format
+msgid "Extra photo"
+msgid_plural "Extra %d photos"
+msgstr[0] "Extra foto"
+msgstr[1] "Extra %d foto's"
+
+msgid "7-day Free Trial"
+msgstr "7 dagen gratis proefperiode"
+
+msgid "Try and see if listing on this site works for your business."
+msgstr ""
+"Probeer en kijk of de zorginstelling op deze pagina werkt voor uw bedrijf."
+
+msgid "30-day Basic Listing"
+msgstr "30 dagen basis zorginstelling"
+
+msgid "Claim your listing for 30 days."
+msgstr "Claim uw zorginstelling voor 30 dagen"
+
+msgid "30-day Featured Listing Add-on"
+msgstr " 30-dagen uitgelichte zorginstelling Add-on"
+
+msgid "Get your listing featured on homepage for 30 days."
+msgstr "Maak uw zorginstelling  voor 30 dagen uitgelicht op de homepagina."
+
+msgid "Contact Form Add-on"
+msgstr "Contact formulier Add-on"
+
+msgid "Add a contact form to your listing page to capture leads."
+msgstr ""
+"Voeg een contact formulier aan uw zorginstelling pagina toe waarmee u leads "
+"kunt verkrijgen."
+
+msgid "Orders"
+msgstr "Odrachten"
+
+msgid "Order Listing Add-on"
+msgstr "Opdracht zorginstelling Add-on"
+
+msgid "Renew Listing"
+msgstr "Vernieuw zorginstelling"
+
+msgid "Renew claim"
+msgstr "Vernieuw claim"
+
+msgid "Order add-ons"
+msgstr "Opdracht add-ons"
+
+msgid "View orders"
+msgstr "Bekijk oprdachten"
+
+msgid "Automatically approve claims for new listings when payment is complete"
+msgstr ""
+"Automatisch goedkeuren van claims voor de nieuwe zorginstellingen wanneer de "
+"betaling is voltooid."
+
+msgid ""
+"Automatically approve claims for existing listings when payment is complete"
+msgstr ""
+"Automatisch goedkeuren van claims voor de bestaande zorginstellingen wanneer "
+"de betaling is voltooid."
+
+msgid "Order"
+msgstr "Opdracht"
+
+msgid "View Orders"
+msgstr "Bekijk opdrachten"
+
+msgid "Enable this field for the following paid listing plans"
+msgstr ""
+"Schakel dit veld in om voor de zorginstelling de volgende betaling te "
+"plannen."
