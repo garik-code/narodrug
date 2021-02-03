@@ -60,3 +60,7 @@ sh: 1: -t: not found
 [Wed Feb 03 21:48:55.253807 2021] [autoindex:error] [pid 114] [client 3.91.84.153:39304] AH01276: Cannot serve directory /var/www/html/wp-includes/css/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
 [Wed Feb 03 21:49:05.797157 2021] [autoindex:error] [pid 210] [client 54.147.134.140:39692] AH01276: Cannot serve directory /var/www/html/wp-includes/css/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
 [Wed Feb 03 21:52:46.734335 2021] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.64.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 03 21:54:13.264525 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Feb 03 21:54:13.264656 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Feb 03 22:10:54.435549 2021] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down

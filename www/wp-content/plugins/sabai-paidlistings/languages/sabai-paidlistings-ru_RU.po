@@ -1,0 +1,880 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the sabai-directory package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: sabai-paidlistings\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-01 01:07+0900\n"
+"PO-Revision-Date: 2021-02-03 22:07+0000\n"
+"Last-Translator: artem <adm@adm.ru>\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.4"
+
+msgid "Field"
+msgstr "Поле"
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "Order ID"
+msgstr "ID заказа"
+
+msgid "Order Date"
+msgstr "Дата заказа"
+
+msgid "User"
+msgstr "Пользователь"
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "Payment Method"
+msgstr "Способ оплаты"
+
+msgid "Transaction ID"
+msgstr "ID транзакции"
+
+msgid "Status"
+msgstr "Состояние"
+
+msgid "Order Items"
+msgstr "Позиции заказа"
+
+msgid "Order Logs"
+msgstr "Журналы заказов"
+
+msgid "Credit Card"
+msgstr "Кредитная карта"
+
+msgid "Billing Address"
+msgstr "Адрес для оплаты"
+
+msgid "Credit Card (2Checkout)"
+msgstr "Кредитная карта (2Checkout)"
+
+msgid "Disable this payment method"
+msgstr "Отключить этот способ оплаты"
+
+msgid "Payment Method Label"
+msgstr "Метка метода платежа"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Logo"
+msgstr "Логотип"
+
+msgid "Text + Logo"
+msgstr "Текст + Лого"
+
+msgid "Logo + Text"
+msgstr "Логотип + Текст"
+
+msgid "Payment Method Logo"
+msgstr "Логотип метода оплаты"
+
+#, php-format
+msgid "Default logo: %s"
+msgstr "Логотип по умолчанию: %s"
+
+msgid "Payment Method Text"
+msgstr "Текст метода оплаты"
+
+msgid "Account Number"
+msgstr "Номер счета"
+
+msgid "Publishable Key"
+msgstr "Публикуемый ключ"
+
+msgid "Private Key"
+msgstr "Личный ключ"
+
+msgid "Enable sandbox mode"
+msgstr "Включить режим верстака"
+
+msgid "Sandbox Account Number"
+msgstr "Номер счета верстака"
+
+msgid "Sandbox Publishable Key"
+msgstr "Съемный ключ верстака"
+
+msgid "Sandbox Private Key"
+msgstr "Личный ключ верстака"
+
+msgid "Credit Card (Authorize.net)"
+msgstr "Кредитная карта (Authorize.net)"
+
+msgid "API Login ID"
+msgstr "ИД входа в систему API"
+
+msgid "Transaction Key"
+msgstr "Ключ транзакции"
+
+msgid "Manual Payment"
+msgstr "Оплата вручную"
+
+msgid "[{site_name}] We received your order (ID: {order_id})"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"We have received your order placed on {order_date} and its now pending "
+"payment.\n"
+"\n"
+"------------------------------------\n"
+"{plan_name} - {order_price} {order_currency}\n"
+"------------------------------------\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Payment Instructions"
+msgstr "Инструкции по оплате"
+
+#, php-format
+msgid ""
+"Displayed on the thank you page, after the customer has completed the order. "
+"Available template tags: %s"
+msgstr ""
+"Отображается на странице \"Спасибо\" после того, как клиент выполнил заказ. "
+"Доступные теги шаблонов: %s"
+
+msgid "Send payment instructions email"
+msgstr "Отправить электронную почту платежной инструкции"
+
+msgid "Payment instructions email subject"
+msgstr "Тема электронной почты инструкций по оплате"
+
+msgid "Payment instructions email body"
+msgstr "Тело электронной почты инструкций по оплате"
+
+#, php-format
+msgid "Available tempalte tags: %s"
+msgstr "Доступные теги tempalte: %s"
+
+msgid "Plan type"
+msgstr "Тип плана"
+
+msgid "Add Plan"
+msgstr "Добавить план"
+
+msgid "Plan Settings"
+msgstr "Параметры плана"
+
+msgid "Plan name"
+msgstr "Имя плана"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Active"
+msgstr "Активно"
+
+msgid "Inactive"
+msgstr "Неактивно"
+
+msgid "Display order"
+msgstr "Порядок отображения"
+
+msgid "Currency"
+msgstr "Валюта"
+
+msgid "Make this plan featured"
+msgstr "Принять этот план"
+
+msgid "One-time Payment"
+msgstr "Одноразовая оплата"
+
+msgid "Enable"
+msgstr "Включить"
+
+msgid "Recurring Payment"
+msgstr "Повторяющийся платеж"
+
+msgid "Price:"
+msgstr "Цена:"
+
+msgid "Number of trial period days (0 = no trial period):"
+msgstr "Число дней испытательного срока (0 = без испытательного срока):"
+
+msgid "Enable this feature"
+msgstr "Включить эту функцию"
+
+msgid "The recurring price must be equal or greater than 0.01."
+msgstr "Повторяющаяся цена должна быть равна или больше 0,01."
+
+msgid "At least one payment type needs to be enabled."
+msgstr "Необходимо включить хотя бы один тип платежа."
+
+msgid "Delete Plan"
+msgstr "Удалить план"
+
+msgid "Are you sure you want to delete this plan? This cannot be undone."
+msgstr "Вы действительно хотите удалить этот план? Это невозможно отменить."
+
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+msgid "Settings saved."
+msgstr "Параметры сохранены."
+
+msgid "Edit"
+msgstr "Изменить"
+
+msgid "Edit Plan"
+msgstr "Изменить план"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "There are no plans available for the listing."
+msgstr "Для этого списка нет доступных планов."
+
+msgctxt "pricing table"
+msgid "Order Now"
+msgstr "Заказать сейчас"
+
+#, php-format
+msgid "Order %s"
+msgstr "Заказ %s"
+
+msgid "Log Date"
+msgstr "Дата журнала"
+
+msgid "Log Message"
+msgstr "Сообщение журнала"
+
+msgid "Order Item"
+msgstr "Позиция заказа"
+
+msgid "Order Status"
+msgstr "Состояние заказа"
+
+#, php-format
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Item ID"
+msgstr "ID элемента"
+
+msgid "Item Name"
+msgstr "Имя элемента"
+
+msgid "Deliver Items"
+msgstr "Доставить позиции ТМЦ"
+
+msgid "Pending Delivery"
+msgstr "Ожидание доставки"
+
+msgid "Pending"
+msgstr "Ожидание"
+
+msgid "Delivered"
+msgstr "Доставлено"
+
+msgid "Cancelled"
+msgstr "Отменено"
+
+msgid "Plan"
+msgstr "План"
+
+msgid "Items"
+msgstr "Пункты"
+
+#, php-format
+msgid "All (%d)"
+msgstr "Все (%d)"
+
+#, php-format
+msgid "%s (%d)"
+msgstr "%s (%d)"
+
+#, php-format
+msgid "%d Pending"
+msgstr "%d Отложено"
+
+#, php-format
+msgid "%d Delivered"
+msgstr "Доставлено %d"
+
+#, php-format
+msgid "%d Cancelled"
+msgstr "%d отменено"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Bulk Actions"
+msgstr "Групповые действия"
+
+msgid "Update Status"
+msgstr "Обновить состояние"
+
+msgid "Apply"
+msgstr "Применить"
+
+msgid "First Name"
+msgstr "Имя"
+
+msgid "Last Name"
+msgstr "Фамилия"
+
+msgid "Name on Card"
+msgstr "Имя на карте"
+
+msgid "Credit Card Number"
+msgstr "Номер кредитной карты"
+
+msgid "Expiration Date"
+msgstr "Дата истечения срока"
+
+msgid "Security Code"
+msgstr "Код защиты"
+
+msgid "Invalid credit card expiration date."
+msgstr "Недопустимая дата истечения срока действия кредитной карты."
+
+msgid "No plan"
+msgstr "Нет плана"
+
+msgid "Item delivered."
+msgstr "Номенклатура доставлена."
+
+msgid "Item delivery failed."
+msgstr "Доставка элемента не выполнена."
+
+msgid "Order created."
+msgstr "Заказ создан."
+
+msgid "U.S. Dollar"
+msgstr "Доллар США"
+
+msgid "Australian Dollar"
+msgstr "Австралийский доллар"
+
+msgid "Brazillian Real"
+msgstr "Бразильский реал"
+
+msgid "Canadian Dollar"
+msgstr "Канадский доллар"
+
+msgid "Swiss Franc"
+msgstr "Швейцарский франк"
+
+msgid "Chinese Renminbi Yuan"
+msgstr "Китайский юань"
+
+msgid "Czech Koruna"
+msgstr "Чешская Коруна"
+
+msgid "Danish Krone"
+msgstr "Датская крона"
+
+msgid "Euro"
+msgstr "Евро"
+
+msgid "Hong Kong Dollar"
+msgstr "Гонконгский доллар"
+
+msgid "Hungarian Forint"
+msgstr "Венгерский форинт"
+
+msgid "Indonesian Rupiah"
+msgstr "Индонезийская рупия"
+
+msgid "Indian Rupee"
+msgstr "Индийская рупия"
+
+msgid "Israeli New Sheqel"
+msgstr "Израильский новый шекель"
+
+msgid "Iranian Rial"
+msgstr "Иранский риал"
+
+msgid "Japanese Yen"
+msgstr "Японская иена"
+
+msgid "South Korean Won"
+msgstr "Южнокорейский вон"
+
+msgid "Mexican Peso"
+msgstr "Мексиканское песо"
+
+msgid "Malaysian Ringgit"
+msgstr "Малайзийский ринггит"
+
+msgid "Nigerian Naira"
+msgstr "Нигерийская нара"
+
+msgid "Norwegian Krone"
+msgstr "Норвежская крона"
+
+msgid "New Zealand Dollar"
+msgstr "Новозеландский доллар"
+
+msgid "Polish Zloty"
+msgstr "Польский Zloty"
+
+msgid "British Pound"
+msgstr "Британский фунт"
+
+msgid "Russian Ruble"
+msgstr "Российский рубль"
+
+msgid "Swedish Krona"
+msgstr "Шведская крона"
+
+msgid "Singapore Dollar"
+msgstr "Сингапурский доллар"
+
+msgid "Thailand Baht"
+msgstr "Таиланд"
+
+msgid "South African Rand"
+msgstr "Южноафриканский ранд"
+
+msgid "Complete"
+msgstr "Выполнено"
+
+msgid "Paid"
+msgstr "Оплачено"
+
+msgid "Processing"
+msgstr "Обработка"
+
+msgid "Pending Payment"
+msgstr "Ожидающий платеж"
+
+msgid "Expired"
+msgstr "Просрочено"
+
+msgid "Failed"
+msgstr "Сбой"
+
+msgid "Refunded"
+msgstr "Перефинансирование"
+
+msgid "Suspended"
+msgstr "Приостановлено"
+
+msgid "Confirm Order"
+msgstr "Подтверждение заказа"
+
+msgid "Payment Type"
+msgstr "Тип платежа"
+
+msgid "Base"
+msgstr "База"
+
+msgid "Add-on"
+msgstr "Надстройки"
+
+msgid "All"
+msgstr "Все"
+
+msgid ""
+"A base plan includes a basic package of features and is required for any "
+"paid listing."
+msgstr ""
+"Базовый план включает базовый пакет функций и необходим для любого платного "
+"листинга."
+
+msgid ""
+"An add-on plan includes additional features or services that may only be "
+"purchased on top of a base plan."
+msgstr ""
+"План дополнения включает в себя дополнительные функции или службы, которые "
+"могут быть приобретены только на основе базового плана."
+
+msgid "Per Week"
+msgstr "В неделю"
+
+msgid "Per Month"
+msgstr "В месяц"
+
+msgid "Every 3 Months"
+msgstr "Каждые 3 месяца"
+
+msgid "Every 6 Months"
+msgstr "Каждые 6 месяцев"
+
+msgid "Per Year"
+msgstr "В год"
+
+msgid "Invalid payment plan."
+msgstr "Недопустимый план платежей."
+
+msgid "Please select a payment type."
+msgstr "Выберите тип платежа."
+
+msgid ""
+"The selected payment plan does not support the selected recurring payment "
+"type."
+msgstr ""
+"Выбранный план оплаты не поддерживает выбранный повторяющийся тип платежа."
+
+msgid "Invalid payment method."
+msgstr "Недопустимый способ оплаты."
+
+#, php-format
+msgid ""
+"The selected payment method does not support the currency (%s) set for the "
+"plan."
+msgstr "Выбранный способ оплаты не поддерживает набор валюты (%s) для плана."
+
+msgid "The selected payment method does not support one-time payments."
+msgstr "Выбранный способ оплаты не поддерживает одноразовые платежи."
+
+msgid "The selected payment method does not support recurring payments."
+msgstr "Выбранный способ оплаты не поддерживает регулярные платежи."
+
+msgid ""
+"The selected payment method does not support the selected recurring payment "
+"type."
+msgstr ""
+"Выбранный способ оплаты не поддерживает выбранный повторяющийся тип платежа."
+
+msgid "Order confirmed and payment complete."
+msgstr "Заказ подтвержден и оплата завершена."
+
+msgid "Order is pending payment."
+msgstr "Заказ ожидает оплаты."
+
+msgctxt "order created"
+msgid "Created"
+msgstr "Создано"
+
+#, php-format
+msgid "Your order (ID: %s) has been processed successfully and is complete."
+msgstr "Ваш заказ (ID: %s) успешно обработан и завершен."
+
+#, php-format
+msgid ""
+"Your order (ID: %s) is currently being processed. We will notify you once it "
+"is complete."
+msgstr ""
+"Ваш заказ (ID: %s) в настоящее время обрабатывается. Мы уведомим вас, как "
+"только он будет завершен."
+
+#, php-format
+msgid ""
+"Your order (ID: %s) is currently awaiting payment. We will process your "
+"order once we receive your payment."
+msgstr ""
+"Ваш заказ (ID: %s) в настоящее время ожидает оплаты. Мы будем оформляем Ваш "
+"заказ, как только мы получим ваш платеж."
+
+#, php-format
+msgid ""
+"An error occurred while processing your order (ID: %s). Please contact the "
+"administrator for details."
+msgstr ""
+"Ошибка при обработке вашего заказа (ID: %s). За дополнительной информацией "
+"обратитесь к администратору."
+
+#, php-format
+msgid "%s / week"
+msgstr "%s/неделя"
+
+#, php-format
+msgid "%s / month"
+msgstr "%s/месяц"
+
+#, php-format
+msgid "%s / 3 months"
+msgstr "%s/3 месяца"
+
+#, php-format
+msgid "%s / 6 months"
+msgstr "%s/6 месяцев"
+
+#, php-format
+msgid "%s / year"
+msgstr "%s/год"
+
+#, php-format
+msgid "%s with %d-day trial"
+msgstr "%s с %d-дневным пробным"
+
+msgid "One Time"
+msgstr "Одно время"
+
+msgid "Unit price"
+msgstr "Цена за единицу"
+
+msgid "Quantity"
+msgstr "Количество"
+
+msgid "Amount"
+msgstr "Сумма"
+
+msgid "Total:"
+msgstr "Итого:"
+
+msgid "Select Plan"
+msgstr "Выбрать план"
+
+#, php-format
+msgid ""
+"I agree to the <a href=\"%s\" target=\"_blank\">terms and conditions</a>"
+msgstr ""
+
+msgid "Terms and Conditions"
+msgstr "Правила и условия"
+
+msgid "Orders"
+msgstr "Заказы"
+
+msgid "Plans"
+msgstr "Планы"
+
+msgid "Item delivery cancelled."
+msgstr "Доставка номенклатуры отменена."
+
+msgid "Item delivery cancel failed."
+msgstr "Не удалось отменить доставку элемента."
+
+msgid "Item cancelled."
+msgstr "Элемент отменен."
+
+msgid "Order complete."
+msgstr "Заказ выполнен."
+
+msgid "Order Received Notification Email"
+msgstr "Электронная почта уведомления о получении заказа"
+
+msgid ""
+"If enabled, a notification email is sent to the user when a user places an "
+"order."
+msgstr ""
+"Если эта опция включена, пользователю отправляется уведомление по "
+"электронной почте, когда пользователь размещает заказ."
+
+msgid "[{site_name}] We have received your order (Order ID: {order_id})"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"We have received an order from you on {order_date}.\n"
+"\n"
+"Please review your order below:\n"
+"\n"
+"------------------------------------\n"
+"{order_plan} - {order_price} {order_currency}\n"
+"------------------------------------\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Order Complete Notification Email"
+msgstr "Электронная почта уведомления о завершении заказа"
+
+msgid ""
+"If enabled, a notification email is sent to the user when an order is "
+"complete."
+msgstr ""
+"Если эта опция включена, то при завершении заказа пользователю отправляется "
+"уведомление по электронной почте."
+
+msgid "[{site_name}] Your order (ID: {order_id}) is complete"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"We have processed your order placed on {order_date} and its now complete.\n"
+"\n"
+"------------------------------------\n"
+"{order_plan} - {order_price} {order_currency}\n"
+"------------------------------------\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Order Received Admin Notification Email"
+msgstr "Адрес электронной почты уведомления о получении заказа"
+
+msgid ""
+"If enabled, a notification email is sent to administrators when a user place "
+"an order and payment received."
+msgstr ""
+"Если эта опция включена, администраторам отправляется уведомление по "
+"электронной почте, когда пользователь размеет заказ и платеж."
+
+msgid "[{site_name}] A new order (Order ID: {order_id}) has been placed"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A new order from {order_user_name} ({order_user_email}) has been placed on "
+"{order_date}.\n"
+"\n"
+"------------------------------------\n"
+"{order_plan} - {order_price} {order_currency}\n"
+"------------------------------------\n"
+"\n"
+"You can view the details of the order at {order_admin_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Order Awaiting Fullfillment Admin Notification Email"
+msgstr "Заказ, ожидающий уведомления об администраторском уведомлении"
+
+msgid ""
+"If enabled, a notification email is sent to administrators when ordered "
+"items for an order are ready for delivery."
+msgstr ""
+"Если эта опция включена, администраторам отправляется уведомление по "
+"электронной почте, когда заказанные номенклатуры для заказа готовы к "
+"доставке."
+
+msgid ""
+"[{site_name}] There is an order (Order ID: {order_id}) awaiting fullfillment"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"\n"
+"The following order placed on {order_date} is awaiting fullfillment.\n"
+"\n"
+"------------------------------------\n"
+"{order_plan} - {order_price} {order_currency}\n"
+"------------------------------------\n"
+"\n"
+"You can view the details of the order at {order_admin_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "All plans"
+msgstr "Все планы"
+
+msgid "Set Plan"
+msgstr "Задать план"
+
+msgid "Payment Terms and Conditions"
+msgstr "Условия оплаты"
+
+msgid "No terms and conditions"
+msgstr "Нет условий и условий"
+
+msgid "Show terms and conditions link"
+msgstr "Показать ссылку на условия и условия"
+
+msgid "Show terms and conditions inline"
+msgstr "Показать условия и условия"
+
+msgid "Users must agree to terms and conditions"
+msgstr "Пользователи должны согласовать условия и условия"
+
+msgid "Order confirmed."
+msgstr "Приказ подтвержден."
+
+msgid "Redirecting to PayPal..."
+msgstr "Перенаправление в PayPal ..."
+
+msgid "PayPal"
+msgstr "PayPal"
+
+#, php-format
+msgid "PayPal IPN received (type: %s, status: %s)."
+msgstr "Получено PayPal IPN (тип: %s, состояние: %s)."
+
+msgid "Classic API Username"
+msgstr "Классическое имя пользователя API"
+
+msgid "Classic API Password"
+msgstr "Классический пароль API"
+
+msgid "Classic API Signature"
+msgstr "Классическая сигнатура API"
+
+msgid "Classic API Version"
+msgstr "Классическая версия API"
+
+msgid "Classic API IPN endpoint URL"
+msgstr "URL конечной точки Классического API IPN"
+
+msgid "Classic API Username (sandbox)"
+msgstr "Классическое имя пользователя API (верстак"
+
+msgid "Classic API Password (sandbox)"
+msgstr "Классический пароль API (верстак)"
+
+msgid "Classic API Signature (sandbox)"
+msgstr "Классическая подпись API (верстак)"
+
+msgid "Set payment status as \"Processing\""
+msgstr "Задать состояние платежа как \"Обработка\""
+
+msgid ""
+"Check this option to set the payment status of orders to \"Processing\" even "
+"when it is complete, which is useful for testing IPN."
+msgstr ""
+"Выберите эту опцию, чтобы задать состояние оплаты заказов на \"Обработка\" "
+"даже при его завершении, что полезно для тестирования IPN."
+
+msgid "Classic API IPN endpoint URL (sandbox)"
+msgstr "Классический URL конечной точки API IPN (верстак"
+
+msgid "New credit card"
+msgstr "Новая кредитная карта"
+
+msgid "Invalid credit card. Please try creating a new card."
+msgstr "Недопустимая кредитная карта. Попробуйте создать новую карту."
+
+msgid ""
+"The order cannot be processed. You have not been charged. Please contact the "
+"administrator for details."
+msgstr ""
+"Невозможно обработать заказ. Вам не предъявлено обвинение. За дополнительной "
+"информацией обратитесь к администратору."
+
+msgid "Credit Card (Stripe)"
+msgstr "Кредитная карта (полоса)"
+
+msgid "The Stripe library requires the OpenSSL PHP extension installed."
+msgstr "Для библиотеки Stripe необходимо установить расширение OpenSSL PHP."
+
+msgid "Secret Key"
+msgstr "Секретный ключ"
+
+msgid "Webhook URL"
+msgstr "URL веб-ловушки"
+
+msgid "Enable test mode"
+msgstr "Включить режим тестирования"
+
+msgid "Test Secret Key"
+msgstr "Секретный ключ теста"
+
+msgid "Test Publishable Key"
+msgstr "Ключ для публикации теста"
+
+#, php-format
+msgid "Stripe webhoook received (type: %s)."
+msgstr "Получен сайт stripe webhoook (тип: %s)."

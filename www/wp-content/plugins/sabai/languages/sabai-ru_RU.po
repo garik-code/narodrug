@@ -1,0 +1,3615 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the sabai-directory package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: sabai\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-01 00:56+0900\n"
+"PO-Revision-Date: 2021-02-03 22:00+0000\n"
+"Last-Translator: artem <adm@adm.ru>\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.4"
+
+msgid "Filter"
+msgstr "Фильтр"
+
+msgid "This page requires JavaScript enabled in your browser."
+msgstr "Для этой страницы в браузере должен быть включен JavaScript."
+
+msgid "Edit field"
+msgstr "Поле редактирования"
+
+msgid "Delete field"
+msgstr "Удалить поле"
+
+msgid "Available Fields"
+msgstr "Доступные поля"
+
+#, php-format
+msgid "Existing Fields (%s)"
+msgstr "Существующие поля (%s)"
+
+msgid "Form Layout"
+msgstr "Макет формы"
+
+#, php-format
+msgid "%d row"
+msgid_plural "%d rows"
+msgstr[0] "%d строка"
+msgstr[1] "%d строк"
+msgstr[2] ""
+
+#, php-format
+msgid "%d column"
+msgid_plural "%d columns"
+msgstr[0] "%d столбец"
+msgstr[1] "%d столбцов"
+msgstr[2] ""
+
+msgid "Filterable Fields"
+msgstr "Поля, которые можно изменить"
+
+msgid "If you are not redirected automatically, please click the button below:"
+msgstr "Если вы не перенаправляетесь автоматически, нажмите кнопку ниже:"
+
+msgid "Continue"
+msgstr "Продолжить"
+
+msgid "There was an error processing the form."
+msgstr "Произошла ошибка при обработке формы."
+
+#, php-format
+msgid "%s Title: %s"
+msgstr "%s Заголовок: %s"
+
+#, php-format
+msgid "%s Content: %s"
+msgstr "Содержимое %s: %s"
+
+msgid "Status:"
+msgstr "Состояние:"
+
+#, php-format
+msgid "Status: %s"
+msgstr "Состояние: %s"
+
+msgid "Published on:"
+msgstr "Опубликовано:"
+
+#, php-format
+msgid "Published on: %s"
+msgstr "Опубликовано: %s"
+
+msgid "Untitled"
+msgstr "Без названия"
+
+msgid "Publish"
+msgstr "Опубликовать"
+
+msgid "Move to Trash"
+msgstr "Переместить в корзину"
+
+msgid "Update"
+msgstr "Обновить"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Enter title here"
+msgstr "Введите заголовок здесь"
+
+#, php-format
+msgid "%s Description: %s"
+msgstr "Описание %s: %s"
+
+msgid "Delete"
+msgstr "Удалить"
+
+#, php-format
+msgctxt "Delete taxonomy term modal window title"
+msgid "Delete this %s"
+msgstr "Удалить этот %s"
+
+msgid "Permalink:"
+msgstr "Permalink:"
+
+msgid "Click to edit this part of the permalink"
+msgstr "Щелкните, чтобы изменить эту часть permalink"
+
+msgid "Edit"
+msgstr "Изменить"
+
+msgid "Add Comment"
+msgstr "Добавить комментарий"
+
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+msgid "Disable voting on this comment"
+msgstr "Отключить голосование для этого комментария"
+
+msgid "Disable flagging this comment"
+msgstr "Отключить пометки этого комментария"
+
+msgid "User"
+msgstr "Пользователь"
+
+msgid "Submitted at"
+msgstr "Представлено в"
+
+msgid "Spam score"
+msgstr "Оценка спама"
+
+msgid "Reason"
+msgstr "Причина"
+
+msgid "Offensive"
+msgstr "Наступление"
+
+msgid "Spam"
+msgstr "Спам"
+
+msgid "Off topic"
+msgstr "Выключение темы"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "Votes"
+msgstr "Число голосов"
+
+msgid "Flags"
+msgstr "Флаги"
+
+msgid "Author"
+msgstr "Автор"
+
+msgid "Date"
+msgstr "Дата"
+
+#, php-format
+msgid "View %s"
+msgstr "Представление %s"
+
+#, php-format
+msgid "%d vote"
+msgid_plural "%d votes"
+msgstr[0] "%d голосов"
+msgstr[1] "%d голосов"
+msgstr[2] ""
+
+#, php-format
+msgid "%d flag (spam score: %d)"
+msgid_plural "%d flags (spam score: %d)"
+msgstr[0] "Флаг %d (оценка спама: %d)"
+msgstr[1] "%d флагов (оценка спама: %d)"
+msgstr[2] ""
+
+#, php-format
+msgid "All (%d)"
+msgstr "Все (%d)"
+
+msgid "All"
+msgstr "Все"
+
+#, php-format
+msgid "Published (%d)"
+msgstr "Опубликовано (%d)"
+
+msgid "Published"
+msgstr "Опубликовано"
+
+#, php-format
+msgid "Hidden (%d)"
+msgstr "Скрыто (%d)"
+
+msgid "Hidden"
+msgstr "Скрытый"
+
+msgid "Bulk Actions"
+msgstr "Групповые действия"
+
+msgid "Mark as published"
+msgstr "Пометить как опубликованный"
+
+msgid "Mark as hidden"
+msgstr "Пометить как скрытое"
+
+msgid "Apply"
+msgstr "Применить"
+
+msgid "Spam score threshold"
+msgstr "Порог оценки спама"
+
+msgid ""
+"When a comment is flagged, the comment is assigned a \"spam score\". "
+"Comments with spam scores exceeding the threshold value are marked as spam "
+"and become hidden from the public."
+msgstr ""
+"Когда комментарий помечен, для комментария назначается \"оценка спама\". "
+"Комментарии со значениями спама, превышающие пороговое значение, помечаются "
+"как спам и становятся скрытыми от общественности."
+
+msgid "Auto-delete spam"
+msgstr "Автоматически удалять спам"
+
+msgid ""
+"When checked, comments that are marked as spam will be deleted by the system."
+msgstr ""
+"Если эта опция выбрана, то система будет удалять комментарии, помеченные как "
+"спам."
+
+msgid "Delete spam after:"
+msgstr "Удалить спам после:"
+
+msgid ""
+"Enter the number of days the system will wait before auto-deleting comments "
+"marked as spam."
+msgstr ""
+"Введите число дней, в течение которых система будет ожидать перед "
+"автоматическим удалением комментариев, помеченных как спам."
+
+msgid "days"
+msgstr "дн."
+
+msgid "Show login link to guest users"
+msgstr "Показать ссылку входа в систему для гостевых пользователей"
+
+msgid "Voted at"
+msgstr "Голосовали в"
+
+msgid "Score"
+msgstr "Оценка"
+
+msgid "Delete Comment"
+msgstr "Удалить комментарий"
+
+msgid ""
+"Are you sure you want to <em>permanently</em> delete this comment? This "
+"cannot be undone."
+msgstr ""
+
+msgid "You have already voted for or flagged this comment"
+msgstr "Вы уже голосовали за или помечены этим комментарием"
+
+msgid "It is spam"
+msgstr "Это спам"
+
+msgid "It contains offensive language or content"
+msgstr "Он содержит оскорбительные формулировки или содержание"
+
+msgid "It does not belong here"
+msgstr "Здесь не место."
+
+msgid "I am flagging this comment as"
+msgstr "Я хвастаюсь этим комментарием как"
+
+msgid "Flag Comment"
+msgstr "Комментарий для флага"
+
+msgid "Unhide this comment"
+msgstr "Отменить скрытие этого комментария"
+
+msgid "Hide this comment"
+msgstr "Скрыть этот комментарий"
+
+msgid "Are you sure you want to unhide this comment?"
+msgstr "Вы действительно хотите отменить скрытие этого комментария?"
+
+msgid ""
+"Hidden comments will not be visible to users without the \"Moderate "
+"comments\" permission. Are you sure you want to hide this comment?"
+msgstr ""
+"Скрытые комментарии не будут видны пользователям без разрешения \"Умеренные "
+"комментарии\". Вы действительно хотите скрыть этот комментарий?"
+
+msgid "Hide Comment"
+msgstr "Скрыть комментарий"
+
+msgid "Unhide Comment"
+msgstr "Отменить скрытие комментария"
+
+msgid "Comments"
+msgstr "Комментарии"
+
+msgid "Edit this Comment"
+msgstr "Изменить этот комментарий"
+
+msgid "Delete this Comment"
+msgstr "Удалить этот комментарий"
+
+msgid "Unhide"
+msgstr "Отменить скрытие"
+
+msgid "Unhide this Comment"
+msgstr "Отменить скрытие этого комментария"
+
+msgid "flag"
+msgstr "флаг"
+
+msgid "Flag this comment"
+msgstr "Пометить этот комментарий"
+
+msgid "vote"
+msgstr "голосование"
+
+msgid "Vote for this comment"
+msgstr "Голосовать за этот комментарий"
+
+#, php-format
+msgid "this comment was edited %1$s"
+msgid_plural "this comment was edited %2$d times, last edited %1$s"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#, php-format
+msgid "%d hidden comment"
+msgid_plural "%d hidden comments"
+msgstr[0] "%d скрытых комментариев"
+msgstr[1] "%d скрытых комментариев"
+msgstr[2] ""
+
+#, php-format
+msgid "%d more comment"
+msgid_plural "%d more comments"
+msgstr[0] "Еще %d комментариев"
+msgstr[1] "Еще %d комментариев"
+msgstr[2] ""
+
+msgid "Expand to show all comments on this post"
+msgstr "Развернуть, чтобы показать все комментарии к этой должности"
+
+msgid "add comment"
+msgstr "добавить комментарий"
+
+msgid "Add a new comment"
+msgstr "Добавить новый комментарий"
+
+#, php-format
+msgid ""
+"You must <a href=\"%s\" class=\"sabai-login popup-login\">login</a> to post "
+"comments"
+msgstr ""
+
+#, php-format
+msgid "Comments for \"%s\""
+msgstr "Комментарии для \"%s\""
+
+msgid "Edit Comment"
+msgstr "Изменить комментарий"
+
+#, php-format
+msgid "Comments (%d)"
+msgstr "Комментарии (%d)"
+
+#, php-format
+msgid "%s (%d)"
+msgstr "%s (%d)"
+
+#, php-format
+msgid "Add comment to %s"
+msgstr "Добавить комментарий к %s"
+
+#, php-format
+msgid "Edit own comments on %s"
+msgstr "Редактировать собственные комментарии к %s"
+
+#, php-format
+msgid "Edit any comment on %s"
+msgstr "Изменить любой комментарий к %s"
+
+#, php-format
+msgid "Delete own comments on %s"
+msgstr "Удалить собственные комментарии к %s"
+
+#, php-format
+msgid "Vote up comments on %s"
+msgstr "Получить комментарии к %s"
+
+#, php-format
+msgid "Vote up own comments on %s"
+msgstr "Получить собственные комментарии к %s"
+
+#, php-format
+msgid "Flag comments on %s"
+msgstr "Комментарии флагов в %s"
+
+msgid "Clear comments"
+msgstr "Очистить комментарии"
+
+#, php-format
+msgid "Deleted %d comment spam(s)"
+msgstr "Удалено %d спама комментария"
+
+msgid "Allow HTML block elements"
+msgstr "Разрешить элементы блока HTML"
+
+#, php-format
+msgid "Post %s"
+msgstr "Пост %s"
+
+msgid "Your post has been submitted successfully."
+msgstr "Ваша должность успешно отправлна."
+
+#, php-format
+msgid "Back to %s"
+msgstr "Вернуться к %s"
+
+msgid "Thanks for your submission, we will review it and get back with you."
+msgstr "Спасибо за ваше представление, мы пересмотрите его и вернемся с вами."
+
+#, php-format
+msgid "Add %s"
+msgstr "Добавить %s"
+
+msgid "Status"
+msgstr "Состояние"
+
+msgid "Draft"
+msgstr "Проект"
+
+msgid "Published on"
+msgstr "Опубликовано на"
+
+msgid "Featured"
+msgstr "Рекомендуемый"
+
+#, php-format
+msgid "This is a featured %s"
+msgstr "Это рекомендуемый %s"
+
+msgid "Priority"
+msgstr "Приоритет"
+
+msgctxt "priority"
+msgid "High"
+msgstr "Высокий"
+
+msgctxt "priority"
+msgid "Normal"
+msgstr "Обычный"
+
+msgctxt "priority"
+msgid "Low"
+msgstr "Низкий"
+
+msgid "End Date"
+msgstr "Конечная дата"
+
+#, php-format
+msgid "%s posted successfully."
+msgstr "%s успешно размещен."
+
+msgid "Are you sure you want to permanently delete this post?"
+msgstr "Вы действительно хотите навсегда удалить этот пост?"
+
+msgid "Delete Permanently"
+msgstr "Удалить навсегда"
+
+msgid "Pending"
+msgstr "Ожидание"
+
+#, php-format
+msgid "%s updated successfully."
+msgstr "%s успешно обновлен."
+
+msgid "Title"
+msgstr "Название"
+
+msgid "Views"
+msgstr "Представления"
+
+#, php-format
+msgid "%s posted for %s: %s"
+msgstr "%s разнесено для %s: %s"
+
+msgid "(no title)"
+msgstr "(без заголовка)"
+
+msgid "Restore"
+msgstr "Восстановить"
+
+msgid "Restore this Post"
+msgstr "Восстановить эту должность"
+
+msgid "Delete this Post"
+msgstr "Удалить эту должность"
+
+msgid "Trash"
+msgstr "Корзина"
+
+msgid "Trash this Post"
+msgstr "Корзина для этой должности"
+
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+msgid "View"
+msgstr "Вид"
+
+msgid "Empty Trash"
+msgstr "Пустой мусор"
+
+msgid "Are you sure you want to restore this post from trash?"
+msgstr "Вы действительно хотите восстановить этот пост из корзины?"
+
+msgid "Restore from Trash"
+msgstr "Восстановление из корзины"
+
+msgid "Are you sure you want to move this post to trash?"
+msgstr "Вы действительно хотите переместить этот пост в корзину?"
+
+msgid "Active"
+msgstr "Активно"
+
+msgid "Added"
+msgstr "Добавлено"
+
+msgid "Recent posts"
+msgstr "Последние должности"
+
+#, php-format
+msgid "The most %d recent posts"
+msgstr "Самые %d последних постов"
+
+msgid "Newest First"
+msgstr "Новейший первый"
+
+msgid "Oldest First"
+msgstr "Старейший первый"
+
+msgctxt "sort"
+msgid "Title"
+msgstr "Название"
+
+msgid "Are you sure you want to delete this post?"
+msgstr "Вы действительно хотите удалить этот пост?"
+
+msgid "Reason for deletion"
+msgstr "Причина удаления"
+
+#, php-format
+msgid "Delete %s"
+msgstr "Удалить %s"
+
+msgid "Published date"
+msgstr "Дата публикации"
+
+msgid "ID"
+msgstr "ИД"
+
+msgid "Content type"
+msgstr "Тип содержимого"
+
+msgid "Slug"
+msgstr "Шлюз"
+
+msgid "Text input field"
+msgstr "Текстовое поле ввода"
+
+msgid "Hidden field"
+msgstr "Скрытое поле"
+
+msgid "Field size"
+msgstr "Размер поля"
+
+msgid "Small"
+msgstr "Малый"
+
+msgid "Medium"
+msgstr "Средний"
+
+msgid "Large (responsive)"
+msgstr "Большой (отвечает)"
+
+msgid "Minimum length"
+msgstr "Минимальная длина"
+
+msgid "The minimum length of value in characters."
+msgstr "Минимальная длина значения в символах."
+
+msgid "Maximum length"
+msgstr "Максимальная длина"
+
+msgid "The maximum length of value in characters."
+msgstr "Максимальная длина в символах."
+
+msgid "Other reason"
+msgstr "Другая причина"
+
+msgid "Trashed"
+msgstr "Trashed"
+
+msgid "Spam or offensive"
+msgstr "Спам или наступление"
+
+msgid "Link to post"
+msgstr "Ссылка на должность"
+
+msgid "Add featured post icon"
+msgstr "Значок Добавить рекомендуемый пост"
+
+#, php-format
+msgid "Add %s (without approval)"
+msgstr "Добавить %s (без утверждения)"
+
+#, php-format
+msgid "Edit own %s"
+msgstr "Изменить собственный %s"
+
+#, php-format
+msgid "Edit any %2$s"
+msgstr ""
+
+#, php-format
+msgid "Delete own %s"
+msgstr "Удалить собственный %s"
+
+#, php-format
+msgid "Delete any %2$s / Manage flagged %1$s"
+msgstr ""
+
+#, php-format
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+#, php-format
+msgid "%s for \"%s\""
+msgstr "%s для \"%s\""
+
+msgid "Body"
+msgstr "Тело"
+
+msgid "Keyword"
+msgstr "Ключевое слово"
+
+msgid "Featured/Unfeatured"
+msgstr "Рекомендуемые/Непопулярные"
+
+msgid "Guest Author"
+msgstr "Автор Гость"
+
+#, php-format
+msgctxt "tab"
+msgid "All %s"
+msgstr "Все %s"
+
+#, php-format
+msgid "Unfeatured %d content post(s)"
+msgstr "Нерекомендуемые %d страниц содержимого"
+
+msgid "Number of months to show in date picker"
+msgstr "Число месяцев для показа в окне выбора даты"
+
+msgctxt "range separator"
+msgid "to"
+msgstr "в"
+
+msgid "The second date must be later than the first date."
+msgstr "Вторая дата должна быть позже первой даты."
+
+msgid "Date/Time picker"
+msgstr "Загрузчик даты и времени"
+
+msgid "Set current date selected by default"
+msgstr "Задать текущую дату по умолчанию"
+
+msgid "Hour"
+msgstr "Час"
+
+msgid "Minute"
+msgstr "Минута"
+
+msgid "AM"
+msgstr "AM"
+
+msgid "PM"
+msgstr "ПТОиР"
+
+msgctxt "timepicker"
+msgid "Now"
+msgstr "Сейчас"
+
+msgid "Deselect"
+msgstr "Отменить выбор"
+
+msgid "Please select a date."
+msgstr "Выберите дату."
+
+msgid "Invalid date."
+msgstr "Недопустимая дата."
+
+#, php-format
+msgid "Date must be between %s and %s."
+msgstr "Дата должна быть между %s и %s."
+
+#, php-format
+msgid "Date must be later than %s."
+msgstr "Дата должна быть позже %s."
+
+#, php-format
+msgid "Date must be earlier than %s."
+msgstr "Дата должна быть более ранней, чем %s."
+
+#, php-format
+msgid "%s (desc)"
+msgstr "%s (desc)"
+
+msgid "Enable time (hour and minute)"
+msgstr "Время включения (часы и минуты)"
+
+msgid ""
+"Check this option to allow the user to enter the time (hour and minute) as "
+"well as the date."
+msgstr ""
+"Выберите эту опцию, чтобы разрешить пользователю ввести время (час и минута),"
+" а также дату."
+
+msgid "Restrict dates"
+msgstr "Ограничить даты"
+
+msgid "Check this option to set the range of allowed dates for this field."
+msgstr ""
+"Выберите эту опцию, чтобы задать диапазон допустимых дат для этого поля."
+
+msgid "Minimum date:"
+msgstr "Минимальная дата:"
+
+msgid "Maximum date:"
+msgstr "Максимальная дата:"
+
+msgid "The first date must be later than the second date."
+msgstr "Первая дата должна быть позже второй даты."
+
+#, php-format
+msgid "Filter <span class=\"sabai-badge\">%d</span>"
+msgstr ""
+
+msgid "Clear all filters"
+msgstr "Очистить все фильтры"
+
+msgid "Random"
+msgstr "Случайный"
+
+msgid "Unfeatured"
+msgstr "Нерекомендуемый"
+
+msgctxt "option"
+msgid "Any"
+msgstr "Любой"
+
+msgid "Show featured only"
+msgstr "Показать только избранные"
+
+msgid "Guest author field"
+msgstr "Поле гостевого автора"
+
+#, php-format
+msgid ""
+"Post as a guest by filling out the fields below or <a href=\"%s\" "
+"class=\"sabai-login popup-login\">login</a> if you already have an account."
+msgstr ""
+
+msgid "visible to anonymous users only"
+msgstr "видимый только для анонимных пользователей"
+
+msgid "Hide the Website field"
+msgstr "Скрыть поле Веб-сайт"
+
+msgid "Hide the header message"
+msgstr "Скрыть сообщение заголовка"
+
+msgid "Header message"
+msgstr "Заголовок сообщения"
+
+msgid "Do not allow e-mail address used by registered users"
+msgstr ""
+"Не разрешать адреса электронной почты, используемые зарегистрированными "
+"пользователями"
+
+msgid "Check MX record of e-mail address"
+msgstr "Проверка записи MX в адресе электронной почты"
+
+msgid "E-mail"
+msgstr "Электронная почта"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Website"
+msgstr "Вебсайт"
+
+msgid "IP Address"
+msgstr "IP-адрес"
+
+msgid "User Agent"
+msgstr "Агент пользователя"
+
+msgid "The email address may not be used."
+msgstr "Возможно, адрес электронной почты не используется."
+
+msgid "Invalid domain name."
+msgstr "Недопустимое имя домена."
+
+msgid "Add More"
+msgstr "Добавить еще"
+
+#, php-format
+msgid "%s posted %s"
+msgstr "%s размещено %s"
+
+#, php-format
+msgid "last edited %s"
+msgstr "последнее изменение %s"
+
+#, php-format
+msgid "last active %s"
+msgstr "последнее активное %s"
+
+msgid "This post is featured."
+msgstr "Эта должность фигуриста."
+
+msgid "Autocomplete text field"
+msgstr "Автоматическое текстовое поле"
+
+msgid "ON/OFF"
+msgstr "ON/OFF"
+
+msgid "Checked"
+msgstr "Проверено"
+
+msgid "Unchecked"
+msgstr "Не выбран"
+
+msgid "Form element type"
+msgstr "Тип элемента формы"
+
+msgid "Single checkbox"
+msgstr "Одиночный переключатель"
+
+msgid "Radio buttons"
+msgstr "Переключатели"
+
+msgid "Select list"
+msgstr "Выбрать список"
+
+msgid "Display inline"
+msgstr "Показать встроенные"
+
+msgid "Check this to align all options on the same line."
+msgstr ""
+"Включите этот переключатель, чтобы выровшивать все опции в одной строке."
+
+msgid "Option labels"
+msgstr "Метки опций"
+
+msgid "Checkbox label"
+msgstr "Метка переключателя"
+
+msgid "Enter the label displayed next to the checkbox."
+msgstr "Введите метку, показанные рядом с переключателем."
+
+msgid "Min. length of keywords in characters"
+msgstr "Минимальная длина ключевых слов в символах"
+
+msgid "Match any or all"
+msgstr "Соответствует любому или любому"
+
+msgid "Match any"
+msgstr "Соответствие любому"
+
+msgid "Match all"
+msgstr "Соответствие всем"
+
+msgid "Choice"
+msgstr "Выбор"
+
+msgid "Checkboxes"
+msgstr "Переключатели"
+
+msgid "Number of options to display"
+msgstr "Число выводимой на экран опций"
+
+msgid ""
+"If there are more options than the number specified here, those options will "
+"be displayed in a popup window."
+msgstr ""
+"Если число опций больше, чем указано здесь, то эти опции будут показаны во "
+"всплывающем окне."
+
+msgid "Label for link to open popup window"
+msgstr "Метка для ссылки на открытое всплывающее окно"
+
+#, php-format
+msgid "More %s"
+msgstr "Больше %s"
+
+msgid "Default text"
+msgstr "Текст по умолчанию"
+
+msgid "Range input field"
+msgstr "Поле ввода диапазона"
+
+msgid "Range separator"
+msgstr "Разделитель диапазона"
+
+msgid "Range slider step"
+msgstr "Шаг ползунка диапазона"
+
+#, php-format
+msgid ""
+"The full specified value range of the slider (%s - %s) should be evenly "
+"divisible by the step"
+msgstr ""
+"Полный диапазон значений ползунка (%s-%s) должен быть равномерно показан на "
+"шаге"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "Carousel"
+msgstr "Карусель"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "ON label"
+msgstr "Метка ON"
+
+msgid "OFF label"
+msgstr "Метка OFF"
+
+msgid "Format"
+msgstr "Формат"
+
+msgid "Link"
+msgstr "Ссылка"
+
+msgid "Thumbnail (small)"
+msgstr "Уменьшенная копия (маленькая)"
+
+msgid "Thumbnail (medium)"
+msgstr "Уменьшенная копия (средняя)"
+
+msgid "Thumbnail (large)"
+msgstr "Уменьшенная копия (большая)"
+
+msgid "Thumbnail (small) with link"
+msgstr "Уменьшенная копия (малая) со ссылкой"
+
+msgid "Thumbnail (medium) with link"
+msgstr "Уменьшенная копия (средняя) со ссылкой"
+
+msgid "Decimal point"
+msgstr "Десятичная точка"
+
+msgid "Thousands separator"
+msgstr "Разделитель тысяч"
+
+msgid "Open link in"
+msgstr "Открыть ссылку в"
+
+msgid "Current window"
+msgstr "Текущее окно"
+
+msgid "New window"
+msgstr "Новое окно"
+
+msgid "Add to rel attribute"
+msgstr "Добавить в атрибут rel"
+
+msgid "Add \"nofollow\""
+msgstr "Добавить \"nofole\""
+
+msgid "Add \"external\""
+msgstr "Добавить \"внешний\""
+
+msgid "Show link as"
+msgstr "Показать ссылку как"
+
+msgid "Text link"
+msgstr "Текстовая ссылка"
+
+msgid "Button"
+msgstr "Кнопка"
+
+msgid "Trim text"
+msgstr "Усечь текст"
+
+msgid "Maximum number of characters:"
+msgstr "Максимальное число символов:"
+
+msgid "Suffix text:"
+msgstr "Текст суффикса:"
+
+msgid "Number of columns"
+msgstr "Число столбцов"
+
+msgid "The value must be greater than the first value."
+msgstr "Значение должно быть больше первого значения."
+
+msgid "CAPTCHA"
+msgstr "CAPTCHA"
+
+msgid "Options"
+msgstr "Параметры"
+
+msgid "Email"
+msgstr "Электронная почта"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Number"
+msgstr "Число"
+
+msgid "Minimum"
+msgstr "Минимум"
+
+msgid "The minimum value allowed in this field."
+msgstr "Минимальное допустимое значение в этом поле."
+
+msgid "Maximum"
+msgstr "Максимум"
+
+msgid "The maximum value allowed in this field."
+msgstr "Максимальное допустимое значение в этом поле."
+
+msgid "Decimals"
+msgstr "Декамилы"
+
+msgid "The number of digits to the right of the decimal point."
+msgstr "Число цифр справа от десятичной точки."
+
+msgid "0 (no decimals)"
+msgstr "0 (без десятичных знаков)"
+
+msgid "Field prefix"
+msgstr "Префикс поля"
+
+msgid "Example: $, #, -"
+msgstr ""
+
+msgid "Field suffix"
+msgstr "Суффикс поля"
+
+msgid "Example: km, %, g"
+msgstr ""
+
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+msgid "Range"
+msgstr "Диапазон"
+
+msgid "Section Break"
+msgstr "Разрыв раздела"
+
+msgid "Single Line Text"
+msgstr "Текст с одной строкой"
+
+msgid "Character validation"
+msgstr "Проверка символов"
+
+msgid "Allow only integer numbers"
+msgstr "Разрешить только целочисленные числа"
+
+msgid "Allow only alphabetic characters"
+msgstr "Разрешить только алфавитные символы"
+
+msgid "Allow only alphanumeric characters"
+msgstr "Разрешить только алфавитно-цифровые"
+
+msgid "Allow only lowercase characters"
+msgstr "Разрешить только строчные символы"
+
+msgid "Allow only uppercase characters"
+msgstr "Разрешить только прописные символы"
+
+msgid "Must be a valid URL"
+msgstr "Должен быть допустимым URL"
+
+msgid "Must be a valid e-mail address"
+msgstr "Должен быть действительным адресом электронной почты"
+
+msgid "Must match a regular expression"
+msgstr "Должно совпадать с регулярным выражением"
+
+msgid "No validation"
+msgstr "Без проверки"
+
+msgid "Regular Expression"
+msgstr "Регулярное выражение"
+
+msgid "Example: /^[0-9a-z]+$/i"
+msgstr ""
+
+msgid "Input mask"
+msgstr "Маска ввода"
+
+msgid ""
+"Use \"a\" to mask letter inputs (A-Z,a-z), \"9\" for numbers (0-9) and \"*\" "
+"for both."
+msgstr ""
+
+msgid "Paragraph Text"
+msgstr "Текст абзаца"
+
+msgctxt "field type"
+msgid "User"
+msgstr "Пользователь"
+
+msgid "Video"
+msgstr "Видео"
+
+msgid "Make this field checked by default"
+msgstr "Сделать это поле проверено по умолчанию"
+
+msgid ""
+"Auto-populate e-mail address field with the current user's e-mail address"
+msgstr ""
+"Автоматически заполнять поле адреса электронной почты с адресом электронной "
+"почты текущего пользователя"
+
+msgid "HTML fragment"
+msgstr "Фрагмент HTML"
+
+msgid "Link field"
+msgstr "Поле ссылки"
+
+msgid "Default link title"
+msgstr "Заголовок ссылки по умолчанию"
+
+msgid "Do not allow custom link title"
+msgstr "Не разрешать пользовательский заголовок ссылки"
+
+msgid "Link Title:"
+msgstr "Заголовок ссылки:"
+
+msgid "reCAPTCHA theme"
+msgstr "тема reCAPTCHA"
+
+msgctxt "reCAPTCHA theme"
+msgid "Light"
+msgstr "Свет"
+
+msgctxt "reCAPTCHA theme"
+msgid "Dark"
+msgstr "Темный"
+
+msgid "reCAPTCHA type"
+msgstr "reCAPTCHA, тип"
+
+msgctxt "reCAPTCHA type"
+msgid "Image"
+msgstr "Изображение"
+
+msgctxt "reCAPTCHA type"
+msgid "Audio"
+msgstr "Аудио"
+
+msgid "Please fill out this field."
+msgstr "Пожалуйста, заполните это поле."
+
+#, php-format
+msgid "Failed verifying reCAPTCHA input: %s"
+msgstr "Не удалось проверить ввод reCAPTCHA: %s"
+
+msgid "- Select -"
+msgstr "-Выберите-"
+
+msgid "Slider input field"
+msgstr "Поле ввода ползунка"
+
+msgid "Textarea field"
+msgstr "Текстовое поле"
+
+msgid "Rows"
+msgstr "Строки"
+
+msgid "Preserve line breaks"
+msgstr "Сохранить разрывы строк"
+
+msgid "Auto-populate field"
+msgstr "Поле автоматического заполнения"
+
+msgid "Do not auto-populate"
+msgstr "Не заполнять автоматически"
+
+msgid "E-mail address of current user"
+msgstr "Адрес электронной почты текущего пользователя"
+
+msgid "Website URL of current user"
+msgstr "URL веб-сайта текущего пользователя"
+
+msgid "User name of current user"
+msgstr "Имя пользователя текущего пользователя"
+
+msgid "Display name of current user"
+msgstr "Отображаемое имя текущего пользователя"
+
+msgid "Set current user selected by default"
+msgstr "Задать текущего пользователя по умолчанию"
+
+msgid "Enable enhanced user interface (recommended)"
+msgstr "Включить расширенный пользовательский интерфейс (рекомендуется)"
+
+msgid "Select User"
+msgstr "Выбрать пользователя"
+
+msgid "Video field"
+msgstr "Поле видео"
+
+msgid "Video ID:"
+msgstr "ID видео:"
+
+msgid "reCAPTCHA Site Key"
+msgstr "Ключ сайта recAPTCHA"
+
+msgid "reCAPTCHA Secret Key"
+msgstr "Секретный ключ RECAPTCHA"
+
+msgid "Add Field"
+msgstr "Добавить поле"
+
+msgid "Invalid field type."
+msgstr "Недопустимый тип поля."
+
+msgid "Next"
+msgstr "Далее"
+
+msgid ""
+"Select the type of form element you would like to present to the user when "
+"editing this field."
+msgstr ""
+"Выберите тип элемента формы, который вы хотите представить пользователю при "
+"редактировании этого поля."
+
+msgid "Field name"
+msgstr "Имя поля"
+
+msgid ""
+"Enter a machine readable name for this form field. Only lowercase "
+"alphanumeric characters and underscores are allowed."
+msgstr ""
+"Введите имя машинного чтения для этого поля формы. Допускаются только "
+"буквенно-цифровые символы нижнего регистра и символы подчеркивания."
+
+msgid "Field Settings"
+msgstr "Параметры полей"
+
+msgid "Display Settings"
+msgstr "Параметры отображения"
+
+msgid "Access Control Settings"
+msgstr "Параметры управления доступом"
+
+msgid "Advanced Settings"
+msgstr "Дополнительные параметры"
+
+msgid "Label"
+msgstr "Метка"
+
+msgid "Hide label"
+msgstr "Скрыть метку"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Enter a short description of the field displayed to the user."
+msgstr "Введите краткое описание поля, отображаемого пользователю."
+
+msgid "Required"
+msgstr "Обязательный"
+
+msgid "Disabled"
+msgstr "Выключено"
+
+msgid "Maximum number of values"
+msgstr "Максимальное число значений"
+
+msgid "Maximum number of values users can enter for this field."
+msgstr "Для этого поля можно ввести максимальное число значений."
+
+#, php-format
+msgid "Display Settings (%s)"
+msgstr "Показать параметры (%s)"
+
+msgid "Display this field"
+msgstr "Показать это поле"
+
+msgid "Field renderer"
+msgstr "Функция вывода полей"
+
+msgid "A field renderer determines how the value of a field will be displayed."
+msgstr "Функция вывода полей определяет, как будет выводиться значение поля."
+
+msgid "Field title"
+msgstr "Название поля"
+
+msgid "Use the form label"
+msgstr "Использовать метку формы"
+
+msgid "Custom"
+msgstr "Пользовательский"
+
+msgid "None"
+msgstr "Нет"
+
+msgid "Field value separator"
+msgstr "Разделитель значений полей"
+
+#, php-format
+msgid "Inherit display settings from %s"
+msgstr "Наследовать параметры отображения из %s"
+
+msgid ""
+"Select user roles to which this field is visible when submitting the form."
+msgstr ""
+"Выберите роли пользователей, которые будут видны в этом поле при передаче "
+"формы."
+
+msgid "Select user roles that can view this field."
+msgstr "Выберите роли пользователей, которые могут просматривать это поле."
+
+msgid "Default value"
+msgstr "Значение по умолчанию"
+
+msgid "Unlimited"
+msgstr "Без ограничений"
+
+msgid "The name is already in use by another field."
+msgstr "Имя уже используется другим полем."
+
+msgid "Select filter"
+msgstr "Выбрать фильтр"
+
+msgid "Filter Settings"
+msgstr "Параметры фильтра"
+
+msgid "Form element type:"
+msgstr "Тип элемента формы:"
+
+msgid "Select user roles that can edit this field."
+msgstr "Выберите роли пользователей, которые могут изменять это поле."
+
+msgid "Invalid field."
+msgstr "Недопустимое поле."
+
+msgid "Filter type:"
+msgstr "Тип фильтра:"
+
+#, php-format
+msgctxt "filter_type"
+msgid "%s (target field: %s)"
+msgstr "%s (целевое поле: %s)"
+
+#, php-format
+msgid "%s (hidden)"
+msgstr "%s (скрыто)"
+
+msgid "(hidden)"
+msgstr "(скрыто)"
+
+msgctxt "sabai"
+msgid "Manage Form"
+msgstr "Управление формой"
+
+msgctxt "admin-tab"
+msgid "Fields"
+msgstr "Поля"
+
+msgctxt "sabai"
+msgid "Manage Filters"
+msgstr "Управление фильтрами"
+
+msgid ""
+"One or more fields have not been saved. You must save or delete these fields "
+"first before submitting the form."
+msgstr ""
+"Одно или несколько полей не сохранены. Сначала необходимо сохранить или "
+"удалить эти поля перед отправкой формы."
+
+msgid ""
+"You have made changes but it has not been saved. You must submit the form "
+"for the changes to be saved permanently."
+msgstr ""
+"Вы внесли изменения, но не были сохранены. Необходимо отправить форму для "
+"изменения, которую необходимо сохранить на постоянной основе."
+
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+msgid "Photo size"
+msgstr "Размер фотографии"
+
+msgid "Thumbnail photo"
+msgstr "Уменьшенная фотография"
+
+msgid "Medium size photo"
+msgstr "Фотография среднего размера"
+
+msgid "Large size photo"
+msgstr "Фотография большого размера"
+
+msgid "Original size photo"
+msgstr "Фотография оригинального размера"
+
+msgid "You have already uploaded enough files!"
+msgstr "Вы уже закачали достаточно файлов!"
+
+#, php-format
+msgid "Failed uploading file. Error code: %d"
+msgstr "Не удалось загрузить файл. Код ошибки: %d"
+
+msgid "Failed creating temporary file"
+msgstr "Не удалось создать временный файл"
+
+msgid "Failed opening temporary file with write permission"
+msgstr "Не удалось открыть временный файл с разрешением на запись"
+
+msgid "Failed reading php input stream"
+msgstr "Не удалось прочитать поток ввода php"
+
+msgid "Image size"
+msgstr "Размер изображения"
+
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+msgid "Medium size"
+msgstr "Средний размер"
+
+msgid "Large size"
+msgstr "Большой размер"
+
+msgid "Original size"
+msgstr "Исходный размер"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Image"
+msgstr "Изображение"
+
+msgid "File upload field"
+msgstr "Поле передачи файла"
+
+msgid "Maximum file size"
+msgstr "Максимальный размер файла"
+
+msgid ""
+"The maximum file size of uploaded files in kilobytes. Leave this field blank "
+"for no limit."
+msgstr ""
+"Максимальный размер загружаемого файла в килобайтах. Оставьте это поле "
+"пустым."
+
+msgid "Allowed file extensions"
+msgstr "Разрешенные расширения файлов"
+
+msgid ""
+"Enter a list of allowed file extensions separated by commas (i.e. jpg, gif, "
+"png, pdf)."
+msgstr ""
+"Введите список разрешенных расширений файлов через запятую (то есть jpg, gif,"
+" png, pdf)."
+
+#, php-format
+msgid "Failed fetching content of file %s."
+msgstr "Не удалось получить содержимое файла %s."
+
+#, php-format
+msgid "Failed generating hash value for file %s."
+msgstr "Не удалось создать хэш-значение для файла %s."
+
+#, php-format
+msgid "%.1fMB"
+msgstr ""
+
+#, php-format
+msgid "%.1fKB"
+msgstr ""
+
+#, php-format
+msgid "%dB"
+msgstr "%дБ"
+
+#, php-format
+msgid "Supported file formats: %s"
+msgstr "Поддерживаемые форматы файлов: %s"
+
+msgid "There are currently no files uploaded."
+msgstr "В настоящее время файлы не загружены."
+
+#, php-format
+msgid "Maximum number of files %d, maximum file size %s."
+msgstr "Максимальное число файлов %d, максимальный размер файла %s."
+
+#, php-format
+msgid "Maximum file size %s."
+msgstr "Максимальный размер файла %s."
+
+msgid "File Name"
+msgstr "Имя файла"
+
+msgid "Size"
+msgstr "Размер"
+
+#, php-format
+msgid "You may not upload more than %d files."
+msgstr "Вы не можете выгрузить более %d файлов."
+
+#, php-format
+msgid "You may not upload more than %d files"
+msgstr "Вы не можете выгрузить более %d файлов"
+
+#, php-format
+msgid "Deleted %d expired file upload token(s)."
+msgstr "Удалено %d маркеров выгрузки файлов с истекшим сроком действия."
+
+#, php-format
+msgid "Failed saving file %s to the upload directory."
+msgstr "Не удалось сохранить файл %s в каталог закачивания."
+
+#, php-format
+msgid "File %s does not exist."
+msgstr "Файл %s не существует."
+
+#, php-format
+msgid "Failed opening stream for file %s."
+msgstr "Не удалось открыть поток для файла %s."
+
+msgid "File Attachments"
+msgstr "Вложения файлов"
+
+msgid "This post has one or more files attached."
+msgstr "Этот пост содержит один или несколько вложенных файлов."
+
+msgid "This post has one or more images attached."
+msgstr "Этот пост содержит один или несколько вложенных изображений."
+
+msgid "File upload directory"
+msgstr "Каталог закачки файлов"
+
+#, php-format
+msgid ""
+"Enter the path to a directory where uploaded files are stored. Leave blank "
+"to use the system default (%s). This directory must be writeable by the "
+"server."
+msgstr ""
+"Введите путь к каталогу, в котором хранятся переданные файлы. Оставьте "
+"пустым, чтобы использовать системное значение по умолчанию (%s). Этот "
+"каталог должен быть доступен для записи на сервере."
+
+msgid "Temporary file upload directory"
+msgstr "Временный каталог закачки файлов"
+
+#, php-format
+msgid ""
+"Enter the path to a directory where temporary uploaded files are stored. "
+"Leave blank to use the system default (%s). This directory must be writeable "
+"by the server."
+msgstr ""
+"Введите путь к каталогу, в котором хранятся временные переданные файлы. "
+"Оставьте пустым, чтобы использовать системное значение по умолчанию (%s). "
+"Этот каталог должен быть доступен для записи на сервере."
+
+msgid "Thumbnail directory"
+msgstr "Каталог миниизображений"
+
+#, php-format
+msgid ""
+"Enter the path to a directory where thumbnail files are stored. Leave blank "
+"to use the system default (%s). This directory must be writeable by the "
+"server and accessible by the web browser."
+msgstr ""
+"Введите путь к каталогу, в котором хранятся файлы миниизображений. Оставьте "
+"пустым, чтобы использовать системное значение по умолчанию (%s). Этот "
+"каталог должен быть доступен для записи сервером и доступен веб-браузеру."
+
+msgid "Thumbnail size"
+msgstr "Размер миниизображений"
+
+msgid "Enter the dimension of thumbnail files in pixels."
+msgstr "Введите размер уменьшенных копий файлов в пикселах."
+
+msgid "Thumbnail resize method"
+msgstr "Метод изменения размера эскиза"
+
+msgid "Crop"
+msgstr "Урожай"
+
+msgid "Scale"
+msgstr "Масштаб"
+
+msgid "Disable pretty URLs"
+msgstr "Отключить красивые URL"
+
+msgid "The path must be different fom the other two."
+msgstr "Путь должен быть иным, чем два других."
+
+msgid "Redirecting..."
+msgstr "Перенаправление ..."
+
+msgid "cancel"
+msgstr "отмена"
+
+#, php-format
+msgid "Sort by %s"
+msgstr "Сортировать по %s"
+
+msgid "Address Line 1"
+msgstr "Строка адреса 1"
+
+msgid "Address Line 2"
+msgstr "Строка адреса 2"
+
+msgid "City"
+msgstr "Город"
+
+msgid "State / Province / Region"
+msgstr "Область/Область/Регион"
+
+msgid "Postal / Zip Code"
+msgstr "Почтовый индекс"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "This field may not be empty."
+msgstr "Это поле не может быть пустым."
+
+#, php-format
+msgid "Maximum of %d items is allowed for this field."
+msgstr "Для этого поля допустимы максимум %d элементов."
+
+msgid "No matches found"
+msgstr "Совпадений не найдено"
+
+#, php-format
+msgid "Please enter %d or more characters"
+msgstr "Введите %d или более символов"
+
+msgid "Selection required."
+msgstr "Требуется выбор."
+
+msgid "Invalid option selected."
+msgstr "Выбрана недопустимая опция."
+
+#, php-format
+msgid "Maximum of %d selections allowed."
+msgstr "Максимально допустимое число выбранных элементов: %d."
+
+msgid "File must be uploaded."
+msgstr "Файл должен быть передан."
+
+msgid "No records found."
+msgstr "Записи не найдены."
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "Add from CSV"
+msgstr "Добавить из CSV"
+
+#, php-format
+msgid "The input value did not match the regular expression: %s"
+msgstr "Входное значение не соответствует регулярному выражению: %s"
+
+msgid "Please select at least one option."
+msgstr "Выберите хотя бы одну опцию."
+
+#, php-format
+msgid "The input range must be between %s and %s."
+msgstr "Входной диапазон должен находиться в диапазоне от %s до %s."
+
+msgid "Selection is required for this field."
+msgstr "Для этого поля требуется выбрать."
+
+#, php-format
+msgid "Maximum of %d selections is allowed for this field."
+msgstr "В этом поле можно выбрать не более %d элементов."
+
+msgid "Submit"
+msgstr "Передать"
+
+msgid "Invalid token"
+msgstr "Недопустимый маркер"
+
+msgid "An error occurred while processing the form."
+msgstr "Ошибка при обработке формы."
+
+msgid "Please correct the error(s) below."
+msgstr "Исправьте ошибки, приведенные ниже."
+
+msgid "The input value must be an integer."
+msgstr "Входное значение должно быть целым числом."
+
+msgid "The input value must be numeric."
+msgstr "Входное значение должно быть числовым."
+
+msgid "The input value must consist of alphabets only."
+msgstr "Входное значение должно состоять только из алфавитов."
+
+msgid "The input value must consist of alphanumeric characters only."
+msgstr ""
+"Входное значение должно состоять только из алфавитно-цифровых символов."
+
+msgid "The input value must consist of lowercasae characters only."
+msgstr "Входное значение должно состоять только из символов lowerasae."
+
+msgid "The input value must consist of uppercase characters only."
+msgstr "Входное значение должно состоять только из символов верхнего регистра."
+
+msgid "The input value is not a valid URL."
+msgstr "Входное значение не является допустимым URL."
+
+msgid "The input value is not a valid E-mail address."
+msgstr "Входное значение не является допустимым адресом электронной почты."
+
+#, php-format
+msgid "The input value must be %d characters."
+msgstr "Входное значение должно содержать %d символов."
+
+#, php-format
+msgid "The input value must be between %d and %d characters."
+msgstr "Входное значение должно быть от %d до %d символов."
+
+#, php-format
+msgid "The input value must be shorter than %d characters."
+msgstr "Входное значение должно быть короче %d символов."
+
+#, php-format
+msgid "The input value must be longer than %d characters."
+msgstr "Входное значение должно быть длиннее %d символов."
+
+#, php-format
+msgid "The value must be equal or greater than %s."
+msgstr "Значение должно быть больше или равно %s."
+
+#, php-format
+msgid "The value must not be greater than %s."
+msgstr "Значение не должно быть больше %s."
+
+msgid "Next step"
+msgstr "Следующий шаг"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Previous"
+msgstr "Предыдущая"
+
+msgid "Markdown editor"
+msgstr "Редактор скидок"
+
+msgid "Hide editor buttons"
+msgstr "Скрыть кнопки редактора"
+
+msgid "Hide preview"
+msgstr "Скрыть предварительный просмотр"
+
+msgid "Strong <strong> Ctrl+B  4"
+msgstr ""
+
+msgid "strong text"
+msgstr "сильный текст"
+
+msgid "Emphasis <em> Ctrl+I"
+msgstr ""
+
+msgid "emphasized text"
+msgstr "подчеркнут текст"
+
+msgid "Hyperlink <a> Ctrl+L"
+msgstr ""
+
+msgid "enter link description here"
+msgstr "введите здесь описание ссылки"
+
+msgid "<h2>Insert Hyperlink</h2><p>http://example.com/ \"optional title\"</p>"
+msgstr ""
+
+msgid "Blockquote <blockquote> Ctrl+Q"
+msgstr ""
+
+msgid "Blockquote"
+msgstr "Блокировка"
+
+msgid "Code Sample <pre><code> Ctrl+K"
+msgstr ""
+
+msgid "enter code here"
+msgstr "введите здесь код"
+
+msgid "Image <img> Ctrl+G"
+msgstr ""
+
+msgid "enter image description here"
+msgstr "введите здесь описание изображения"
+
+msgid ""
+"<h2>Insert Image</h2><p>http://example.com/images/diagram.jpg \"optional "
+"title\"</p>"
+msgstr ""
+
+msgid "Numbered List <ol> Ctrl+O"
+msgstr ""
+
+msgid "Bulleted List <ul> Ctrl+U"
+msgstr ""
+
+msgid "List item"
+msgstr "Элемент списка"
+
+msgid "Heading <h1>/<h2> Ctrl+H"
+msgstr ""
+
+msgid "Heading"
+msgstr "Заголовок"
+
+msgid "Horizontal Rule <hr> Ctrl+R"
+msgstr ""
+
+msgid "Undo - Ctrl+Z"
+msgstr "Отменить-Ctrl + Z"
+
+msgid "Redo - Ctrl+Y"
+msgstr "Повторить-Ctrl + Y"
+
+msgid "Redo - Ctrl+Shift+Z"
+msgstr "Повторить-Ctrl + Shift + Z"
+
+msgid "Markdown Editing Help"
+msgstr "Справка по редактированию скидок"
+
+msgid "Enable markdown help"
+msgstr "Включить поддержку скидок"
+
+msgid "Help URL"
+msgstr "URL справки"
+
+msgid ""
+"Enter the URL of a page that will open up in a popup window when the help "
+"button on the Markdown editor is clicked."
+msgstr ""
+"Введите URL страницы, которая открывается во всплывающем окне при нажатии "
+"кнопки справки в редакторе скидок."
+
+msgid "Help window dimension"
+msgstr "Измерение окна Справка"
+
+msgid "Enter the dimension of the popup help window in pixels."
+msgstr "Введите размер окна всплывающей справки в пикселах."
+
+msgid "Icon size"
+msgstr "Размер значка"
+
+msgid "Large"
+msgstr "Большой"
+
+msgid "X-Large"
+msgstr "X-Большой"
+
+msgid "Social Accounts"
+msgstr "Социальные Счета"
+
+msgid "Social medias"
+msgstr "Социальные сети"
+
+msgid "Share"
+msgstr "Совместное использование"
+
+#, php-format
+msgid "Share this %s"
+msgstr "Общий доступ к этому %s"
+
+msgid "Enable social sharing"
+msgstr "Разрешить совместное использование социальных ресурсов"
+
+msgid "Settings saved."
+msgstr "Параметры сохранены."
+
+msgid "Permissions"
+msgstr "Разрешения"
+
+#, php-format
+msgid "Configure %s Add-on"
+msgstr "Настроить надстройку %s"
+
+msgid "Clone Add-on"
+msgstr "Дублировать надстройку"
+
+#, php-format
+msgid "Press the button below to clone the <strong>%s</strong> add-on."
+msgstr ""
+
+msgid "Add-on Name"
+msgstr "Имя надстройки"
+
+msgid "The name is already in use by another add-on."
+msgstr "Имя уже используется другим надстройкой."
+
+msgid "There is already a cloned add-on with that name."
+msgstr "С таким именем уже есть клонированная надстройка."
+
+#, php-format
+msgid "Add-on %s could not be created."
+msgstr "Не удалось создать надстройки %s."
+
+#, php-format
+msgid "Add-on %s has been created."
+msgstr "Создан файл надстройки %s."
+
+msgid "Delete Add-on"
+msgstr "Удалить надстройку"
+
+#, php-format
+msgid "Are you sure you want to delete <strong>%s</strong>?"
+msgstr ""
+
+#, php-format
+msgid "Add-on %s has been deleted."
+msgstr "Добавление %s удалено."
+
+msgid "Enable this email notification"
+msgstr "Включить это уведомление по электронной почте"
+
+#, php-format
+msgid ""
+"Enter the message that should be sent with this notification. Available "
+"template tags: %s"
+msgstr ""
+"Введите сообщение, которое должно быть отправлено с этим уведомлением. "
+"Доступные теги шаблонов: %s"
+
+msgid "Subject"
+msgstr "Тема"
+
+msgid "User Roles"
+msgstr "Роли пользователей"
+
+msgid "Select the user roles to which this email notification is sent."
+msgstr ""
+"Выберите роли пользователей, которым будет отправлено это уведомление по "
+"электронной почте."
+
+msgid "Send this notification to guest authors"
+msgstr "Отправить это уведомление гостевым авторам"
+
+msgid "Send a copy to users of selected roles"
+msgstr "Отправить копию пользователям выбранных ролей"
+
+msgid ""
+"Select the user roles to which a copy of this email notification is sent."
+msgstr ""
+"Выберите роли пользователей, которым будет отправлено это уведомление по "
+"электронной почте."
+
+msgid "Install Add-on"
+msgstr "Установить надстройку"
+
+#, php-format
+msgid ""
+"You are about to install the <strong>%s</strong> (version: <strong>"
+"%s</strong>) add-on."
+msgstr ""
+
+#, php-format
+msgid "Add-on %s has been installed."
+msgstr "Компонент %s уже установлен."
+
+msgid "Reload Add-on"
+msgstr "Перезагрузить надстройку"
+
+#, php-format
+msgid ""
+"Press the button below to reload the current version of <strong>%s</strong>."
+msgstr ""
+
+#, php-format
+msgid "Add-on %s has been upgraded."
+msgstr "Обновление %s было обновлено."
+
+msgid "Uninstall Add-on"
+msgstr "Удалить надстройку"
+
+#, php-format
+msgid ""
+"Are you sure you want to uninstall <strong>%s</strong>? All data of this "
+"addon will be deleted."
+msgstr ""
+
+#, php-format
+msgid "Add-on %s has been uninstalled."
+msgstr "Добавление %s удалено."
+
+msgid "Upgrade Add-on"
+msgstr "Обновить надстройку"
+
+#, php-format
+msgid ""
+"Press the button below to upgrade <strong>%s</strong> to version <strong>"
+"%s</strong>."
+msgstr ""
+
+msgid "Guest"
+msgstr "Гость"
+
+msgid "---------- Forwarded message ----------"
+msgstr "---------- Переслано сообщение ----------"
+
+#, php-format
+msgid "Sent From: %s"
+msgstr "Отправлено из: %s"
+
+#, php-format
+msgid "Sent to: %s <%s>"
+msgstr "Отправлено: %s <%s>"
+
+#, php-format
+msgid "Sent to: %s <%s> and %d other recipient(s)"
+msgstr "Отправлено: %s <%s> и %d других получателей"
+
+#, php-format
+msgid "Original Subject: %s"
+msgstr "Исходный субъект: %s"
+
+#, php-format
+msgid "FW: %s"
+msgstr "FW: %s"
+
+msgid "General"
+msgstr "Общие сведения"
+
+msgid "Sabai Settings"
+msgstr "Параметры сабаи"
+
+msgid "System Settings"
+msgstr "Параметры системы"
+
+msgid "System Information"
+msgstr "Информация о системе"
+
+msgid "Run Cron"
+msgstr "Запустить Cron"
+
+msgid "Settings"
+msgstr "Параметры"
+
+msgid "Clear Cache"
+msgstr "Очистить кэш"
+
+msgid "Sabai Add-Ons"
+msgstr "Sabai Add-Ons"
+
+msgid "Version"
+msgstr "Версия"
+
+msgid "Installable Add-ons"
+msgstr "Устанавливаемые дополнения"
+
+msgid "Upgrade this add-on"
+msgstr "Обновить эту надстройку"
+
+#, php-format
+msgid "Upgrade %s Add-on"
+msgstr "Обновить надстройку %s"
+
+msgid "Uninstall this add-on"
+msgstr "Удалить этот дополнительный модуль"
+
+#, php-format
+msgid "Uninstall %s Add-on"
+msgstr "Деинсталлировать надстройку %s"
+
+msgid "Configure this add-on"
+msgstr "Настроить этот дополнительный модуль"
+
+msgid "Clone this add-on"
+msgstr "Создать копию этого дополнения"
+
+#, php-format
+msgid "Clone %s Add-on"
+msgstr "Дублировать надстройку %s"
+
+msgid "Reload this add-on"
+msgstr "Перезагрузить эту надстройку"
+
+#, php-format
+msgid "Reload %s Add-on"
+msgstr "Перезагрузка %s надстройки"
+
+#, php-format
+msgid "<strong>%s</strong> by %s"
+msgstr ""
+
+#, php-format
+msgid "%s addon for Sabai"
+msgstr "Аддон %s для сабаи"
+
+msgid "Install this add-on"
+msgstr "Установить эту надстройку"
+
+#, php-format
+msgid "Install %s"
+msgstr "Установить %s"
+
+msgid "Delete this add-on"
+msgstr "Удалить эту надстройку"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgctxt "Upgrade add-ons"
+msgid "Upgrade Checked"
+msgstr "Обновление проверено"
+
+msgctxt "Reload add-ons"
+msgid "Reload Checked"
+msgstr "Перезагрузка проверено"
+
+msgid "\"No Image\" image URL"
+msgstr "URL изображения \"Нет изображения\""
+
+#, php-format
+msgid "Leave blank to use the system default (%s)."
+msgstr ""
+"Оставьте пустым, чтобы использовать системное значение по умолчанию (%s)."
+
+msgid "\"No Image\" image URL (small)"
+msgstr "URL изображения \"Нет изображения\" (малый)"
+
+msgid "Do not load jQuery UI CSS"
+msgstr "Не загружать CSS пользовательского интерфейса jQuery"
+
+msgid "Do not load bxslider javascript library on startup"
+msgstr "Не загружать библиотеку javascript bxslider при запуске"
+
+#, php-format
+msgid "%s created successfully."
+msgstr "%s создан успешно."
+
+#, php-format
+msgid "Are you sure you want to delete this %s?"
+msgstr "Вы действительно хотите удалить этот %s?"
+
+#, php-format
+msgctxt "Delete taxonomy term form submit button"
+msgid "Delete %s"
+msgstr "Удалить %s"
+
+#, php-format
+msgid "Recount %s"
+msgstr "Пересчет %s"
+
+msgid "Are you sure you want to <em>permanently</em> delete this item?"
+msgstr ""
+
+#, php-format
+msgid "Recent posts tagged %s"
+msgstr "Последние сообщения помечены %s"
+
+#, php-format
+msgid "The most recent %d posts tagged %s"
+msgstr "Последние %d постов с тегом %s"
+
+msgid "Creation Date"
+msgstr "Дата создания"
+
+msgid "Taxonomy"
+msgstr "Классификация"
+
+msgid "Parent Term"
+msgstr "Родительский термин"
+
+#, php-format
+msgid "Select %s"
+msgstr "Выбрать %s"
+
+msgid "Number of term options"
+msgstr "Число вариантов терминов"
+
+msgid "Depth of term hierarchy tree"
+msgstr "Глубина дерева иерархии терминов"
+
+msgid "Icon"
+msgstr "Значок"
+
+msgid "Maximum number of items to display (0 or unlimited)"
+msgstr "Максимальное число элементов для отображения (0 или не ограничено)"
+
+msgid "Separator"
+msgstr "Разделитель"
+
+msgid "Taxonomy Terms"
+msgstr "Термины таксо"
+
+msgid "Enable enhanced user interface"
+msgstr "Включить расширенный пользовательский интерфейс"
+
+#, php-format
+msgid ""
+"Check this to apply the jQuery %s plugin to this field to enable ajax auto-"
+"suggestion and more user friendly input method."
+msgstr ""
+"Включите этот переключатель, чтобы применить к этому полю модуль jQuery %s, "
+"чтобы включить автоматическое предложение ajax и более удобный "
+"пользовательский метод ввода."
+
+msgid "Allow adding new items"
+msgstr "Разрешить добавление новых элементов"
+
+msgid ""
+"Check this to allow the user to add new items that do not currently exist in "
+"the list. This requires the \"Add XXX\" permission granted to the user, "
+"where XXX is the type of item such as Categories, Tags, and etc."
+msgstr ""
+"Включите этот переключатель, чтобы разрешить пользователю добавлять новые "
+"элементы, которые в настоящее время не существуют в списке. Для этого "
+"требуется разрешение \"Добавить XXX\", предоставленное пользователю, где XXX-"
+"это тип элемента, например, Категории, Теги и т.д."
+
+msgid "Enter a text string used to separate multiple terms."
+msgstr ""
+"Введите текстовую строку, которая используется для разделения нескольких "
+"терминов."
+
+#, php-format
+msgid "Parent %s"
+msgstr "Родительский %s"
+
+#, php-format
+msgid "The following %s do not exist: %s"
+msgstr "Следующие %s не существуют: %s"
+
+msgid "Info"
+msgstr "Информация"
+
+#, php-format
+msgctxt "Delete taxonomy term page title"
+msgid "Delete %s"
+msgstr "Удалить %s"
+
+#, php-format
+msgid "%s count"
+msgstr "Число %s"
+
+#, php-format
+msgid "Edit this %s"
+msgstr "Изменить этот %s"
+
+#, php-format
+msgid "Delete this %s"
+msgstr "Удалить этот %s"
+
+#, php-format
+msgid "Assign %s"
+msgstr "Присвоить %s"
+
+#, php-format
+msgid "Remove %s"
+msgstr "Удалить %s"
+
+#, php-format
+msgctxt "Filter"
+msgid "All %s"
+msgstr "Все %s"
+
+msgid "Time"
+msgstr "Время"
+
+msgid "Enable day of week"
+msgstr "Включить день недели"
+
+msgid "Enable end time"
+msgstr "Включить время окончания"
+
+msgid "Time picker"
+msgstr "Загрузчик времени"
+
+msgid "Set current time selected by default"
+msgstr "Задать текущее время, выбранное по умолчанию"
+
+msgid "Invalid time."
+msgstr "Недопустимое время."
+
+msgid "Please pick a time."
+msgstr "Пожалуйста, выберите время."
+
+msgid "Please select a day of week."
+msgstr "Выберите день недели."
+
+msgid "Please select an end time."
+msgstr "Выберите конечное время."
+
+msgid "Monday"
+msgstr "Понедельник"
+
+msgid "Tuesday"
+msgstr "Вторник"
+
+msgid "Wednesday"
+msgstr "Среда"
+
+msgid "Thursday"
+msgstr "Четверг"
+
+msgid "Friday"
+msgstr "Пятница"
+
+msgid "Saturday"
+msgstr "Суббота"
+
+msgid "Sunday"
+msgstr "Воскресенье"
+
+msgid "Opening Hours"
+msgstr "Часы открытия"
+
+msgctxt "opening hours"
+msgid "Closed"
+msgstr "Закрыто"
+
+msgid "Show days without any entry as closed"
+msgstr "Показывать дни без какой-либо записи"
+
+msgid "Label for closed days"
+msgstr "Метка для закрытых дней"
+
+msgid "Date added"
+msgstr "Дата добавления"
+
+msgid "Date flagged"
+msgstr "Дата помечена"
+
+msgid "IP address"
+msgstr "IP-адрес"
+
+msgid "Yes / No"
+msgstr "Да/Нет"
+
+msgid "Rating"
+msgstr "Рейтинг"
+
+msgid "Recent"
+msgstr "Последние"
+
+msgctxt "sort"
+msgid "Flags"
+msgstr "Флаги"
+
+msgid "Are you sure you want to ignore all the flags submitted?"
+msgstr "Вы действительно хотите игнорировать все представленные флаги?"
+
+msgid "Ignore Flags"
+msgstr "Игнорировать флаги"
+
+msgid "Redo Submit"
+msgstr "Повторить отправку"
+
+msgid "Vote"
+msgstr "Голосование"
+
+msgid "Helpful"
+msgstr "Полезно"
+
+msgid "Favorite"
+msgstr "Избранное"
+
+msgid "Flag"
+msgstr "Флаг"
+
+msgid "You do not have the permission to perform this action."
+msgstr "У вас нет разрешения на выполнение этого действия."
+
+msgid "Other reason (Enter comment below)"
+msgstr "Другая причина (введите комментарий ниже)"
+
+#, php-format
+msgid "%s & Up"
+msgstr "%s & Вверх"
+
+#, php-format
+msgid "%d stars"
+msgstr "%d звезд"
+
+#, php-format
+msgid "%d stars & up"
+msgstr "%d звезд и вверх"
+
+msgid "Mark/unmark this post as favorite (click again to undo)"
+msgstr "Пометить этот пост как избранное (нажмите еще раз для отмены)"
+
+msgid "Mark/unmark this post as favorite"
+msgstr "Пометить этот пост как избранное"
+
+msgid "System Message"
+msgstr "Системное сообщение"
+
+#, php-format
+msgid "%.2f out of 5 stars"
+msgstr ""
+
+msgid "This post is useful (click again to undo)"
+msgstr "Эта должность полезна (нажмите кнопку еще раз для отмены)"
+
+msgid "Mark this post as useful"
+msgstr "Пометить этот пост как полезный"
+
+msgid "This post is not useful (click again to undo)"
+msgstr "Эта должность не является полезной (нажмите кнопку еще раз для отмены)"
+
+msgid "Unmark this post as useful"
+msgstr "Пометить этот пост как полезный"
+
+msgid "Rating Details"
+msgstr "Сведения о рейтинге"
+
+#, php-format
+msgid "The input value must be between %d and %d."
+msgstr "Входное значение должно находиться в диапазоне от %d до %d."
+
+msgid "Invalid value."
+msgstr "Недопустимое значение."
+
+#, php-format
+msgid "Vote for \"%s\""
+msgstr "Голосовать за \"%s\""
+
+#, php-format
+msgid "Vote up %s"
+msgstr "Голосовать за %s"
+
+#, php-format
+msgid "Vote up own %s"
+msgstr "Голосовать за %s"
+
+#, php-format
+msgid "Vote down %s"
+msgstr "Голосовать за %s"
+
+#, php-format
+msgid "Vote %s helpful"
+msgstr "Голосование %s полезно"
+
+#, php-format
+msgid "Vote own %s helpful"
+msgstr "Голосовые сообщения %s полезны"
+
+#, php-format
+msgid "Rate %s"
+msgstr "Скорость %s"
+
+#, php-format
+msgid "Rate own %s"
+msgstr "Собственный тариф %s"
+
+msgid "Favorites"
+msgstr "Избранное"
+
+#, php-format
+msgid "Flag %s"
+msgstr "Флаг %s"
+
+msgid "Reason for flagging"
+msgstr "Причина для маркировки"
+
+#, php-format
+msgid "You have already flagged this %s. Press the button to redo flagging."
+msgstr "Вы уже помечены флагом %s. Нажмите кнопку, чтобы повторить сброс."
+
+msgid "Redo Flagging"
+msgstr "Пометить флаги повторов"
+
+msgid "Thanks, we will take a look at it."
+msgstr "Спасибо, мы посмотрим на это."
+
+#, php-format
+msgid "Vote for this %s"
+msgstr "Голосовать за %s"
+
+#, php-format
+msgid "Unvote for this %s"
+msgstr "Отменить голосование для %s"
+
+#, php-format
+msgid "Bookmark this %s"
+msgstr "Создать закладку для %s"
+
+#, php-format
+msgid "Unbookmark this %s"
+msgstr "Отменить закладку для этого %s"
+
+msgid "Bookmark"
+msgstr "Закладка"
+
+#, php-format
+msgid "Flag this %s"
+msgstr "Флаг %s"
+
+msgid "Flagged"
+msgstr "Помечено"
+
+#, php-format
+msgid "This post has %d flags"
+msgstr "Этот пост содержит %d флагов"
+
+#, php-format
+msgid "Clear %s"
+msgstr "Очистить %s"
+
+msgid "Flagged/Unflagged"
+msgstr "Помечено/Не помечено"
+
+msgid "Unflagged"
+msgstr "Не помечено"
+
+msgid "Ratings"
+msgstr "Рейтинги"
+
+#, php-format
+msgid "%d vote (score: %d)"
+msgid_plural "%d votes (score: %d)"
+msgstr[0] "%d голосов (оценка: %d)"
+msgstr[1] "%d голосов (оценка: %d)"
+msgstr[2] ""
+
+#, php-format
+msgid "%d favorite"
+msgid_plural "%d favorites"
+msgstr[0] "%d избранных"
+msgstr[1] "%d избранного"
+msgstr[2] ""
+
+#, php-format
+msgid ""
+"Comment posted by %s on %s has been marked as spam (spam score: %d, flag "
+"count: %d)"
+msgstr ""
+"Комментарий, размещёный %s в %s, помечен как спам (оценка спама: %d, число "
+"флагов: %d)"
+
+msgid "Bookmarks"
+msgstr "Закладки"
+
+msgid "CAPTCHA image size"
+msgstr "Размер изображения CAPTCHA"
+
+msgid "You did not enter the correct characters."
+msgstr "Вы не ввели правильные символы."
+
+msgid "The Really Simple CAPTCHA plugin must be installed and active."
+msgstr "Модуль Really Simple CAPTCHA должен быть установлен и активен."
+
+msgid "Use an existing page"
+msgstr "Использовать существующую страницу"
+
+msgid "Create a new page"
+msgstr "Создать новую страницу"
+
+msgid "Title:"
+msgstr "Название:"
+
+msgid "Slug:"
+msgstr "Шлюх:"
+
+msgid "No page (use the parent page)"
+msgstr "Нет страницы (используйте родительскую страницу)"
+
+msgid "Page Settings"
+msgstr "Параметры страницы"
+
+msgid "Slug Settings"
+msgstr "Параметры slug"
+
+msgid "WordPress editor"
+msgstr "Редактор WordPress"
+
+msgid "Disable Visual mode"
+msgstr "Выключить визуальный режим"
+
+msgid "Disable toolbar in Text mode"
+msgstr "Выключить панель инструментов в текстовом режиме"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Process shortcode(s)"
+msgstr "Код (ы) процесса"
+
+#, php-format
+msgid "User roles allowed to use shortcodes: %s"
+msgstr "Роли пользователей позволяют использовать краткие коды: %s"
+
+msgctxt "tab"
+msgid "Pages"
+msgstr "Страницы"
+
+msgid "CodeCanyon.net Purchase Code Settings"
+msgstr "Параметры кода покупки CodeCanyon.net"
+
+msgid ""
+"Enter the item purchase code you received from CodeCanyon.net to enable "
+"automatic updates for each plugin. Make sure that you enter a valid purchase "
+"code here otherwise it will just slow your site down."
+msgstr ""
+"Введите код покупки номенклатуры, полученный от CodeCanyon.net, чтобы "
+"включить автоматические обновления для каждого модуля. Убедитесь, что вы "
+"ввели правильный код покупки, иначе он просто замедлит работу вашего сайта."
+
+msgid "User roles allowed to use shortcodes in content"
+msgstr "Роли пользователей позволяют использовать краткие коды в содержимом"
+
+msgid "Token has expired. Please reload the page and try again."
+msgstr ""
+"Срок действия маркера истек. Перезагрузите страницу и повторите попытку."
+
+msgid "Transition mode"
+msgstr "Режим перехода"
+
+msgctxt "transition mode"
+msgid "Horizontal"
+msgstr "Горизонтальная"
+
+msgctxt "transition mode"
+msgid "Vertical"
+msgstr "Вертикальная"
+
+msgctxt "transition mode"
+msgid "Fade"
+msgstr "Фад"
+
+msgid "Automatically cycle slides"
+msgstr "Автоматический цикл слайдов"
+
+msgid "The amount of time to delay between automatically cycling slides."
+msgstr "Время задержки между автоматическим циклическим слайдом."
+
+msgid "Show captions"
+msgstr "Показать заголовки"
+
+msgid "Show prev/next controls"
+msgstr "Показать предыдущий или следующий элементы управления"
+
+msgid "Show indicator circles"
+msgstr "Показать кружки индикаторов"
+
+msgid "Afghanistan"
+msgstr "Афганистан"
+
+msgid "Aland Islands"
+msgstr "Аланские острова"
+
+msgid "Albania"
+msgstr "Албания"
+
+msgid "Algeria"
+msgstr "Алжир"
+
+msgid "American Samoa"
+msgstr "Американское Самоа"
+
+msgid "Andorra"
+msgstr "Андорра"
+
+msgid "Angola"
+msgstr "Ангола"
+
+msgid "Anguilla"
+msgstr "Ангиль"
+
+msgid "Antarctica"
+msgstr "Антарктика"
+
+msgid "Antigua And Barbuda"
+msgstr "Антигуа И Барбуда"
+
+msgid "Argentina"
+msgstr "Аргентина"
+
+msgid "Armenia"
+msgstr "Армения"
+
+msgid "Aruba"
+msgstr "Аруба"
+
+msgid "Australia"
+msgstr "Австралия"
+
+msgid "Austria"
+msgstr "Австрия"
+
+msgid "Azerbaijan"
+msgstr "Азербайджан"
+
+msgid "Bahamas"
+msgstr "Багамы"
+
+msgid "Bahrain"
+msgstr "Бахрейн"
+
+msgid "Bangladesh"
+msgstr "Бангладеш"
+
+msgid "Barbados"
+msgstr "Барбадос"
+
+msgid "Belarus"
+msgstr "Беларусь"
+
+msgid "Belgium"
+msgstr "Бельгия"
+
+msgid "Belize"
+msgstr "Белиз"
+
+msgid "Benin"
+msgstr "Бенин"
+
+msgid "Bermuda"
+msgstr "Бербер"
+
+msgid "Bhutan"
+msgstr "Бутан"
+
+msgid "Bolivia"
+msgstr "Боливия"
+
+msgid "Bosnia And Herzegovina"
+msgstr "Босния И Герцеговина"
+
+msgid "Botswana"
+msgstr "Ботсвана"
+
+msgid "Bouvet Island"
+msgstr "Остров Буве"
+
+msgid "Brazil"
+msgstr "Бразилия"
+
+msgid "British Indian Ocean Territory"
+msgstr "Британская территория Индийского океана"
+
+msgid "Brunei Darussalam"
+msgstr "Бруней"
+
+msgid "Bulgaria"
+msgstr "Болгария"
+
+msgid "Burkina Faso"
+msgstr "Буркина-Фасо"
+
+msgid "Burundi"
+msgstr "Бурунди"
+
+msgid "Cambodia"
+msgstr "Камбоджа"
+
+msgid "Cameroon"
+msgstr "Камерун"
+
+msgid "Canada"
+msgstr "Канада"
+
+msgid "Cape Verde"
+msgstr "Кабо-Верде"
+
+msgid "Cayman Islands"
+msgstr "Острова Кайман"
+
+msgid "Central African Republic"
+msgstr "Центральноафриканская Республика"
+
+msgid "Chad"
+msgstr "Чад"
+
+msgid "Chile"
+msgstr "Чили"
+
+msgid "China"
+msgstr "Китай"
+
+msgid "Christmas Island"
+msgstr "Остров Рождества"
+
+msgid "Cocos (Keeling) Islands"
+msgstr "Кокосовые острова"
+
+msgid "Colombia"
+msgstr "Колумбия"
+
+msgid "Comoros"
+msgstr "Коморские"
+
+msgid "Congo"
+msgstr "Конго"
+
+msgid "Congo, Democratic Republic"
+msgstr "Демократическая Республика Конго"
+
+msgid "Cook Islands"
+msgstr "Острова Кука"
+
+msgid "Costa Rica"
+msgstr "Коста-Рика"
+
+msgid "Cote D'Ivoire"
+msgstr "Кот-д ' Ивуар"
+
+msgid "Croatia"
+msgstr "Хорватия"
+
+msgid "Cuba"
+msgstr "Куба"
+
+msgid "Cyprus"
+msgstr "Кипр"
+
+msgid "Czech Republic"
+msgstr "Чешская Республика"
+
+msgid "Denmark"
+msgstr "Дания"
+
+msgid "Djibouti"
+msgstr "Джибути"
+
+msgid "Dominica"
+msgstr "Доминика"
+
+msgid "Dominican Republic"
+msgstr "Доминиканская Республика"
+
+msgid "Ecuador"
+msgstr "Эквадор"
+
+msgid "Egypt"
+msgstr "Египет"
+
+msgid "El Salvador"
+msgstr "Сальвадор"
+
+msgid "Equatorial Guinea"
+msgstr "Экваториальная Гвинея"
+
+msgid "Eritrea"
+msgstr "Эритрея"
+
+msgid "Estonia"
+msgstr "Эстония"
+
+msgid "Ethiopia"
+msgstr "Эфиопия"
+
+msgid "Falkland Islands (Malvinas)"
+msgstr "Фолклендские (Мальвинские) острова"
+
+msgid "Faroe Islands"
+msgstr "Фарерские острова"
+
+msgid "Fiji"
+msgstr "Фиджи"
+
+msgid "Finland"
+msgstr "Финляндия"
+
+msgid "France"
+msgstr "Франция"
+
+msgid "French Guiana"
+msgstr "Французская Гвиана"
+
+msgid "French Polynesia"
+msgstr "Французская Полинезия"
+
+msgid "French Southern Territories"
+msgstr "Французские Южные территории"
+
+msgid "Gabon"
+msgstr "Габон"
+
+msgid "Gambia"
+msgstr "Гамбия"
+
+msgid "Georgia"
+msgstr "Грузия"
+
+msgid "Germany"
+msgstr "Германия"
+
+msgid "Ghana"
+msgstr "Гана"
+
+msgid "Gibraltar"
+msgstr "Гибралтар"
+
+msgid "Greece"
+msgstr "Греция"
+
+msgid "Greenland"
+msgstr "Гренландия"
+
+msgid "Grenada"
+msgstr "Гренада"
+
+msgid "Guadeloupe"
+msgstr "Гваделупа"
+
+msgid "Guam"
+msgstr "Гуам"
+
+msgid "Guatemala"
+msgstr "Гватемала"
+
+msgid "Guernsey"
+msgstr "Гернси"
+
+msgid "Guinea"
+msgstr "Гвинея"
+
+msgid "Guinea-Bissau"
+msgstr "Гвинея-Бисау"
+
+msgid "Guyana"
+msgstr "Гайана"
+
+msgid "Haiti"
+msgstr "Гаити"
+
+msgid "Heard Island & Mcdonald Islands"
+msgstr ""
+
+msgid "Holy See (Vatican City State)"
+msgstr "Святейший Престол (государство-город Ватикан)"
+
+msgid "Honduras"
+msgstr "Гондурас"
+
+msgid "Hong Kong"
+msgstr "Гонконг"
+
+msgid "Hungary"
+msgstr "Венгрия"
+
+msgid "Iceland"
+msgstr "Исландия"
+
+msgid "India"
+msgstr "Индия"
+
+msgid "Indonesia"
+msgstr "Индонезия"
+
+msgid "Iran"
+msgstr "Иран"
+
+msgid "Iraq"
+msgstr "Ирак"
+
+msgid "Ireland"
+msgstr "Ирландия"
+
+msgid "Isle Of Man"
+msgstr "Остров Мэн"
+
+msgid "Israel"
+msgstr "Израиль"
+
+msgid "Italy"
+msgstr "Италия"
+
+msgid "Jamaica"
+msgstr "Ямайка"
+
+msgid "Japan"
+msgstr "Япония"
+
+msgid "Jersey"
+msgstr "Джерси"
+
+msgid "Jordan"
+msgstr "Иордания"
+
+msgid "Kazakhstan"
+msgstr "Казахстан"
+
+msgid "Kenya"
+msgstr "Кения"
+
+msgid "Kiribati"
+msgstr "Bi"
+
+msgid "Korea"
+msgstr "Корея"
+
+msgid "Kuwait"
+msgstr "Кувейт"
+
+msgid "Kyrgyzstan"
+msgstr "Кыргызстан"
+
+msgid "Lao People's Democratic Republic"
+msgstr "Лаосская Народно-Демократическая Республика"
+
+msgid "Latvia"
+msgstr "Латвия"
+
+msgid "Lebanon"
+msgstr "Ливан"
+
+msgid "Lesotho"
+msgstr "Лесото"
+
+msgid "Liberia"
+msgstr "Либерия"
+
+msgid "Libyan Arab Jamahiriya"
+msgstr "Ливийская Арабская Джамахирия"
+
+msgid "Liechtenstein"
+msgstr "Лихтенштейн"
+
+msgid "Lithuania"
+msgstr "Литва"
+
+msgid "Luxembourg"
+msgstr "Люксембург"
+
+msgid "Macao"
+msgstr "Макао"
+
+msgid "Macedonia"
+msgstr "Македония"
+
+msgid "Madagascar"
+msgstr "Мадагаскар"
+
+msgid "Malawi"
+msgstr "Малави"
+
+msgid "Malaysia"
+msgstr "Малайзия"
+
+msgid "Maldives"
+msgstr "Мальдивы"
+
+msgid "Mali"
+msgstr "Мали"
+
+msgid "Malta"
+msgstr "Мальта"
+
+msgid "Marshall Islands"
+msgstr "Маршалловы"
+
+msgid "Martinique"
+msgstr "Мартиника"
+
+msgid "Mauritania"
+msgstr "Мавритания"
+
+msgid "Mauritius"
+msgstr "Маврикий"
+
+msgid "Mayotte"
+msgstr "Майотта"
+
+msgid "Mexico"
+msgstr "Мексика"
+
+msgid "Federated States of Micronesia"
+msgstr "Федеративные Штаты Микронезии"
+
+msgid "Moldova"
+msgstr "Молдова"
+
+msgid "Monaco"
+msgstr "Монако"
+
+msgid "Mongolia"
+msgstr "Монголия"
+
+msgid "Montenegro"
+msgstr "Черногория"
+
+msgid "Montserrat"
+msgstr "Серрат"
+
+msgid "Morocco"
+msgstr "Марокко"
+
+msgid "Mozambique"
+msgstr "Мозамбик"
+
+msgid "Myanmar"
+msgstr "Мьянма"
+
+msgid "Namibia"
+msgstr "Намибия"
+
+msgid "Nauru"
+msgstr "Науру"
+
+msgid "Nepal"
+msgstr "Непал"
+
+msgid "Netherlands"
+msgstr "Нидерланды"
+
+msgid "Netherlands Antilles"
+msgstr "Нидерландские"
+
+msgid "New Caledonia"
+msgstr "Новая Каледония"
+
+msgid "New Zealand"
+msgstr "Новая Зеландия"
+
+msgid "Nicaragua"
+msgstr "Никарагуа"
+
+msgid "Niger"
+msgstr "Нигер"
+
+msgid "Nigeria"
+msgstr "Нигерия"
+
+msgid "Niue"
+msgstr "Ниуэ"
+
+msgid "Norfolk Island"
+msgstr "Норфолк"
+
+msgid "Northern Mariana Islands"
+msgstr "Северные Марианские"
+
+msgid "Norway"
+msgstr "Норвегия"
+
+msgid "Oman"
+msgstr "Оман"
+
+msgid "Pakistan"
+msgstr "Пакистан"
+
+msgid "Palau"
+msgstr "Палау"
+
+msgid "Palestinian Territories"
+msgstr "Палестинские территории"
+
+msgid "Panama"
+msgstr "Панама"
+
+msgid "Papua New Guinea"
+msgstr "Папуа-Новая Гвинея"
+
+msgid "Paraguay"
+msgstr "Парагвай"
+
+msgid "Peru"
+msgstr "Перу"
+
+msgid "Philippines"
+msgstr "Филиппины"
+
+msgid "Pitcairn"
+msgstr "Пит"
+
+msgid "Poland"
+msgstr "Польша"
+
+msgid "Portugal"
+msgstr "Португалия"
+
+msgid "Puerto Rico"
+msgstr "Пуэрто-Рико"
+
+msgid "Qatar"
+msgstr "Катар"
+
+msgid "Reunion"
+msgstr "Воссоединение"
+
+msgid "Romania"
+msgstr "Румыния"
+
+msgid "Russian Federation"
+msgstr "Российская Федерация"
+
+msgid "Rwanda"
+msgstr "Руанда"
+
+msgid "Saint Barthelemy"
+msgstr "Сен-Бартелеми"
+
+msgid "Saint Helena"
+msgstr "Остров Святой Елены"
+
+msgid "Saint Kitts And Nevis"
+msgstr "Сент-китс-и"
+
+msgid "Saint Lucia"
+msgstr "Святой Лючия"
+
+msgid "Saint Martin"
+msgstr "Сен-Мартин"
+
+msgid "Saint Pierre And Miquelon"
+msgstr "Сен-Пьер И Микелон"
+
+msgid "Saint Vincent And Grenadines"
+msgstr "Сент-винсент И"
+
+msgid "Samoa"
+msgstr "Самоа"
+
+msgid "San Marino"
+msgstr "Сан-Марино"
+
+msgid "Sao Tome And Principe"
+msgstr "Сан-томе И Принсипи"
+
+msgid "Saudi Arabia"
+msgstr "Саудовская Аравия"
+
+msgid "Senegal"
+msgstr "Сенегал"
+
+msgid "Serbia"
+msgstr "Сербия"
+
+msgid "Seychelles"
+msgstr "Сейшель"
+
+msgid "Sierra Leone"
+msgstr "Сьерра-Леоне"
+
+msgid "Singapore"
+msgstr "Сингапур"
+
+msgid "Slovakia"
+msgstr "Словакия"
+
+msgid "Slovenia"
+msgstr "Словения"
+
+msgid "Solomon Islands"
+msgstr "Соломоновы Острова"
+
+msgid "Somalia"
+msgstr "Сомали"
+
+msgid "South Africa"
+msgstr "Южная Африка"
+
+msgid "South Georgia And Sandwich Isl."
+msgstr "Южная Джорджия И Сандвич Исл."
+
+msgid "Spain"
+msgstr "Испания"
+
+msgid "Sri Lanka"
+msgstr "Шри-Ланка"
+
+msgid "Sudan"
+msgstr "Судан"
+
+msgid "Suriname"
+msgstr "Суринам"
+
+msgid "Svalbard And Jan Mayen"
+msgstr "Свальбард И Ян Майен"
+
+msgid "Swaziland"
+msgstr "Свазиленд"
+
+msgid "Sweden"
+msgstr "Швеция"
+
+msgid "Switzerland"
+msgstr "Швейцария"
+
+msgid "Syrian Arab Republic"
+msgstr "Сирийская Арабская Республика"
+
+msgid "Taiwan"
+msgstr "Тайвань"
+
+msgid "Tajikistan"
+msgstr "Таджикистан"
+
+msgid "Tanzania"
+msgstr "Танзания"
+
+msgid "Thailand"
+msgstr "Таиланд"
+
+msgid "Timor-Leste"
+msgstr "Восточный Тимор"
+
+msgid "Togo"
+msgstr "Того"
+
+msgid "Tokelau"
+msgstr "Токелау"
+
+msgid "Tonga"
+msgstr "Тонга"
+
+msgid "Trinidad And Tobago"
+msgstr "Тринидад И Тобаго"
+
+msgid "Tunisia"
+msgstr "Тунис"
+
+msgid "Turkey"
+msgstr "Турция"
+
+msgid "Turkmenistan"
+msgstr "Туркменистан"
+
+msgid "Turks And Caicos Islands"
+msgstr "Острова Теркс И Кайкос"
+
+msgid "Tuvalu"
+msgstr "Тувалу"
+
+msgid "Uganda"
+msgstr "Уганда"
+
+msgid "Ukraine"
+msgstr "Украина"
+
+msgid "United Arab Emirates"
+msgstr "Объединенные Арабские Эмираты"
+
+msgid "United Kingdom"
+msgstr "Соединенное Королевство"
+
+msgid "United States"
+msgstr "Соединенные Штаты"
+
+msgid "United States Outlying Islands"
+msgstr "Соединенные Штаты"
+
+msgid "Uruguay"
+msgstr "Уругвай"
+
+msgid "Uzbekistan"
+msgstr "Узбекистан"
+
+msgid "Vanuatu"
+msgstr "Вануату"
+
+msgid "Venezuela"
+msgstr "Венесуэла"
+
+msgid "Viet Nam"
+msgstr "Вьетнам"
+
+msgid "British Virgin Islands"
+msgstr "Британские Виргинские острова"
+
+msgid "U.S. Virgin Islands"
+msgstr "Виргинские острова США"
+
+msgid "Wallis And Futuna"
+msgstr "Уоллис и Футуна"
+
+msgid "Western Sahara"
+msgstr "Западная Сахара"
+
+msgid "Yemen"
+msgstr "Йемен"
+
+msgid "Zambia"
+msgstr "Замбия"
+
+msgid "Zimbabwe"
+msgstr "Зимбабве"
+
+msgid "F j, Y"
+msgstr "F j, Y"
+
+msgid "F j, Y g:i a"
+msgstr "F j, Y g: i a"
+
+msgid "Access denied."
+msgstr "Доступ запрещен."
+
+#, php-format
+msgid "An error occurred while importing content. Error: %s"
+msgstr "Ошибка при импорте содержимого. Ошибка: %s"
+
+msgid "Could not import content."
+msgstr "Не удалось импортировать содержимое."
+
+msgid " "
+msgstr " "
+
+msgid "g:i a"
+msgstr "g: i a"
+
+msgctxt "whitspace"
+msgid " "
+msgstr " "
+
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini."
+msgstr "Переданный файл превышает директиву upload_max_filesize в php.ini."
+
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive specified in the HTML "
+"form."
+msgstr ""
+"Переданный файл превышает директиву MAX_FILE_SIZE, указанную в форме HTML."
+
+msgid "The uploaded file was only partially uploaded."
+msgstr "Загруженный файл был загружен только частично."
+
+msgid "No file was uploaded."
+msgstr "Файл не передан."
+
+msgid "Missing a temporary folder."
+msgstr "Отсутствует временная папка."
+
+msgid "Failed to write file to disk."
+msgstr "Не удалось записать файл на диск."
+
+msgid "File upload stopped by PHP extension."
+msgstr "Передача файла остановлена расширением PHP."
+
+msgid "No valid file was uploaded."
+msgstr "Не передан допустимый файл."
+
+msgid "Only image files are allowed."
+msgstr "Разрешены только файлы изображений."
+
+#, php-format
+msgid "Could not get unique file name for file %s."
+msgstr "Не удалось получить уникальное имя файла для файла %s."
+
+#, php-format
+msgid "File %s (%s) already exists."
+msgstr "Файл %s (%s) уже существует."
+
+msgid "Failed saving file to the upload directory."
+msgstr "Не удалось сохранить файл в каталог закачивания."
+
+msgid "Allowed file extensions may not be empty."
+msgstr "Разрешенные расширения файлов не могут быть пустыми."
+
+msgid "Invalid file extension."
+msgstr "Недопустимое расширение файла."
+
+#, php-format
+msgid "File with file extension %s is not allowed."
+msgstr "Файл с расширением %s не разрешен."
+
+msgid "No matching mime types for the file were found."
+msgstr "Не найдены совпадающие типы mime для файла."
+
+#, php-format
+msgid "Image file with file extension %s is not allowed."
+msgstr "Файл образа с расширением %s не разрешен."
+
+#, php-format
+msgid ""
+"File type associated with file extension %s (%s) was not found or is not "
+"allowed."
+msgstr ""
+"Тип файла, связанный с расширением файла %s (%s), не найден или недопустим."
+
+#, php-format
+msgid "File size may not exceed %s KB."
+msgstr "Размер файла не должен превышать %s Кб."
+
+msgid "Failed detecting image dimensions."
+msgstr "Не удалось обнаружить измерения изображения."
+
+#, php-format
+msgid "Image size must not be larger than W%d x H%d pixels."
+msgstr "Размер изображения не должен превышать W%d x H%d пикселей."
+
+#, php-format
+msgid "Image size must be larger than W%d x H%d pixels."
+msgstr "Размер изображения должен быть больше, чем W%d x H%d пикселей."
+
+#, php-format
+msgid "Directory %s does not exist."
+msgstr "Каталог %s не существует."
+
+#, php-format
+msgid "Directory %s is not writeable by the server."
+msgstr "Сервер не поддерживает запись в каталог %s."
+
+msgid "Username"
+msgstr "Имя пользователя"
+
+msgid "E-mail Address"
+msgstr "Адрес электронной почты"
+
+msgid "The username is already taken."
+msgstr "Имя пользователя уже занято."
+
+msgid "The e-mail address is already taken."
+msgstr "Адрес электронной почты уже принят."
+
+#, php-format
+msgid "%s ago"
+msgstr "%s назад"
+
+msgid ""
+"You must <a href=\"options-permalink.php\">change your permalink "
+"structure</a> for Sabai plugins to work properly."
+msgstr ""
+
+#, php-format
+msgid ""
+"There are %1$d upgradable Sabai add-on(s). Please go to the <a href=\"%2$s\">"
+"add-on listing section</a> and upgrade all add-ons."
+msgstr ""
+
+msgid "View profile"
+msgstr "Просмотреть профайл"
+
+msgid "Top"
+msgstr "Сверху"
+
+msgid "Your browser sent a request that this server could not understand."
+msgstr "Ваш браузер отправил запрос, который этот сервер не смог понять."
+
+#, php-format
+msgid ""
+"You must <a href=\"%s\" class=\"sabai-login popup-login\">login</a> to "
+"perform the requested action."
+msgstr ""
+
+msgid "Your request may not be processed."
+msgstr "Возможно, запрос не обработан."
+
+msgid "The requested page was not found."
+msgstr "Запрошенная страница не найдена."
+
+msgid "The requested method is not allowed."
+msgstr "Запрошенный метод не разрешен."
+
+msgid "The requested page is not acceptable by the browser."
+msgstr "Затребованая страница недопустима в браузере."
+
+msgid "The requested method is not implemented."
+msgstr "Запрошенный метод не реализован."
+
+msgid ""
+"The server is currently unable to handle the request. Please try again later."
+msgstr ""
+"Сервер в настоящий момент не может обработать запрос. Повторите попытку "
+"позже."
+
+msgid "The server encountered an error processing your request."
+msgstr "Сервер обнаружил ошибку при обработке вашего требования."
+
+msgid "Add a privacy policy consent checkbox"
+msgstr "Добавить переключатель согласия правила политики конфиденциальности"
+
+msgid "I have read and agree to the %s"
+msgstr "Я прочитал и согласен с %s"
+
+msgid "Searching..."
+msgstr "Поиск ..."

@@ -1,0 +1,2881 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the sabai-directory package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: sabai-directory\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-01 00:57+0900\n"
+"PO-Revision-Date: 2021-02-03 22:03+0000\n"
+"Last-Translator: artem <adm@adm.ru>\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.4"
+
+#, php-format
+msgid "%s (%d)"
+msgstr "%s (%d)"
+
+#, php-format
+msgid "Sort by: <strong>%s</strong>"
+msgstr ""
+
+msgid "Field"
+msgstr "Поле"
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "E-mail"
+msgstr "Электронная почта"
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "Enter a location"
+msgstr "Введите расположение"
+
+msgid "By car"
+msgstr "По автомобилю"
+
+msgid "By public transit"
+msgstr "По общественному транзиту"
+
+msgid "Walking"
+msgstr "Ходьба"
+
+msgid "Bicycling"
+msgstr "Велосипедистог"
+
+msgid "Get Directions"
+msgstr "Получить направления"
+
+#, php-format
+msgid "Showing %d - %d of %s results"
+msgstr "Показано %d-%d из %s результатов"
+
+#, php-format
+msgid "Showing %s result"
+msgid_plural "Showing %s results"
+msgstr[0] "Вывод результата %s"
+msgstr[1] "Вывод %s результатов"
+msgstr[2] ""
+
+msgid "Rating distribution"
+msgstr "Распределение рейтинга"
+
+msgid "Rating summary"
+msgstr "Сводка рейтинга"
+
+#, php-format
+msgid "%d of %d people found the following review helpful"
+msgstr "%d из %d пользователей нашли приведенный ниже обзор полезным"
+
+#, php-format
+msgid "%s reviewed %s"
+msgstr "%s проверила %s"
+
+#, php-format
+msgid "<span>Was this review helpful to you?</span> %s %s"
+msgstr ""
+
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "%s проверка"
+msgstr[1] "%s отзывов"
+msgstr[2] ""
+
+#, php-format
+msgid "%s reviews"
+msgstr "%s отзывов"
+
+#, php-format
+msgid "%s mi"
+msgstr "%s mi"
+
+#, php-format
+msgid "%s km"
+msgstr "%s км"
+
+#, php-format
+msgid "(%d)"
+msgstr "(%d)"
+
+msgid "No entries were found."
+msgstr "Записи не найдены."
+
+msgid "Redo search when map moved"
+msgstr "Повторить поиск при перемещении карты"
+
+msgid "Browse Category:"
+msgstr "Выбрать категорию:"
+
+msgid "Keywords:"
+msgstr "Ключевые слова:"
+
+msgid "Select category"
+msgstr "Выберите категорию"
+
+msgid "Search..."
+msgstr "Поиск ..."
+
+msgid "Location Options"
+msgstr "Опции расположения"
+
+#, php-format
+msgid "Search Radius: %s mi"
+msgstr "Радиус поиска: %s mi"
+
+#, php-format
+msgid "Search Radius: %s km"
+msgstr "Радиус поиска: %s км"
+
+msgid "Get My Location"
+msgstr "Получить мое расположение"
+
+msgid "The position of the device could not be determined."
+msgstr "Не удалось определить положение устройства."
+
+msgid "Invalid location"
+msgstr "Недопустимое расположение"
+
+msgid "Add Listing"
+msgstr "Добавить список"
+
+msgid "Photo size"
+msgstr "Размер фотографии"
+
+msgid "Thumbnail photo"
+msgstr "Уменьшенная фотография"
+
+msgid "Medium size photo"
+msgstr "Фотография среднего размера"
+
+msgid "Large size photo"
+msgstr "Фотография большого размера"
+
+msgid "Original size photo"
+msgstr "Фотография оригинального размера"
+
+msgid "Link photos to:"
+msgstr "Связывать фотографии с:"
+
+msgid "Do not link"
+msgstr "Не связываться"
+
+msgid "Single listing page"
+msgstr "Страница с одним списком"
+
+msgid "Single photo"
+msgstr "Одиночное фото"
+
+msgid "Linked photo size"
+msgstr "Размер связанной фотографии"
+
+msgid "Claimed/Unclaimed"
+msgstr "Заявленные/невостребовленные"
+
+msgid "Claimed"
+msgstr "Заявленные"
+
+msgid "Unclaimed"
+msgstr "Незаявленные"
+
+msgid "Show claimed only"
+msgstr "Показать только заявленные"
+
+msgid "Send E-mail"
+msgstr "Отправить электронную почту"
+
+msgid "Website"
+msgstr "Вебсайт"
+
+msgid "Hidden fields"
+msgstr "Скрытые поля"
+
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+msgid "Mobile Number"
+msgstr "Номер мобильного телефона"
+
+msgid "Fax Number"
+msgstr "Номер факса"
+
+msgid "Icon:"
+msgstr "Значок:"
+
+msgid "Display e-mail address"
+msgstr "Показать адрес электронной почты"
+
+msgid "Display custom label"
+msgstr "Показать пользовательскую метку"
+
+msgid "Display URL"
+msgstr "Показать URL"
+
+msgid "Maximum URL length (0 for unlimited):"
+msgstr "Максимальная длина URL (0 для неограниченного числа):"
+
+msgid "Add rel=\"nofollow\""
+msgstr "Добавить rel=\"nofole \""
+
+msgid "Add rel=\"external\""
+msgstr "Добавить rel=\"внешние \""
+
+msgid "Listings"
+msgstr "Листинги"
+
+msgid "Listing"
+msgstr "Список"
+
+msgid "Your Info"
+msgstr "Ваша информация"
+
+msgid "Essential Info"
+msgstr "Основные сведения"
+
+msgid "Contact Info"
+msgstr "Контактная информация"
+
+msgid "Social Accounts"
+msgstr "Социальные Счета"
+
+msgid "Additional Info"
+msgstr "Дополнительная информация"
+
+msgid "Location"
+msgstr "Расположение"
+
+msgid "Owner"
+msgstr "Владелец"
+
+msgid "Photos"
+msgstr "Фотографии"
+
+msgid "Listing Description"
+msgstr "Описание списка"
+
+#, php-format
+msgid "Edit own unclaimed %1$s"
+msgstr ""
+
+#, php-format
+msgid "Edit any unclaimed %2$s"
+msgstr ""
+
+#, php-format
+msgid "Delete own unclaimed %1$s"
+msgstr ""
+
+#, php-format
+msgid "Delete own claimed %1$s"
+msgstr ""
+
+#, php-format
+msgid "Delete any unclaimed %2$s"
+msgstr ""
+
+#, php-format
+msgid "Claim existing %1$s"
+msgstr ""
+
+msgid "Reviews"
+msgstr "Обзоры"
+
+msgid "Review"
+msgstr "Обзор"
+
+msgid "Rating"
+msgstr "Рейтинг"
+
+msgid "Votes"
+msgstr "Число голосов"
+
+#, php-format
+msgid "Delete any %2$s"
+msgstr ""
+
+msgid "Photo"
+msgstr "Фото"
+
+#, php-format
+msgid "Delete any non-official %2$s"
+msgstr ""
+
+msgid "Leads"
+msgstr "Потенциальные сделки"
+
+msgid "Lead"
+msgstr "Свинец"
+
+msgid "Register now"
+msgstr "Зарегистрироваться сейчас"
+
+msgid "Proceed without registration"
+msgstr "Продолжить без регистрации"
+
+msgid "Create an Account"
+msgstr "Создать учетную запись"
+
+#, php-format
+msgid ""
+"Already registered? Click <a href=\"%s\" class=\"sabai-login popup-login\">"
+"here</a> to login."
+msgstr ""
+
+msgid "Directory"
+msgstr "Каталог"
+
+msgid "Select the directory where you want to submit the new listing."
+msgstr "Выберите каталог, в который вы хотите передать новый список."
+
+msgid "Submit Listing"
+msgstr "Передать в список"
+
+#, php-format
+msgid ""
+"Your listing has been submitted successfully and published. You can view the "
+"listing <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+msgid ""
+"Your listing has been submitted successfully. We will review your submission "
+"and post it on this site if it is approved."
+msgstr ""
+"Ваш список отправлен успешно. Мы будем рассматривать ваше представление и "
+"размещать его на этом сайте, если он будет утвержден."
+
+msgid ""
+"If the listing is for your organisation, please complete the details below. "
+"Once we have confirmed your identity, we will give you full control over "
+"your listing and its contents."
+msgstr ""
+"Если список относится к вашей организации, пожалуйста, заполните приведенные "
+"ниже сведения. Как только мы подтвердим вашу личность, мы дадим вам полный "
+"контроль над вашим листинг и его содержимым."
+
+msgid "Duration Settings"
+msgstr "Параметры продолжительности"
+
+msgid "Duration"
+msgstr "Продолжительность"
+
+msgid ""
+"Enter the number of days claims are valid before they expire. Enter 0 for no "
+"expiration."
+msgstr ""
+"Введите число дней, по истечении которых истечет срок действия требований. "
+"Введите 0, если срок действия не истек."
+
+msgid "days"
+msgstr "дн."
+
+msgid "Grace period duration"
+msgstr "Длительность периода отсрочки"
+
+msgid ""
+"Enter the number of days after which expired claims are deleted from the "
+"database."
+msgstr ""
+"Введите число дней, по истечении которых просроченные требования удаляются "
+"из базы данных."
+
+msgid "Move listings to trash when their claims expired"
+msgstr "Переместить листинги в корзину, когда истек срок их требований"
+
+msgid "Claim Listing Form Settings"
+msgstr "Параметры формы списка требований"
+
+msgid "Claim listing form header"
+msgstr "Заголовок формы списка требований"
+
+msgid ""
+"Enter the message displayed at the top of the form for claiming existing "
+"listings."
+msgstr ""
+"Введите сообщение, показанные в верхней части формы, для ввода существующих "
+"списков."
+
+msgid "Do not require comment"
+msgstr "Не требовать комментария"
+
+msgid "Approval Settings"
+msgstr "Параметры утверждения"
+
+msgid "Automatically approve claims for new listings"
+msgstr "Автоматически утверждать требования к новым спискам"
+
+msgid "Automatically approve claims for existing listings"
+msgstr "Автоматически утверждать требования к существующим спискам"
+
+msgid "Delete claims that have been approved automatically"
+msgstr "Исключить претензии, которые были утверждены автоматически"
+
+msgid "Unclaimed Listing Settings"
+msgstr "Невостребовленные параметры списка"
+
+msgid "Hide from the index page"
+msgstr "Скрыть на странице индекса"
+
+msgid "Fields"
+msgstr "Поля"
+
+msgid "Select the fields allowed for unclaimed listings in the frontend."
+msgstr "Выберите поля, разрешенные для невостребованых позиций в списке."
+
+#, php-format
+msgid "Limit the number of %s allowed in the frontend"
+msgstr "Ограничить число %s в фронте"
+
+msgid "Contact Us Form"
+msgstr "Форма \"контакт\""
+
+msgid "Allow users to send messages via contact us form"
+msgstr "Разрешить пользователям отправлять сообщения через форму контакта"
+
+msgid "Send messages to author email address"
+msgstr "Отправить сообщения на адрес электронной почты автора"
+
+msgid "Send messages to contact info email address (if any)"
+msgstr "Отправить сообщения на контактный адрес электронной почты (если есть)"
+
+msgid "Allow users to post reviews"
+msgstr "Разрешить пользователям размещать обзоры"
+
+msgid "Single listing page tabs"
+msgstr "Одиночные вкладки со списком страниц"
+
+msgid ""
+"Enter the number of days before the expiration date on which this "
+"notification will be sent."
+msgstr ""
+"Введите число дней до даты истечения срока, в течение которого будет "
+"отправлено это уведомление."
+
+msgid "day(s)"
+msgstr "дн."
+
+msgid "Claim ID"
+msgstr "ID требования"
+
+msgid "Claim Date"
+msgstr "Дата иска"
+
+msgid "Claim Type"
+msgstr "Тип требования"
+
+msgid "User"
+msgstr "Пользователь"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "Status"
+msgstr "Состояние"
+
+msgid "Delete"
+msgstr "Удалить"
+
+#, php-format
+msgid "All (%d)"
+msgstr "Все (%d)"
+
+#, php-format
+msgid "Claim %s"
+msgstr "Требование %s"
+
+msgid "New listing"
+msgstr "Новый список"
+
+msgid "Existing listing"
+msgstr "Существующий список"
+
+msgid "Disable map"
+msgstr "Отключить отображение"
+
+msgid "Basic Settings"
+msgstr "Основные параметры"
+
+msgid "Default map type"
+msgstr "Тип карты по умолчанию"
+
+msgid "Map height"
+msgstr "Высота карты"
+
+msgid "Default style"
+msgstr "Стиль по умолчанию"
+
+msgid "Google map style"
+msgstr "Стиль карты Google"
+
+msgid "Distance mode"
+msgstr "Дистанционный режим"
+
+msgid "Kilometers"
+msgstr "Километров"
+
+msgid "Miles"
+msgstr "Майлз"
+
+msgid "Default latitude"
+msgstr "Ширина по умолчанию"
+
+msgid "Default longitude"
+msgstr "долгота по умолчанию"
+
+msgid "Enable scrollwheel zooming on the map"
+msgstr "Включить масштабирование прокрутки прокрутки на карте"
+
+msgid "Map infobox width"
+msgstr "Ширина информационной панели карты"
+
+msgid "List View Settings"
+msgstr "Параметры представления списка"
+
+msgid "Display small map"
+msgstr "Показать небольшую карту"
+
+msgid "Show a scroll bar when there are many listings to display"
+msgstr ""
+"Показывать полосу прокрутки при наличии множества списков для отображения"
+
+msgid "Map width"
+msgstr "Ширина карты"
+
+msgid ""
+"The horizontal display ratio (12 being 100% wide) of the map in List view"
+msgstr ""
+
+msgid "Map infobox"
+msgstr "Информационная рамка карты"
+
+msgid ""
+"Display map infobox on the map when hover overing listing titles or clicking "
+"map markers"
+msgstr ""
+"Показывать на карте инфоящик карты при наведении указателя на заголовки или "
+"щелчок на маркере карты"
+
+msgid "Display map infobox on the map when clicking map markers"
+msgstr "Показывать на карте информацию о карте при щелчке на маркере карты"
+
+msgid "Never display map infobox on the map"
+msgstr "Никогда не показывать на карте инфоблок карты"
+
+msgid "Map Marker Settings"
+msgstr "Параметры маркера карты"
+
+msgid "Custom marker icon URL"
+msgstr "URL значка пользовательского маркера"
+
+msgid "Custom marker icon size"
+msgstr "Размер значка пользовательского маркера"
+
+msgid "Enable marker clusters"
+msgstr "Включить кластеры маркеров"
+
+msgid "Custom marker cluster image directory URL"
+msgstr "URL каталога образов пользовательских маркеров"
+
+#, php-format
+msgid "Default: %s"
+msgstr "По умолчанию: %s"
+
+msgid "Other Settings"
+msgstr "Другие параметры"
+
+msgid "Default zoom level for single listing"
+msgstr "Уровень масштабирования по умолчанию для одиночного списка"
+
+msgid "Show all listings in Map view"
+msgstr "Показать все списки в представлении Карта"
+
+msgid "Draw radius search circle"
+msgstr "Окружность поиска radius"
+
+msgid "Radius search circle stroke color"
+msgstr "Цвет штрихового хода радиуса поиска"
+
+msgid "Radius search circle fill color"
+msgstr "Цвет заполнения круга поиска radius"
+
+#, php-format
+msgid "%d km/mi"
+msgstr "%d км/ми"
+
+msgid "None"
+msgstr "Нет"
+
+msgid "Keyword Search Settings"
+msgstr "Параметры поиска по ключевым словам"
+
+msgid "Disable keyword search"
+msgstr "Выключить поиск по ключевым словам"
+
+msgid "Min. length of keywords in characters"
+msgstr "Минимальная длина ключевых слов в символах"
+
+msgid "Match any or all"
+msgstr "Соответствует любому или любому"
+
+msgid "Match any"
+msgstr "Соответствие любому"
+
+msgid "Match all"
+msgstr "Соответствие всем"
+
+msgid "Enable auto suggestion"
+msgstr "Включить автоматическое предложение"
+
+msgid "Auto suggest listings"
+msgstr "Автоматически предлагать листинги"
+
+msgid "Redirect to suggested listing page when clicked"
+msgstr "Перенаправление на предложную страницу со списком при щелчке"
+
+msgid "Number of auto suggested listings to display"
+msgstr "Число автоматически предложенных листингов"
+
+msgid "Suggested listings header text"
+msgstr "Предлагаемый текст заголовка списка"
+
+msgid "Suggested listing icon"
+msgstr "Значок предложного списка"
+
+msgid "Auto suggest categories"
+msgstr "Автоматически предлагать категории"
+
+msgid "Redirect to suggested category page when clicked"
+msgstr "Перенаправление на предложную страницу категории при щелчке"
+
+msgid "Number of auto suggested categories to display"
+msgstr "Число автоматически предложенных категорий"
+
+msgid "Suggested categories header text"
+msgstr "Текст заголовка предложенных категорий"
+
+msgid "Suggested category icon"
+msgstr "Значок предложенной категории"
+
+msgid "Category Search Settings"
+msgstr "Параметры поиска категорий"
+
+msgid "Disable category search"
+msgstr "Выключить поиск категорий"
+
+msgid "Category depth (0 for unlimited)"
+msgstr "Глубина категории (0-без ограничений)"
+
+msgid "Hide if no posts"
+msgstr "Скрыть, если нет сообщений"
+
+msgid "Hide post count"
+msgstr "Скрыть число должностей"
+
+msgid "Search Filter Settings"
+msgstr "Параметры фильтра поиска"
+
+msgid "Disable filters"
+msgstr "Выключить фильтры"
+
+msgid "Always show filters"
+msgstr "Всегда показывать фильтры"
+
+msgid "Display filter form above search results"
+msgstr "Показать форму фильтра над результатами поиска"
+
+msgid "Auto submit filter form when value(s) changed"
+msgstr "Автоматически отправлять форму фильтра при изменении значения"
+
+msgid "Custom fields to include in search"
+msgstr "Пользовательские поля, включающие в поиск"
+
+msgid "Location Search Settings"
+msgstr "Параметры поиска положения"
+
+msgid "Disable location search"
+msgstr "Выключить поиск по расположению"
+
+msgid "Default search radius"
+msgstr "Радиус поиска по умолчанию"
+
+msgid "Auto suggest location addresses"
+msgstr "Автоматически предлагать адреса расположения"
+
+msgid "Suggested location addresses header text"
+msgstr "Предлагаемый текст заголовка адреса"
+
+msgid "Auto suggest cities"
+msgstr "Автоматически предлагать городам"
+
+msgid "Number of auto suggested cities to display"
+msgstr "Число автоматически предложенных городов"
+
+msgid "City"
+msgstr "Город"
+
+msgid "Suggested cities header text"
+msgstr "Предложенный текст заголовка города"
+
+msgid "Suggested city icon"
+msgstr "Рекомендующий значок города"
+
+msgid "Suggested location address icon"
+msgstr "Значок предложного адреса расположения"
+
+msgid "Auto suggest states/provinces/regions"
+msgstr "Автоматически предлагать состояние/провинции/регионы"
+
+msgid "Number of auto suggested states/provinces/regions to display"
+msgstr "Число автоматически предложенных состояний/провинций/регионов"
+
+msgid "State / Province / Region"
+msgstr "Область/Область/Регион"
+
+msgid "Suggested states/provinces/regions header text"
+msgstr "Текст заголовка предложения/провинция/регионы"
+
+msgid "Suggested state/province/region icon"
+msgstr "Значок предложения/провинция/регион"
+
+msgid "Auto suggest zip/postal codes"
+msgstr "Автоматически предлагать почтовый индекс"
+
+msgid "Number of auto suggested zip/postal codes to display"
+msgstr "Число автоматически предложенных почтовых индексов для вывода на экран"
+
+msgid "Postal / Zip code"
+msgstr "Почтовый индекс"
+
+msgid "Suggested zip/postal codes header text"
+msgstr "Предлагаемый текст заголовка для кодов zip/почтовых индексов"
+
+msgid "Suggested zip/postal code icon"
+msgstr "Значок предложения/почтовый индекс"
+
+msgid "Auto suggest countries"
+msgstr "Автоподсчет стран"
+
+msgid "Number of auto suggested countries to display"
+msgstr "Число автоматически предложенных стран"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "Suggested countries header text"
+msgstr "Текст заголовка, предложенный странами"
+
+msgid "Suggested country icon"
+msgstr "Рекомендующий значок страны"
+
+msgid "Newest First"
+msgstr "Новейший первый"
+
+msgid "Oldest First"
+msgstr "Старейший первый"
+
+msgid "Most Reviews"
+msgstr "Большинство обзоров"
+
+msgid "Highest Rated"
+msgstr "Самый высокий рейтинг"
+
+msgctxt "sort"
+msgid "Title"
+msgstr "Название"
+
+msgid "Random"
+msgstr "Случайный"
+
+msgid "Distance"
+msgstr "Расстояние"
+
+msgid "Helpfullness"
+msgstr "Заполнность"
+
+msgid "Most Voted"
+msgstr "Большинство голосовавших"
+
+msgid "List view"
+msgstr "Представление списка"
+
+msgid "Grid view"
+msgstr "Представление сетки"
+
+msgid "Map view"
+msgstr "Представление карты"
+
+msgid "Listings per page"
+msgstr "Число списков на странице"
+
+#, php-format
+msgid "(max. limit %d)"
+msgstr "(макс. предел %d)"
+
+msgid "Reviews per page"
+msgstr "Число обзоров на странице"
+
+msgid "Photos per page"
+msgstr "Число фотографий на странице"
+
+msgid "Listings sorting options"
+msgstr "Опции сортировки списка"
+
+msgid "Listings default sorting order"
+msgstr "Порядок сортировки по умолчанию"
+
+msgid "Reviews sorting options"
+msgstr "Проверяет опции сортировки"
+
+msgid "Reviews default sorting order"
+msgstr "Проверяет порядок сортировки по умолчанию"
+
+msgid "Photos sorting options"
+msgstr "Опции сортировки фотографий"
+
+msgid "Photos default sorting order"
+msgstr "Порядок сортировки фотографий по умолчанию"
+
+msgid "Listings view options"
+msgstr "Опции просмотра списка"
+
+msgid "Listings default view"
+msgstr "Список по умолчанию"
+
+msgid "Grid view column count"
+msgstr "Число столбцов представления сетки"
+
+msgid "Disable masonry layout in Grid view"
+msgstr "Выключить макет кладки в представлении Сетка"
+
+msgid "slug"
+msgstr "Слюга"
+
+msgid ""
+"Slugs must consist of lowercase alphanumeric characters and underscores."
+msgstr ""
+"Шлюз должен состоять из алфавитно-цифровых символов нижнего регистра и "
+"символов подчеркивания."
+
+msgid "Category list page column count"
+msgstr "Число столбцов страницы списка категорий"
+
+msgid "Hide empty categories on category list page"
+msgstr "Скрыть пустые категории на странице списка категорий"
+
+msgid "Hide post counts on category list page"
+msgstr "Скрыть число должностей на странице списка категорий"
+
+msgid "Hide child categories on category list page"
+msgstr "Скрыть дочерние категории на странице списка категорий"
+
+msgid "Number of child categories to display on category list page"
+msgstr "Число дочерних категорий для отображения на странице списка категорий"
+
+msgid "Disable photo comments"
+msgstr "Отключить комментарии к фотографии"
+
+msgid "Stick featured listings to the top of the directory index page"
+msgstr ""
+"Поместив список популярных списков в верхнюю часть страницы индекса каталога"
+
+msgid "Stick featured listings to the top of single category pages"
+msgstr "Поместив список популярных списков на одну страницу категории"
+
+msgid "List claimed listings only in user profile"
+msgstr "Список затребованых списков только в профайле пользователя"
+
+msgid "Show user registration form when guest user is submitting a listing"
+msgstr ""
+"Показывать регистрационную форму пользователя, когда гостевой пользователь "
+"представляет список"
+
+msgid "Allow guest user to skip user registration"
+msgstr "Разрешить гостевому пользователю пропустить регистрацию пользователей"
+
+msgid "Spam Score Threshold"
+msgstr "Порог оценки спама"
+
+msgid ""
+"When a post is flagged, the post is assigned a \"spam score\". Posts with "
+"spam scores exceeding the threshold value are marked as spam and moved to "
+"trash automatically by the system. Also, posts with higher number of votes "
+"will have higher threshold. For example, if the value set here is 11, and a "
+"post has 10 votes, then the spam score threshold for the post will be 14 (11 "
+"+ 0.3 x 10)."
+msgstr ""
+"После того, как пост будет помечен, для этой должности назначается \"оценка "
+"спама\". Сообщения со значениями спама, превышающие пороговое значение, "
+"помечаются как спам и перемещаются в корзину автоматически. Кроме того, у "
+"должностей с большим числом голосов будет более высокий порог. Например, "
+"если значение здесь равно 11, а пост имеет 10 голосов, то порог оценки спама "
+"для этой должности составит 14 (11 + 0,3 x 10)."
+
+msgid "Listings:"
+msgstr "Листинги:"
+
+msgid "number of rating stars"
+msgstr "число рейтинговых звёзд"
+
+msgid "Reviews:"
+msgstr "Обзоры:"
+
+msgid "number of \"helpful\" votes"
+msgstr "число \"полезных\" голосов"
+
+msgid "number of votes"
+msgstr "число голосов"
+
+msgid "Auto-delete Settings"
+msgstr "Параметры автоматического удаления"
+
+msgid "Auto-delete spam"
+msgstr "Автоматически удалять спам"
+
+msgid ""
+"When checked, posts that have been marked as spam will be deleted by the "
+"system after the period of time specified in the \"Delete Spam After\" "
+"option."
+msgstr ""
+"Если эта опция выбрана, то после периода времени, указанного в опции "
+"\"Удалить спам после\", система будет удалена."
+
+msgid "Delete spam after:"
+msgstr "Удалить спам после:"
+
+msgid ""
+"Enter the number of days the system will wait before auto-deleting posts "
+"marked as spam."
+msgstr ""
+"Введите число дней, в течение которых система будет ожидать перед "
+"автоматическим удалением сообщений, помеченных как спам."
+
+msgid "Reject"
+msgstr "Отклонить"
+
+msgid "Approve"
+msgstr "Утвердить"
+
+msgid ""
+"This claim may not be approved because the listing has already been claimed "
+"by another user."
+msgstr ""
+"Это требование может быть не утверждено, так как этот список уже затребовал "
+"другой пользователь."
+
+#, php-format
+msgid "%s submitted %s for listing %s"
+msgstr "%s передано %s для просмотра списка %s"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Contact name"
+msgstr "Имя контакта"
+
+msgid "Admin note"
+msgstr "Примечание администратора"
+
+msgid ""
+"This note may be used for administration purpose or embedded in notifcation "
+"mail using the {claim_admin_note} tag."
+msgstr ""
+
+#, php-format
+msgid "The most recent %d listings"
+msgstr "Последние %d листингов"
+
+#, php-format
+msgid "The most recent %d reviews"
+msgstr "Последние %d отзывов"
+
+#, php-format
+msgid "The most recent %d listings and reviews"
+msgstr "Самые последние %d листингов и отзывов"
+
+msgid "All listings"
+msgstr "Все списки"
+
+msgid "All photos"
+msgstr "Все фотографии"
+
+msgid "All reviews"
+msgstr "Все обзоры"
+
+msgid ""
+"Please provide additional information that will allow us to verify your "
+"claim."
+msgstr ""
+"Просьба представить дополнительную информацию, которая позволит нам "
+"проверить вашу претензию."
+
+msgid "Submit Claim"
+msgstr "Отправить требование"
+
+msgid "Your claim has been submitted successfully and approved."
+msgstr "Ваше требование было успешно передано и утверждено."
+
+msgid ""
+"Your claim has been submitted successfully. We will review your claim "
+"details and notify you if it is approved."
+msgstr ""
+"Ваше требование успешно передано. Мы изутим ваши сведения о заявках и "
+"уведомим вас, если она будет утверждена."
+
+msgid "Sort by Views"
+msgstr "Сортировать по представлениями"
+
+msgid "Sort by Leads"
+msgstr "Сортировать по ледам"
+
+msgid "Title"
+msgstr "Название"
+
+msgctxt "date created"
+msgid "Date"
+msgstr "Дата"
+
+msgid "Featured"
+msgstr "Рекомендуемый"
+
+msgid "Untitled"
+msgstr "Без названия"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "View listing"
+msgstr "Просмотр списка"
+
+msgid "Claim listing"
+msgstr "Список претензий"
+
+msgid "Delete listing"
+msgstr "Удалить список"
+
+msgid "The listing has been updated successfully."
+msgstr "Список успешно обновлен."
+
+#, php-format
+msgid "The most recent %d listings in %s"
+msgstr "Последние %d листингов в %s"
+
+#, php-format
+msgid "The most recent %d reviews in %s"
+msgstr "Последние %d отзывов в %s"
+
+#, php-format
+msgid "The most recent %d listings and reviews in %s"
+msgstr "Самые последние %d листингов и отзывов в %s"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "View"
+msgstr "Вид"
+
+#, php-format
+msgid "Message by %s"
+msgstr "Сообщение %s"
+
+msgid "Bulk Actions"
+msgstr "Групповые действия"
+
+msgid "Apply"
+msgstr "Применить"
+
+msgid "Submit"
+msgstr "Передать"
+
+msgid "Upload Photos"
+msgstr "Загрузить фотографии"
+
+msgid "Add Photos"
+msgstr "Добавить фотографии"
+
+msgid "Write a Review"
+msgstr "Записать проверку"
+
+msgid "List"
+msgstr "Список"
+
+msgid "Switch to list view"
+msgstr "Переключиться на представление списка"
+
+msgid "Grid"
+msgstr "Сетка"
+
+msgid "Switch to grid view"
+msgstr "Переключиться на представление сетки"
+
+msgid "Map"
+msgstr "Карта"
+
+msgid "Switch to map view"
+msgstr "Переключиться на представление карты"
+
+msgid "Helpfulness"
+msgstr "Помощь"
+
+msgid "Rating Stars"
+msgstr "Рейтинговые звезды"
+
+msgid "Rating Criteria"
+msgstr "Критерии оценки"
+
+msgid ""
+"Note that changing the slug will reset the ratings of the criterion in all "
+"reviews. Also the overall ratings in both listings and reviews will stay the "
+"same even when a criterion is added or removed until the reviews are updated."
+msgstr ""
+"Обратите внимание, что изменение slug приведет к сбросу рейтингов критерия "
+"во всех отзывах. Кроме того, общие рейтинги как в листингах, так и в отзывах "
+"останутся прежним, даже при добавлении или удалении критерия до обновления "
+"обзоров."
+
+msgid "Rating Step"
+msgstr "Шаг оценки"
+
+msgid "Disable phone number field"
+msgstr "Выключить поле номера телефона"
+
+msgid "Disable e-mail field"
+msgstr "Отключить поле электронной почты"
+
+msgid "Disable mobile number field"
+msgstr "Выключить поле мобильного номера"
+
+msgid "Disable fax number field"
+msgstr "Выключить поле номер факса"
+
+msgid "Disable website field"
+msgstr "Выключить поле веб-сайта"
+
+msgid "Require phone number"
+msgstr "Требовать номер телефона"
+
+msgid "Require mobile number"
+msgstr "Требовать номер мобильного телефона"
+
+msgid "Require fax number"
+msgstr "Требовать номер факса"
+
+msgid "Require e-mail address"
+msgstr "Требовать адрес электронной почты"
+
+msgid "Require website URL"
+msgstr "Требуется URL веб-сайта"
+
+msgid ""
+"Auto-populate e-mail address field with the current user's e-mail address"
+msgstr ""
+"Автоматически заполнять поле адреса электронной почты с адресом электронной "
+"почты текущего пользователя"
+
+msgid "Auto-populate website URL field with the current user's website URL"
+msgstr ""
+"Автоматически заполнять поле URL веб-сайта с URL веб-сайта текущего "
+"пользователя"
+
+msgid "Require Twitter username"
+msgstr "Требуется имя пользователя Twitter"
+
+msgid "Require Facebook URL"
+msgstr "Требуется URL Facebook"
+
+msgid "Require Google+ URL"
+msgstr "Обязать Google + URL"
+
+msgid "Maximum photo upload size"
+msgstr "Максимальный размер загрузки фотографий"
+
+msgid ""
+"The maximum file size of uploaded files in kilobytes. Leave this field blank "
+"for no limit."
+msgstr ""
+"Максимальный размер загружаемого файла в килобайтах. Оставьте это поле "
+"пустым."
+
+msgid "You must enter a Twitter username."
+msgstr "Необходимо ввести имя пользователя Twitter."
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "@username"
+msgstr ""
+
+msgid "Facebook URL"
+msgstr "URL Facebook"
+
+msgid "Google+ URL"
+msgstr "URL Google +"
+
+msgid "End Date"
+msgstr "Конечная дата"
+
+msgid "Approved"
+msgstr "Утверждено"
+
+msgid "Rejected"
+msgstr "Отклонено"
+
+msgid "Pending"
+msgstr "Ожидание"
+
+msgid "Listing Submitted Admin Notification Email"
+msgstr "Получение списка переданных уведомлений администратора"
+
+msgid ""
+"If enabled, a notification email is sent to administrators whenever a "
+"listing that requires approval is submitted."
+msgstr ""
+"Если эта опция включена, администраторам отправляется уведомление по "
+"электронной почте всякий раз, когда передается список, требующий утверждения."
+
+msgid "[{site_name}] A new listing (ID: {listing_id}) has been submitted"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A new listing \"{listing_title}\" has been submitted on {listing_date}.\n"
+"\n"
+"Submitted by {listing_author_name} ({listing_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{listing_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can view the listing at {listing_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Review Submitted Admin Notification Email"
+msgstr "Проверить отправлением электронного уведомления администратора"
+
+msgid ""
+"If enabled, a notification email is sent to administrators whenever a review "
+"that requires approval is submitted."
+msgstr ""
+"Если эта опция включена, администраторам отправляется уведомление по "
+"электронной почте, если будет отправлен обзор, требующий утверждения."
+
+msgid "[{site_name}] A new review (ID: {review_id}) has been submitted"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A review of {listing_title} titled \"{review_title}\" has been submitted on "
+"{review_date}.\n"
+"\n"
+"Submitted by {review_author_name} ({review_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{review_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can view the review at {review_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Photo Submitted Admin Notification Email"
+msgstr "Электронная почта отправлчного уведомления администратора"
+
+msgid ""
+"If enabled, a notification email is sent to administrators whenever a photo "
+"that requires approval is submitted."
+msgstr ""
+"Если эта опция включена, администраторам отправляется уведомление по "
+"электронной почте при отправке фотографии, требующий утверждения."
+
+msgid "[{site_name}] A new photo (ID: {photo_id}) has been submitted"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"\n"
+"A new photo has been added to {listing_title} on {photo_date}.\n"
+"\n"
+"Submitted by {photo_author_name} ({photo_author_email}):\n"
+"\n"
+"You can view the photo at {photo_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Lead Submitted Admin Notification Email"
+msgstr "Электронная почта уведомления о передаче, отправлении"
+
+msgid ""
+"If enabled, a notification email is sent to administrators whenever a lead "
+"that requires approval is submitted."
+msgstr ""
+"Если эта опция включена, администраторам отправляется уведомление по "
+"электронной почте всякий раз, когда передается руководитель, требующий "
+"утверждения."
+
+msgid "[{site_name}] A new lead (ID: {lead_id}) has been submitted"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"\n"
+"A new lead has been added to {listing_title} on {lead_date}.\n"
+"\n"
+"Submitted by {lead_author_name} ({lead_author_email}):\n"
+"\n"
+"You can view the lead at {lead_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Listing Approved Notification Email"
+msgstr "Получение списка утвержденных уведомлений"
+
+msgid ""
+"If enabled, a notification email is sent to the user when a listing the user "
+"has submitted is approved."
+msgstr ""
+"Если эта опция включена, пользователю отправляется уведомление по "
+"электронной почте при утверждении списка."
+
+msgid "[{site_name}] Your listing has been published"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The listing you have submitted has been approved and is now published.\n"
+"\n"
+"------------------------------------\n"
+"{listing_title}\n"
+"------------------------------------\n"
+"\n"
+"You can view the listing at {listing_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Review Approved Notification Email"
+msgstr "Проверить электронную почту утвержденного уведомления"
+
+msgid ""
+"If enabled, a notification email is sent to the user when a review the user "
+"has submitted is approved."
+msgstr ""
+"Если эта опция включена, пользователю отправляется уведомление по "
+"электронной почте при утверждении пользователем проверки."
+
+msgid "[{site_name}] Your review has been published"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The review of {listing_title} you have submitted has been approved and is "
+"now published.\n"
+"\n"
+"------------------------------------\n"
+"{review_title}\n"
+"------------------------------------\n"
+"\n"
+"You can view the review at {review_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Photo Approved Notification Email"
+msgstr "Электронная почта с утвержденным уведомлением"
+
+msgid ""
+"If enabled, a notification email is sent to the user when a photo the user "
+"has submitted is approved."
+msgstr ""
+"Если эта опция включена, то пользователю отправляется уведомление по "
+"электронной почте при утверждении фотографии, представленной пользователем."
+
+msgid "[{site_name}] Your photo has been published"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The photo of {listing_title} you have submitted has been approved and is now "
+"published.\n"
+"\n"
+"You can view the photo at {photo_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Comment Posted Notification Email"
+msgstr "Комментарий по электронной почте уведомлений"
+
+msgid ""
+"If enabled, a notification email is sent to the review author when a comment "
+"is submitted."
+msgstr ""
+"Если эта опция включена, то при передаче комментария автору сообщения будет "
+"отправлено уведомление по электронной почте."
+
+msgid "[{site_name}] You have a new comment"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A comment has been added to your review \"{review_title}\".\n"
+"\n"
+"Comment by {comment_author_name}:\n"
+"\n"
+"------------------------------------\n"
+"{comment_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can view the comment at {review_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Comment Posted Notification Email (Photo)"
+msgstr "Комментарий по электронной почте уведомлений (Фото)"
+
+msgid ""
+"If enabled, a notification email is sent to the photo author when a comment "
+"is submitted."
+msgstr ""
+"Если эта опция включена, то при передаче комментария автору сообщения "
+"отправляется уведомление по электронной почте."
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A comment has been added to your photo.\n"
+"\n"
+"Comment by {comment_author_name}:\n"
+"\n"
+"------------------------------------\n"
+"{comment_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can view the comment at {photo_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Review Added Notification Email"
+msgstr "Проверка добавленного электронного уведомления"
+
+msgid ""
+"If enabled, a notification email is sent to the listing owner when a review "
+"is posted."
+msgstr ""
+"Если эта опция включена, то при разноской проверке в владелец списка "
+"отправляется уведомление по электронной почте."
+
+msgid "[{site_name}] A new review has been posted"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A review of {listing_title} titled \"{review_title}\" has been posted on "
+"{review_date}.\n"
+"\n"
+"Posted by {review_author_name} ({review_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{review_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can read the full review at {review_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Photo Added Notification Email"
+msgstr "Электронная почта уведомления об добавленных"
+
+msgid ""
+"If enabled, a notification email is sent to the listing owner when photos "
+"are added to the listing."
+msgstr ""
+"Если эта опция включена, то при добавлении фотографий в список владелец "
+"списка отправляется по электронной почте."
+
+msgid "[{site_name}] A new photo has been added"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A new photo has been added to your listing {listing_title} on {photo_date} "
+"by {photo_author_name} ({photo_author_email}).\n"
+"\n"
+"You can view the photo at {photo_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Lead Added Notification Email"
+msgstr "Электронная почта уведомления о добавлении ведущего"
+
+msgid ""
+"If enabled, a notification email is sent to the listing owner when leads are "
+"added to the listing."
+msgstr ""
+"Если эта опция включена, то при добавлении потенциальных покупателей в "
+"список владелец списка отправляется по электронной почте."
+
+msgid "[{site_name}] A new lead has been added"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A new lead has been added to your listing {listing_title} on {lead_date} by "
+"{lead_author_name} ({lead_author_email}).\n"
+"\n"
+"You can view the lead at {lead_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Listing Claim Expiration Notification Email"
+msgstr "Получение списка уведомлений об истечении срока действия иска"
+
+#, php-format
+msgid ""
+"If enabled, a notification email is sent to the listing owner from %d days "
+"before expiration of a claim until the claim expires."
+msgstr ""
+"Если эта опция включена, уведомление по электронной почте отправляется "
+"владельцу списка за %d дней до истечения срока исковой требования."
+
+msgid "[{site_name}] Your listing claim will expire in {expiration_date_diff}"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"Your claim on listing {listing_title} will expire on {expiration_date}.\n"
+"\n"
+"You can renew the claim at {listing_renew_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Listing Claim Expired Notification Email"
+msgstr "Получение списка просроченных уведомлений по требованию"
+
+msgid ""
+"If enabled, a notification email is sent to the listing owner after a claim "
+"has expired."
+msgstr ""
+"Если эта опция включена, то после истечения срока действия требования к "
+"владельцу списка отправляется уведомление по электронной почте."
+
+msgid "[{site_name}] Your listing claim has expired on {expiration_date}"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"Your claim on listing {listing_title} has expird {expiration_date_diff}.\n"
+"\n"
+"You can renew the claim at {listing_renew_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Listing Published Notification Email"
+msgstr "Получение списка опубликованных уведомлений"
+
+msgid ""
+"If enabled, a notification email is sent to users of selected roles whenever "
+"a listing is published."
+msgstr ""
+"Если эта опция включена, пользователям выбранных ролей отправляется "
+"уведомление по электронной почте при публикации списка."
+
+msgid "[{site_name}] A new listing (ID: {listing_id}) has been published"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A new listing \"{listing_title}\" has been published on {listing_date}.\n"
+"\n"
+"Submitted by {listing_author_name} ({listing_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{listing_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can view the listing at {listing_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Review Published Notification Email"
+msgstr "Проверить опубликованную электронную почту уведомления"
+
+msgid ""
+"If enabled, a notification email is sent to users of selected roles whenever "
+"a review is published."
+msgstr ""
+"Если эта опция включена, пользователям выбранных ролей отправляется "
+"уведомление по электронной почте при публикации обзора."
+
+msgid "[{site_name}] A new review (ID: {review_id}) has been published"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A review of {listing_title} titled \"{review_title}\" has been published on "
+"{review_date}.\n"
+"\n"
+"Submitted by {review_author_name} ({review_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{review_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can read the full review at {review_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Photo Published Notification Email"
+msgstr "Опубликованная электронная почта уведомления"
+
+msgid ""
+"If enabled, a notification email is sent to users of selected roles whenever "
+"a photo is published."
+msgstr ""
+"Если эта опция включена, пользователям выбранных ролей отправляется "
+"уведомление по электронной почте при публикации фотографии."
+
+msgid "[{site_name}] A new photo (ID: {photo_id}) has been published"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"A photo for {listing_title} titled \"{photo_title}\" has been published on "
+"{photo_date}.\n"
+"\n"
+"Submitted by {photo_author_name} ({photo_author_email}):\n"
+"\n"
+"------------------------------------\n"
+"{photo_summary}\n"
+"------------------------------------\n"
+"\n"
+"You can view the photo at {photo_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Listing Flagged Notification Email"
+msgstr "Список помеченных уведомлений по электронной почте"
+
+msgid ""
+"If enabled, a notification email is sent to users of selected roles whenever "
+"a listing is flagged."
+msgstr ""
+"Если эта опция включена, то пользователям выбранных ролей отправляется "
+"уведомление по электронной почте, если список помечен флагом."
+
+msgid "[{site_name}] Listing (ID: {listing_id}) has been flagged"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The following listing has been flagged on {flag_date} by {flag_user_name} "
+"({flag_user_email}):\n"
+"\n"
+"------------------------------------\n"
+"{listing_title}\n"
+"------------------------------------\n"
+"\n"
+"Reason: {flag_reason}\n"
+"Score: {flag_score} (total: {flag_score_total})\n"
+"\n"
+"You can view the listing at {listing_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Review Flagged Notification Email"
+msgstr "Отправить уведомление об отмеченных уведомлениях"
+
+msgid ""
+"If enabled, a notification email is sent to users of selected roles whenever "
+"a review is flagged."
+msgstr ""
+"Если эта опция включена, то пользователям выбранных ролей отправляется "
+"уведомление по электронной почте при условии, что проверка будет помечена "
+"флагом."
+
+msgid "[{site_name}] Review (ID: {review_id}) has been flagged"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The following review has been flagged on {flag_date} by {flag_user_name} "
+"({flag_user_email}):\n"
+"\n"
+"------------------------------------\n"
+"{review_title} (listing: {listing_title})\n"
+"------------------------------------\n"
+"\n"
+"Reason: {flag_reason}\n"
+"Score: {flag_score} (total: {flag_score_total})\n"
+"\n"
+"You can view the review at {review_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Photo Flagged Notification Email"
+msgstr "Электронное уведомление с уведомлением о фраз"
+
+msgid ""
+"If enabled, a notification email is sent to users of selected roles whenever "
+"a photo is flagged."
+msgstr ""
+"Если эта опция включена, пользователям выбранных ролей отправляется "
+"уведомление по электронной почте, если фотография помечена как помечена."
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The following photo has been flagged on {flag_date} by {flag_user_name} "
+"({flag_user_email}):\n"
+"\n"
+"------------------------------------\n"
+"{photo_title} (listing: {listing_title})\n"
+"------------------------------------\n"
+"\n"
+"Reason: {flag_reason}\n"
+"Score: {flag_score} (total: {flag_score_total})\n"
+"\n"
+"You can view the photo at {photo_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Listing Claim Approved Notification Email"
+msgstr "Просмотр электронной почты с утвержденными уведомлениями"
+
+msgid ""
+"If enabled, a notification email is sent to the user when a listing claim "
+"the user has submitted is approved."
+msgstr ""
+"Если эта опция включена, то пользователю отправляется уведомление по "
+"электронной почте при утверждении списка заявков, поданных пользователем."
+
+msgid "[{site_name}] Your claim has been approved"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The ownership claim for {listing_title} you submitted on {claim_date} has "
+"been approved. You can view the listing at {listing_url}.\n"
+"\n"
+"{claim_admin_note}\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Listing Claim Rejected Notification Email"
+msgstr "Получение списка отклоненных уведомлений по электронной почте"
+
+msgid ""
+"If enabled, a notification email is sent to the user when a listing claim "
+"the user has submitted is rejected."
+msgstr ""
+"Если эта опция включена, то пользователю отправляется уведомление по "
+"электронной почте при отклоненных заявках на получение списка."
+
+msgid "[{site_name}] Your claim was rejected"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"                \n"
+"The ownership claim for {listing_title} you submitted on {claim_date} was "
+"rejected. You can view the listing at {listing_url}.\n"
+"\n"
+"{claim_admin_note}\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+msgid "Listing Claim Pending Admin Notification Email"
+msgstr "Получение Списка Отложенных Уведомлений Администратора"
+
+msgid ""
+"If enabled, a notification email is sent to administrators whenever a "
+"listing claim that requires approval is submitted."
+msgstr ""
+"Если эта опция включена, администраторам отправляется уведомление по "
+"электронной почте при получении требования о включении в список, требующий "
+"утверждения."
+
+msgid "[{site_name}] A new listing claim (ID: {claim_id}) has been submitted"
+msgstr ""
+
+msgid ""
+"Hi {recipient_name},\n"
+"\n"
+"A new listing claim has been submitted for {listing_title} on {claim_date}.\n"
+"\n"
+"Submitted by {claim_user_name} ({claim_user_email}):\n"
+"\n"
+"{claim_comment}\n"
+"\n"
+"To approve or reject the claim, go to {claim_admin_url}.\n"
+"\n"
+"Regards,\n"
+"{site_name}\n"
+"{site_url}"
+msgstr ""
+
+#, php-format
+msgid "%s by %s in %s"
+msgstr "%s на %s в %s"
+
+#, php-format
+msgid "%s by %s"
+msgstr "%s на %s"
+
+#, php-format
+msgid "%s in %s"
+msgstr "%s в %s"
+
+msgid "Show first photo as featured"
+msgstr "Показать первую фотографию как избранную"
+
+msgid "Featured photo size"
+msgstr "Рекомендуемый размер фотографии"
+
+msgid "Show thumbnail photos"
+msgstr "Показать миниизображения"
+
+msgid "Number of thumbnail columns"
+msgstr "Число столбцов миниизображений"
+
+msgid "Maximum number of thumbnails to display (0 for unlimited)"
+msgstr ""
+"Максимальное число отображающих миниизображений (0 для неограниченного числа)"
+
+msgid "Hide thumbnails on small-screen devices"
+msgstr "Скрыть миниизображения на устройствах с маленьким экраном"
+
+msgid "Show sub-ratings if any"
+msgstr "Показать субрейтинги, если они есть"
+
+msgid "Rating separator:"
+msgstr "Разделитель оценок:"
+
+msgid "Prefix text:"
+msgstr "Текст префикса:"
+
+msgid "Suffix text:"
+msgstr "Текст суффикса:"
+
+msgid "Categories"
+msgstr "Категории"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Parent Category"
+msgstr "Родительская категория"
+
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+msgid "Map Marker"
+msgstr "Маркер карты"
+
+msgid "Recent Listings"
+msgstr "Последние листинги"
+
+msgid "Recent Listing Reviews"
+msgstr "Последние отзывы в листинге"
+
+msgid "Recent Listing Photos"
+msgstr "Последние фотографии в списке"
+
+msgid "Featured Listings"
+msgstr "Избранные списки"
+
+msgid "Related Listings"
+msgstr "Связанные списки"
+
+msgid "Nearby Listings"
+msgstr "Близлежащие листинги"
+
+msgid "Listing Categories"
+msgstr "Список категорий"
+
+msgid "Listing Map"
+msgstr "Отображение списка"
+
+msgid "Listing Photos"
+msgstr "Просмотр фотографий"
+
+msgid "Contact Listing"
+msgstr "Список контактов"
+
+msgid "Recently posted listings"
+msgstr "Недавно размещенные списки"
+
+msgid "Recently posted listing reviews"
+msgstr "Недавно размещенные обзоры списка"
+
+msgid "Recently posted listing photos"
+msgstr "Недавно выложные фотографии"
+
+msgid "A list of categories"
+msgstr "Список категорий"
+
+msgid "A call to action button"
+msgstr "Кнопка вызова действия"
+
+msgid "Location map of current listing"
+msgstr "Карта расположения для текущего списка"
+
+msgid "Photos of current listing"
+msgstr "Фотографии текущего списка"
+
+msgid "Contact us form for currently displayed listing"
+msgstr "Свяжитесь с нами для показанных в данный момент списков"
+
+msgid "Do not cache output"
+msgstr "Не кэшировать вывод"
+
+msgid "Number of listings to show"
+msgstr "Число списков для показа"
+
+msgid "Show summary"
+msgstr "Показать сводку"
+
+msgid "Number of characters in the summary"
+msgstr "Число символов в сводке"
+
+msgid "Sort by"
+msgstr "Сортировать по"
+
+msgid "Show claimed listings only"
+msgstr "Показать только заявленные списки"
+
+msgid "Select directory"
+msgstr "Выбрать каталог"
+
+msgid "All directories"
+msgstr "Все каталоги"
+
+msgid "Number of reviews to show"
+msgstr "Число просмотров для показа"
+
+msgid "Show published date"
+msgstr "Показать опубликованную дату"
+
+msgid "Show author"
+msgstr "Показать автора"
+
+msgid "Number of columns"
+msgstr "Число столбцов"
+
+msgid "Number of rows"
+msgstr "Число строк"
+
+msgid "Photo type"
+msgstr "Тип фотографии"
+
+msgid "Official photos only"
+msgstr "Только официальные фотографии"
+
+msgid "Non-official photos only"
+msgstr "Только неофициальные фотографии"
+
+msgid "Show post count"
+msgstr "Показать число должностей"
+
+msgid "Show thumbnail"
+msgstr "Показать миниизображение"
+
+msgid "Button label"
+msgstr "Метка кнопки"
+
+msgid "Button size"
+msgstr "Размер кнопки"
+
+msgid "Mini"
+msgstr "Мини"
+
+msgid "Small"
+msgstr "Малый"
+
+msgid "Medium"
+msgstr "Средний"
+
+msgid "Large"
+msgstr "Большой"
+
+msgid "Button color"
+msgstr "Цвет кнопок"
+
+msgid "White"
+msgstr "Белый"
+
+msgid "Blue"
+msgstr "Синий"
+
+msgid "Light blue"
+msgstr "светло-синий"
+
+msgid "Green"
+msgstr "Зеленый"
+
+msgid "Orange"
+msgstr "Оранжевый"
+
+msgid "Red"
+msgstr "Красный"
+
+msgid "Button position"
+msgstr "Положение кнопки"
+
+msgid "Align left"
+msgstr "Выровни"
+
+msgid "Align right"
+msgstr "Выровни"
+
+msgid "Number of photos"
+msgstr "Количество фотографий"
+
+msgid "More Listings"
+msgstr "Дополнительные списки"
+
+msgid "All categories"
+msgstr "Все категории"
+
+msgid "Select directory or category"
+msgstr "Выберите каталог или категорию"
+
+msgid "Show rating"
+msgstr "Показать рейтинг"
+
+msgid "Show number of reviews"
+msgstr "Показать число отзывов"
+
+msgid "Show number of photos"
+msgstr "Показать число фотографий"
+
+msgid "Directory Index Page"
+msgstr "Страница Индекс каталога"
+
+msgid "Category List Page"
+msgstr "Страница Список категорий"
+
+#, php-format
+msgid "%s Categories"
+msgstr "Категории %s"
+
+msgid "Review List Page"
+msgstr "Страница просмотра списка"
+
+#, php-format
+msgid "%s Reviews"
+msgstr "%s обзоров"
+
+msgid "Photo List Page"
+msgstr "Страница Список фотографий"
+
+#, php-format
+msgid "%s Photos"
+msgstr "Фотографии %s"
+
+msgid "Single Listing Page"
+msgstr "Страница с одним списком"
+
+#, php-format
+msgid "%s Listing"
+msgstr "Список %s"
+
+msgid "Claim Listing Page"
+msgstr "Страница Листинг иска"
+
+msgid "Directory Dashboard Page"
+msgstr "Страница сводной панели каталога"
+
+msgid "Directory Dashboard"
+msgstr "Сводная панель каталога"
+
+msgid "Add Listing Page"
+msgstr "Добавить страницу списка"
+
+#, php-format
+msgid "Posts by %s"
+msgstr "Сообщения на %s"
+
+msgctxt "tab"
+msgid "Listings"
+msgstr "Листинги"
+
+msgctxt "tab"
+msgid "Reviews"
+msgstr "Обзоры"
+
+#, php-format
+msgctxt "tab"
+msgid "%s (%d)"
+msgstr "%s (%d)"
+
+msgctxt "tab"
+msgid "Photos"
+msgstr "Фотографии"
+
+#, php-format
+msgid "Add Photos - %s"
+msgstr "Добавить фотографии-%s"
+
+msgid "Claim Listing"
+msgstr "Список требований"
+
+msgid "Edit Listing"
+msgstr "Изменить список"
+
+msgid "Delete Listing"
+msgstr "Удалить список"
+
+msgid "Contact Us"
+msgstr "Связаться с нами"
+
+msgctxt "dashboard"
+msgid "Messages"
+msgstr "Сообщения"
+
+msgid "Rating Details"
+msgstr "Сведения о рейтинге"
+
+msgid "Claims"
+msgstr "Претензии"
+
+msgid "General"
+msgstr "Общие сведения"
+
+#, php-format
+msgctxt "Settings page title"
+msgid "%s Settings"
+msgstr "Параметры %s"
+
+msgid "Access Control"
+msgstr "Управление доступом"
+
+msgid "Emails"
+msgstr "Электронная почта"
+
+msgctxt "settings"
+msgid "Map"
+msgstr "Карта"
+
+msgctxt "settings"
+msgid "Search"
+msgstr "Поиск"
+
+msgctxt "settings"
+msgid "Claims"
+msgstr "Претензии"
+
+msgid "Spam"
+msgstr "Спам"
+
+msgid "Custom Tab Sample"
+msgstr "Пример пользовательской вкладки"
+
+msgid "Settings"
+msgstr "Параметры"
+
+msgid "Verified"
+msgstr "Проверено"
+
+msgid "This is an owner verified listing."
+msgstr "Это проверенный список владельцев."
+
+msgid "Edit"
+msgstr "Изменить"
+
+#, php-format
+msgid "Edit this %s"
+msgstr "Изменить этот %s"
+
+#, php-format
+msgid "Delete this %s"
+msgstr "Удалить этот %s"
+
+#, php-format
+msgid "Claim this %s"
+msgstr "Затребовать это %s"
+
+msgid "This is a photo uploaded by the listing owner."
+msgstr "Это фотография, закачаная владельцем списка."
+
+msgid "Claim expired"
+msgstr "Требование просрочено"
+
+msgid "Claim expiring (7 days)"
+msgstr "Истечение срока действия требования (7 дней)"
+
+msgid "Claim expiring (30 days)"
+msgstr "Истекающий срок действия (30 дней)"
+
+msgid "Featured/Unfeatured"
+msgstr "Рекомендуемые/Непопулярные"
+
+msgid "Unfeatured"
+msgstr "Нерекомендуемый"
+
+msgid "Official photos"
+msgstr "Официальные фотографии"
+
+msgid "Review photos"
+msgstr "Обзор фотографий"
+
+msgid "Mark Official"
+msgstr "Марк Official"
+
+msgid "Unmark Official"
+msgstr "Unmark Official"
+
+#, php-format
+msgid "Deleted %d expired listing claims"
+msgstr "Удалено %d просроченных требований со списком"
+
+#, php-format
+msgid "Moved %d listings with expired claims to trash"
+msgstr "Перемещено %d списков с просроченными требованиями к корзине"
+
+#, php-format
+msgid "Deleted %d spam posts (listings and/or reviews) from trash"
+msgstr "Удалено %d постов спама (списков и/или отзывов) из корзины"
+
+#, php-format
+msgid "%s listing"
+msgid_plural "%s listings"
+msgstr[0] "Список %s"
+msgstr[1] "Список %s"
+msgstr[2] ""
+
+#, php-format
+msgid "%s photo"
+msgid_plural "%s photos"
+msgstr[0] "%s фотография"
+msgstr[1] "%s фотографий"
+msgstr[2] ""
+
+msgid "Detailed view"
+msgstr "Подробное представление"
+
+msgid "Summary view"
+msgstr "Обзор сводки"
+
+#, php-format
+msgid "Tab view - %s"
+msgstr "Представление вкладки-%s"
+
+msgid "Enable this field for unclaimed listings"
+msgstr "Включить это поле для незаявленных списков"
+
+msgid ""
+"Select categories to which the field belongs. The field will then be enabled "
+"only when one of the following categories are selected."
+msgstr ""
+"Выберите категории, к которым принадлежит поле. После этого поле будет "
+"включено только в том случае, если выбрана одна из следующих категорий."
+
+msgid "Add More"
+msgstr "Добавить еще"
+
+#, php-format
+msgid "Select %s"
+msgstr "Выбрать %s"
+
+msgctxt "tab"
+msgid "Bookmarks"
+msgstr "Закладки"
+
+msgid "Bookmark"
+msgstr "Закладка"
+
+msgid "Number of bookmarks"
+msgstr "Число закладок"
+
+msgid "Show number of bookmarks"
+msgstr "Показать число закладок"
+
+msgid "Bookmarks"
+msgstr "Закладки"
+
+#, php-format
+msgid "%s added a new listing to %s"
+msgstr "%s добавил новый список в %s"
+
+#, php-format
+msgid "%s wrote a review for %s"
+msgstr "%s на писал обзор для %s"
+
+#, php-format
+msgid "%s added a new photo to %s"
+msgstr "%s добавил новую фотографию в %s"
+
+#, php-format
+msgid "%1$s commented on a <a href=\"%2$s\">review</a>"
+msgstr ""
+
+#, php-format
+msgid "%1$s commented on a <a href=\"%2$s\">photo</a>"
+msgstr ""
+
+msgid "BuddyPress profile tab label"
+msgstr "Метка вкладки профайла BuddyPress"
+
+msgid "BuddyPress profile tab slug"
+msgstr "Slug вкладки профайла BuddyPress"
+
+msgid "BuddyPress profile tab position"
+msgstr "Положение вкладки профайла BuddyPress"
+
+msgid "BuddyPress activities"
+msgstr "Деятельность BuddyPress"
+
+msgid "Comments"
+msgstr "Комментарии"
+
+msgid "CSV file"
+msgstr "Файл CSV"
+
+msgid "CSV file field delimiter"
+msgstr "Разделитель полей файла CSV"
+
+msgid ""
+"Enter the character to be used as the field delimiter of CSV file fields."
+msgstr ""
+"Введите символ, который будет использоваться в качестве разделителя полей в "
+"полях файла CSV."
+
+msgid "CSV file field enclosure"
+msgstr "Корпус поля файла CSV"
+
+msgid ""
+"Enter the character to be used as the field enclosure of CSV file fields."
+msgstr ""
+"Введите символ, который будет использоваться в качестве корпуса полей файлов "
+"CSV."
+
+msgid "Convert encoding of CSV file data to UTF-8"
+msgstr "Преобразование кодировки данных файла CSV в UTF-8"
+
+msgid "Convert line endings of CSV file to CR/LF"
+msgstr "Преобразование концевых строк файла CSV в CR/LF"
+
+msgid "Do not import"
+msgstr "Не импортировать"
+
+msgid "ID"
+msgstr "ИД"
+
+msgid "Street Address"
+msgstr "Улица"
+
+msgid "Postal / Zip Code"
+msgstr "Почтовый индекс"
+
+msgid "Latitude"
+msgstr "Широта"
+
+msgid "Longitude"
+msgstr "Долгота"
+
+msgid "Published Date"
+msgstr "Дата публикации"
+
+#, php-format
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "Author"
+msgstr "Автор"
+
+msgid "User ID"
+msgstr "ИД пользователя"
+
+#, php-format
+msgid "Custom field - %s"
+msgstr "Пользовательское поле-%s"
+
+msgid ""
+"Set up the associations between your CSV file data and directory listing "
+"fields. The \"Category\" field can be associated with more than one column "
+"if the field is configured to accept multiple values."
+msgstr ""
+"Настройте связи между данными файла CSV и поля списка каталогов. Поле "
+"\"Категория\" может быть связано с несколькими столбцами, если поле "
+"настроено для принятия нескольких значений."
+
+msgid "CSV Column"
+msgstr "Столбец CSV"
+
+msgid "Directory Listing Field"
+msgstr "Поле списка каталогов"
+
+msgid "Please select a column for the \"Title\" field."
+msgstr "Выберите столбец для поля \"Заголовок\"."
+
+#, php-format
+msgid "You may not associate multiple columns with the \"%s\" field."
+msgstr "Нельзя связать несколько столбцов с полем \"%s\"."
+
+msgid "Import"
+msgstr "Импорт"
+
+msgid "No category"
+msgstr "Нет категории"
+
+msgid "Select from existing categories"
+msgstr "Выбрать из существующих категорий"
+
+msgid "Create a new category"
+msgstr "Создать новую категорию"
+
+msgid "Select Category"
+msgstr "Выбрать категорию"
+
+msgid "Enter a new category name"
+msgstr "Введите имя новой категории"
+
+msgid "Create non-existent categories"
+msgstr "Создать несуществующие категории"
+
+msgid "Delimiter"
+msgstr "Разделитель"
+
+#, php-format
+msgid ""
+"Enter the character to be used as delimiter if the %s column contains "
+"multiple values."
+msgstr ""
+"Введите символ, который будет использоваться в качестве разделителя, если "
+"столбец %s содержит несколько значений."
+
+msgid "Latitude / Longitude"
+msgstr "Широта/Долгота"
+
+msgid "Use Google geocoding service"
+msgstr "Использовать службу геокодирования Google"
+
+msgid "Enter values manually"
+msgstr "Введите значения вручную"
+
+msgid ""
+"Use the Google geocoding service to resolve the latitude/longitude "
+"coordinate from the address of each listing. This can be slow if the CSV "
+"data is large as well as there is a 2500 geocode request per day limit."
+msgstr ""
+"Используйте службу геокодирования Google для разрешения координат широты и "
+"долготы с адреса каждого списка. Это может быть медленным, если данные CSV "
+"велики, а также существует 2500 запросов геокода в день."
+
+msgid ""
+"Manually enter the latitude/longitude coordinate that will be applied to all "
+"listings."
+msgstr ""
+"Вручную введите координату широты и долготы, которая будет применяться ко "
+"всем спискам."
+
+msgid "Latitude:"
+msgstr "Широта:"
+
+msgid "Longitude:"
+msgstr "Долгота:"
+
+msgid "Address Format"
+msgstr "Формат адреса"
+
+msgid "Photo archive file (.zip format)"
+msgstr "Файл архива фотографий (формат .zip)"
+
+msgid "Here you can set the default values and settings for the fields below."
+msgstr "Здесь можно задать значения и параметры по умолчанию для полей ниже."
+
+#, php-format
+msgid "Photo file %s could not be imported. Error: %s"
+msgstr "Не удалось импортировать файл фотографии %s. Ошибка: %s"
+
+#, php-format
+msgid "File %s could not be imported. Error: %s"
+msgstr "Не удалось импортировать файл %s. Ошибка: %s"
+
+#, php-format
+msgid "%d row imported successfullly."
+msgid_plural "%d rows imported successfullly."
+msgstr[0] "Успешно импортирована строка %d."
+msgstr[1] "%d строк импортировано успешно."
+msgstr[2] ""
+
+#, php-format
+msgid "%d row updated successfullly."
+msgid_plural "%d rows updated successfullly."
+msgstr[0] "Строка %d обновлена успешно."
+msgstr[1] "%d строк обновлено успешно."
+msgstr[2] ""
+
+#, php-format
+msgid "CSV data on row number %d could not be imported: %s"
+msgstr "Не удалось импортировать данные CSV в строке с номером %d: %s"
+
+#, php-format
+msgid "Address (%s) for CSV data on row number %d could not be geocoded: %s"
+msgstr ""
+"Не удалось получить геокодирование адреса (%s) для данных CSV в строке с "
+"номером %d: %s"
+
+msgid "Slug"
+msgstr "Шлюз"
+
+msgid ""
+"Set up the associations between your CSV file data and directory category "
+"fields."
+msgstr "Настройте связи между данными файла CSV и категории каталога."
+
+msgid "Thumbnail image archive file (.zip format)"
+msgstr "Файл архива миниизображений (формат .zip)"
+
+msgid "Map marker icon archive file (.zip format)"
+msgstr "Файл архива значка маркера карты (формат .zip)"
+
+msgid "Press the button below to import categories."
+msgstr "Нажмите кнопку ниже, чтобы импортировать категории."
+
+msgid "Import CSV"
+msgstr "Импортировать CSV"
+
+msgid "There are no payment plans available in this directory."
+msgstr "В этом каталоге нет планов платежей."
+
+#, php-format
+msgid "%s (plan: %s)"
+msgstr "%s (план: %s)"
+
+msgid "Thank you for your order!"
+msgstr "Спасибо за заказ!"
+
+msgid "Item delivered."
+msgstr "Номенклатура доставлена."
+
+msgid "Item delivery failed."
+msgstr "Доставка элемента не выполнена."
+
+msgid "Claim rejected."
+msgstr "Претензия отклонена."
+
+msgid "Featured Listing"
+msgstr "Рекомендуемый список"
+
+msgid "Additional Locations"
+msgstr "Дополнительные положения"
+
+msgid "Additional Categories"
+msgstr "Дополнительные категории"
+
+msgid "Additional Photos"
+msgstr "Дополнительные фотографии"
+
+msgctxt "paid plan feature"
+msgid "Reviews"
+msgstr "Обзоры"
+
+msgid "Basic Feature Settings"
+msgstr "Основные параметры функции"
+
+msgid ""
+"Enter the number of days listings will be claimed (0 = unlimited). This is "
+"applied to one-time payment only."
+msgstr ""
+"Введите число дней в списке (0 = не ограничено). Это относится только к "
+"разовому платеже."
+
+msgid "Display as featured"
+msgstr "Показать как избранное"
+
+msgid "Priority"
+msgstr "Приоритет"
+
+msgctxt "priority"
+msgid "High"
+msgstr "Высокий"
+
+msgctxt "priority"
+msgid "Normal"
+msgstr "Обычный"
+
+msgctxt "priority"
+msgid "Low"
+msgstr "Низкий"
+
+msgid "Enter the number of days listings will be featured on homepage."
+msgstr ""
+"Введите число дней в списке, которое будет поместиться на домашней странице."
+
+msgid "Send messages to owner email address"
+msgstr "Отправить сообщения на адрес электронной почты владельца"
+
+#, php-format
+msgid "Claim ownership of listing for %d days"
+msgstr "Претензия на получение списка в течение %d дней"
+
+msgid "Claim ownership of listing for unlimited number of days"
+msgstr "Право собственности на листинг на неограниченное число дней"
+
+#, php-format
+msgid "Feature listing on homepage for %d days"
+msgstr "Список функций на домашней странице в течение %d дней"
+
+msgid "Feature listing on home page for unlimited number of days"
+msgstr ""
+"Список функций на домашней странице в течение неограниченного числа дней"
+
+#, php-format
+msgid "Allow %d extra location addresses"
+msgstr "Разрешить %d лишних адресов расположения"
+
+#, php-format
+msgid "Allow selection of %d extra categories"
+msgstr "Разрешить выбор %d дополнительных категорий"
+
+#, php-format
+msgid "Allow upload of %d extra photos"
+msgstr "Разрешить передачу %d лишних фотографий"
+
+msgid "Allow users to contact the owner via contact us form"
+msgstr ""
+"Разрешить пользователям обращаться к владельцу через форму контакта с нами"
+
+#, php-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d день"
+msgstr[1] "%d дней"
+msgstr[2] ""
+
+#, php-format
+msgid "%d category"
+msgid_plural "%d categories"
+msgstr[0] "%d категория"
+msgstr[1] "%d категорий"
+msgstr[2] ""
+
+msgid "Unlimited categories"
+msgstr "Неограниченные категории"
+
+#, php-format
+msgid "%d photo"
+msgid_plural "%d photos"
+msgstr[0] "%d фотографий"
+msgstr[1] "%d фотографий"
+msgstr[2] ""
+
+msgid "Unlimited photos"
+msgstr "Неограниченные фотографии"
+
+#, php-format
+msgid "%d location"
+msgid_plural "%d locations"
+msgstr[0] "Расположение %d"
+msgstr[1] "%d положений"
+msgstr[2] ""
+
+msgid "Unlimited locations"
+msgstr "Неограниченное размещение"
+
+#, php-format
+msgid "Featured %d day"
+msgid_plural "Featured %d days"
+msgstr[0] "Рекомендуемый %d день"
+msgstr[1] "Рекомендуемый %d дней"
+msgstr[2] ""
+
+msgctxt "pricing table"
+msgid "Featured"
+msgstr "Рекомендуемый"
+
+#, php-format
+msgid "Extra location"
+msgid_plural "Extra %d locations"
+msgstr[0] "Дополнительное расположение"
+msgstr[1] "Дополнительные %d положений"
+msgstr[2] ""
+
+#, php-format
+msgid "Extra category"
+msgid_plural "Extra %d categories"
+msgstr[0] "Дополнительная категория"
+msgstr[1] "Лишние %d категорий"
+msgstr[2] ""
+
+#, php-format
+msgid "Extra photo"
+msgid_plural "Extra %d photos"
+msgstr[0] "Дополнительная фотография"
+msgstr[1] "Дополнительные %d фотографий"
+msgstr[2] ""
+
+msgid "7-day Free Trial"
+msgstr "7-дневная бесплатная пробная"
+
+msgid "Try and see if listing on this site works for your business."
+msgstr ""
+"Попробуйте посмотреть, работает ли листинг на этом сайте для вашего бизнеса."
+
+msgid "30-day Basic Listing"
+msgstr "Основной листинг 30 дней"
+
+msgid "Claim your listing for 30 days."
+msgstr "Претендуем на ваш список в течение 30 дней."
+
+msgid "30-day Featured Listing Add-on"
+msgstr "Добавление 30-дневного Списка Популярных"
+
+msgid "Get your listing featured on homepage for 30 days."
+msgstr "Получить листинг на домашней странице в течение 30 дней."
+
+msgid "Contact Form Add-on"
+msgstr "Добавление формы контакта"
+
+msgid "Add a contact form to your listing page to capture leads."
+msgstr ""
+"Добавьте форму контакта на страницу списка для захвата потенциальных "
+"покупателей."
+
+msgid "Orders"
+msgstr "Заказы"
+
+msgid "Order Listing Add-on"
+msgstr "Добавление списка заказов"
+
+msgid "Renew Listing"
+msgstr "Обновить список"
+
+msgid "Renew listing"
+msgstr "Обновить список"
+
+msgid "Order add-ons"
+msgstr "Дополнения заказа"
+
+msgid "View orders"
+msgstr "Просмотреть заказы"
+
+msgid "Automatically approve claims for new listings when payment is complete"
+msgstr ""
+"Автоматически утверждать требования к новым спискам при завершении платежа"
+
+msgid ""
+"Automatically approve claims for existing listings when payment is complete"
+msgstr ""
+"Автоматически утверждать требования к существующим спискам при завершении "
+"платежа"
+
+msgid "Order"
+msgstr "Порядок"
+
+msgid "View Orders"
+msgstr "Просмотреть заказы"
+
+msgid "Enable this field for the following paid listing plans"
+msgstr "Включить это поле для следующих платных планов листинга"
+
+#, php-format
+msgid "Unfeatured %d listings"
+msgstr "Непопулярных списков: %d"
+
+msgid "Add a privacy policy consent checkbox"
+msgstr "Добавить переключатель согласия правила политики конфиденциальности"
+
+msgid "I have read and agree to the %s"
+msgstr "%に同意します"

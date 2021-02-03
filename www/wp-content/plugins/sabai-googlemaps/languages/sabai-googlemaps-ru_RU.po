@@ -1,0 +1,245 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the sabai-directory package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: sabai-googlemaps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-01 01:01+0900\n"
+"PO-Revision-Date: 2021-02-03 22:05+0000\n"
+"Last-Translator: artem <adm@adm.ru>\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.4"
+
+msgid "Icon"
+msgstr "Значок"
+
+msgid "Customize the format of address"
+msgstr "Настройка формата адреса"
+
+msgid "Custom format"
+msgstr "Пользовательский формат"
+
+msgid "Link to Google Maps or native map application"
+msgstr "Ссылка на Google Maps или собственное приложение карты"
+
+msgid "Country code"
+msgstr "Код страны"
+
+msgid ""
+"Enter one of the <a href=\"http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2\" "
+"target=\"_blank\">two-letter country codes</a> to restrict location "
+"autocomplete suggestions to a specific country."
+msgstr ""
+
+msgid "Require a location on map if the address field is not empty"
+msgstr "Если поле адреса не пусто, необходимо расположение на карте"
+
+msgid "Map type"
+msgstr "Тип карты"
+
+msgid "Map height"
+msgstr "Высота карты"
+
+msgid "Enter the height of map in pixels."
+msgstr "Введите высоту карты в пикселах."
+
+msgid "Default latitude"
+msgstr "Ширина по умолчанию"
+
+msgid "Enter the latitude of the default map location in decimals."
+msgstr "Введите широту расположения карты по умолчанию в десятичных значках."
+
+msgid "Default longitude"
+msgstr "долгота по умолчанию"
+
+msgid "Enter the longitude of the default map location in decimals."
+msgstr "Введите долготу расположения карты по умолчанию в десятичных значках."
+
+msgid "Default zoom level"
+msgstr "Уровень масштабирования по умолчанию"
+
+msgid "Default map type"
+msgstr "Тип карты по умолчанию"
+
+msgid "Default style"
+msgstr "Стиль по умолчанию"
+
+msgid "Google map style"
+msgstr "Стиль карты Google"
+
+msgid "Enable scrollwheel zooming"
+msgstr "Включить масштабирование колес прокрутки"
+
+msgid "Enable directions search"
+msgstr "Включить поиск направлений"
+
+msgid "Map infobox width"
+msgstr "Ширина информационной панели карты"
+
+msgid "Enter a location"
+msgstr "Введите расположение"
+
+msgid "Get Directions"
+msgstr "Получить направления"
+
+msgid "By public transit"
+msgstr "По общественному транзиту"
+
+msgid "Bicycling"
+msgstr "Велосипедистог"
+
+msgid "Google (roadmap)"
+msgstr "Google (дорожная карта)"
+
+msgid "Google (satellite)"
+msgstr "Google (спутник)"
+
+msgid "Google (hybrid)"
+msgstr "Google (гибридная)"
+
+msgid "OpenStreetMap"
+msgstr "Карта OpenStreetMap"
+
+msgid "Location"
+msgstr "Расположение"
+
+msgid "Filter by"
+msgstr "Фильтр по"
+
+msgid "City"
+msgstr "Город"
+
+msgid "State / Province / Region"
+msgstr "Область/Область/Регион"
+
+msgid "Postal / Zip code"
+msgstr "Почтовый индекс"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "Form element type"
+msgstr "Тип элемента формы"
+
+msgid "Checkboxes"
+msgstr "Переключатели"
+
+msgid "Select list"
+msgstr "Выбрать список"
+
+msgid "Display inline"
+msgstr "Показать встроенные"
+
+msgid "Check this to align all options on the same line."
+msgstr ""
+"Включите этот переключатель, чтобы выровшивать все опции в одной строке."
+
+msgid "Number of options to display"
+msgstr "Число выводимой на экран опций"
+
+msgid ""
+"If there are more options than the number specified here, those options will "
+"be displayed in a popup window."
+msgstr ""
+"Если число опций больше, чем указано здесь, то эти опции будут показаны во "
+"всплывающем окне."
+
+msgid "Label for link to open popup window"
+msgstr "Метка для ссылки на открытое всплывающее окно"
+
+#, php-format
+msgid "More %s"
+msgstr "Больше %s"
+
+msgid "Min. length of keywords in characters"
+msgstr "Минимальная длина ключевых слов в символах"
+
+msgid "Match any or all"
+msgstr "Соответствует любому или любому"
+
+msgid "Match any"
+msgstr "Соответствие любому"
+
+msgid "Match all"
+msgstr "Соответствие всем"
+
+msgid "Exact match"
+msgstr "Точное совпадение"
+
+msgctxt "option"
+msgid "Any"
+msgstr "Любой"
+
+msgid "Google Map"
+msgstr "Карта Google"
+
+msgid "Find on map"
+msgstr "Найти на карте"
+
+msgid "Get from map"
+msgstr "Получить из карты"
+
+msgid "Enter address details manually"
+msgstr "Введите сведения об адресе вручную"
+
+msgid "Latitude"
+msgstr "Широта"
+
+msgid "Longitude"
+msgstr "Долгота"
+
+msgid "Please select a valid location on map."
+msgstr "Выберите допустимое положение на карте."
+
+msgid "Map renderer"
+msgstr "Отображение карты"
+
+msgid "Enter coordinates manually"
+msgstr "Введите координаты вручную"
+
+msgid "Do not load Google Maps API"
+msgstr "Не загружать API Google Maps"
+
+msgid "Do not load Google Maps API in admin dashboard"
+msgstr "Не загружать API Google Maps в сводную панель администратора"
+
+msgid "Google Maps API type"
+msgstr "Тип API Google Maps"
+
+msgid "Google Maps API (free)"
+msgstr "API Google Maps (бесплатно)"
+
+msgid "Google Maps API for Business"
+msgstr "API Google Maps для бизнеса"
+
+msgid "Google Geocoding API key"
+msgstr "API Google Geocoding API"
+
+#, php-format
+msgid ""
+"The API key for the Google Geocoding service can be obtained from the "
+"following URL: %s"
+msgstr ""
+"Ключ API для службы геокодирования Google можно получить по следующему URL: "
+"%s"
+
+msgid "Google Maps API for Work client ID"
+msgstr "API Google Maps для ИД клиента Work"
+
+#, php-format
+msgid ""
+"Enter the cliend ID provided by Google. Also add the following code to any "
+"line in wp-config.php: %s"
+msgstr ""
+"Введите идентификатор cliend, предостаданный Google. Также добавьте "
+"следующий код в любую строку в wp-config.php: %s"
