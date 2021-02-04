@@ -1,0 +1,103 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Category Image With Grid and Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-14 09:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: includes/admin/class-pciwgas-admin.php:36
+msgid "Category Image"
+msgstr ""
+
+#: includes/admin/settings/settings.php:16
+msgid "Category Image Settings"
+msgstr ""
+
+#: includes/admin/form-field/add-form.php:16
+msgid "Choose Category Image"
+msgstr ""
+
+#: includes/admin/form-field/add-form.php:17
+#: includes/admin/form-field/edit-form.php:26
+msgid "Clear"
+msgstr ""
+
+#: includes/admin/settings/settings.php:53
+msgid "Enable custom image option on selected categories"
+msgstr ""
+
+#: includes/admin/settings/settings.php:95
+msgid "How it Work"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.wponlinesupport.com/plugins"
+msgstr ""
+
+#. Name of the plugin
+msgid "Post Category Image With Grid and Slider"
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "Post Category Image With Grid and Slider - Features"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Post Category Image With Grid and Slider plugin allow users to upload  "
+"category (taxonomy) image and display in grid and slider. Also work with "
+"Gutenberg shortcode block."
+msgstr ""
+
+#: includes/admin/settings/settings.php:74
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/settings/settings.php:45
+msgid "Select categories option"
+msgstr ""
+
+#: includes/admin/class-pciwgas-admin.php:39
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/admin/class-pciwgas-admin.php:39
+msgid "Upgrade to PRO - Post Category Image With Grid and Slider"
+msgstr ""
+
+#: includes/admin/form-field/add-form.php:20
+#: includes/admin/form-field/edit-form.php:29
+msgid "Upload / Choose category image."
+msgstr ""
+
+#: includes/admin/form-field/add-form.php:17
+#: includes/admin/form-field/edit-form.php:24
+#: includes/admin/form-field/edit-form.php:26
+msgid "Upload Image"
+msgstr ""
+
+#: includes/admin/settings/settings.php:103
+msgid "Use the shortcode"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport"
+msgstr ""
+
+#: includes/admin/settings/settings.php:22
+msgid "Your changes saved successfully."
+msgstr ""

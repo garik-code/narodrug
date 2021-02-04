@@ -77,3 +77,7 @@ sh: 1: -t: not found
 sh: 1: -t: not found
 sh: 1: -t: not found
 [Wed Feb 03 23:41:13.056582 2021] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.112.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 03 23:42:24.059083 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Wed Feb 03 23:42:24.059204 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Feb 04 00:26:36.321789 2021] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down

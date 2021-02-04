@@ -1,0 +1,11 @@
+/* Category Image View */
+.pciwgas-img-preview.pciwgas-img-view { height: 100px; width: 100px; }
+.pciwgas-img-view img { height: 100%; width: 100%; }
+
+/* Code copy Text*/
+.pciwgas-shortcode-preview{background-color: #e7e7e7; font-weight: bold; padding: 2px 5px; display: inline-block; margin:0 0 2px 0;}
+.wpos-copy-clipboard{-webkit-touch-callout: all; -webkit-user-select: all; -khtml-user-select: all; -moz-user-select: all; -ms-user-select: all; user-select: all;}
+
+/* Builder Shortcode Preview */
+.pciwgas-builder-shrt-prev{background-color: #e7e7e7; padding: 10px; border: 1px solid #ccc; font-size: 15px;text-align: center;}
+.pciwgas-builder-shrt-title span{border-bottom: 1px solid #999; display: inline-block; padding: 0 0 5px 0;}
