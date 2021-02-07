@@ -16,6 +16,11 @@ git clone https://github.com/garik-code/narodrug.git
 
 > Шаг 3. Откредактировать URL /www/wp-config.php
 
+```
+define( 'WP_HOME', 'http://95.215.111.4' );
+define( 'WP_SITEURL', 'http://95.215.111.4' );
+```
+
 
 > Шаг 4. Запустить проект
 
